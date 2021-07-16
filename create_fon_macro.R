@@ -132,7 +132,7 @@ cpi_canada<-cpidata %>%
   mutate(CPI=CPI/CPI[n()])
 
 # Merge in population, GDP and inflation measures
-histstats<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/Historical Statistics.xlsx",
+histstats<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/Historical Statistics.xlsx",
                       sheet="Macro Data")
 
 # Merge the two GDP series together
@@ -187,7 +187,7 @@ fon_macro_data_long<-fon_macro_data %>%
     Variable=="NationalCPI" ~ paste0("Canada-Wide CPI (",max(fon_macro_data$Year),"=100)"),
     TRUE ~ as.character(Variable)
   ))
-write.csv(fon_macro_data_long,'FON Macro Data.csv',row.names = F)
+write.csv(fon_macro_data_long,'MacroData.csv',row.names = F)
 
 # Fun ExcelFormatting.R after all of the above using table
 table<-fon_macro_data
