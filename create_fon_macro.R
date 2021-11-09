@@ -130,6 +130,7 @@ cpi_canada<-cpidata %>%
   filter(GEO=="Canada") %>%
   select(Year=Ref_Date,CPI=Value) %>%
   mutate(CPI=CPI/CPI[n()])
+cpi_year<-max(cpi_canada$Year)
 
 # Merge in population, GDP and inflation measures
 histstats<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/Historical Statistics.xlsx",
@@ -180,11 +181,11 @@ fon_macro_data_long<-fon_macro_data %>%
   gather(Variable,Value,-Year,-Region) %>%
   mutate(Variable=case_when(
     Variable=="GDP" ~ "Nominal GDP (Millions)",
-    Variable=="rGDP" ~ paste0("Real GDP (Millions, $ ",max(fon_macro_data$Year),")"),
+    Variable=="rGDP" ~ paste0("Real GDP (Millions, $ ",cpi_year,")"),
     Variable=="GDPpc" ~ "Nominal GDP Per Capita ($)",
-    Variable=="rGDPpc" ~ paste0("Real GDP Per Capita ($ ",max(fon_macro_data$Year),")"),
-    Variable=="CPI" ~ paste0("Provincial CPI (",max(fon_macro_data$Year),"=100)"),
-    Variable=="NationalCPI" ~ paste0("Canada-Wide CPI (",max(fon_macro_data$Year),"=100)"),
+    Variable=="rGDPpc" ~ paste0("Real GDP Per Capita ($ ",cpi_year,")"),
+    Variable=="CPI" ~ paste0("Provincial CPI (",cpi_year,"=100)"),
+    Variable=="NationalCPI" ~ paste0("Canada-Wide CPI (",cpi_year,"=100)"),
     TRUE ~ as.character(Variable)
   ))
 write.csv(fon_macro_data_long,'MacroData.csv',row.names = F)
