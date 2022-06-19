@@ -73,6 +73,43 @@ prov_Pop<-popdata %>%
   arrange(GEO,Year) %>%
   spread(GEO,pop)
 
+##################################################################
+# Employment 1946-Present for Canada; 1976-Present for Provinces #
+##################################################################
+
+# Historical Statistics of Canada
+emp_hist<-fread("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/HistoricalEmployment.csv")
+
+#Modern Data
+LFS<-getTABLE("14100327")
+
+#Territorial Modern Data
+LFSterr<-getTABLE("14100292")
+LFSterr_clean<-LFSterr %>%
+  filter(Sex=="Both sexes",
+         Data.type=="Seasonally adjusted",
+         Statistics=="Estimate",
+         Age.group=="15 years and over",
+         Labour.force.characteristics=="Employment") %>%
+  mutate(Year=year(Ref_Date)) %>%
+  group_by(GEO,Year) %>%
+  summarise(Employment=mean(Value)) %>%
+  mutate(Employment=1000*Employment) %>%
+  drop_na()
+
+# Compile the employment data
+emp<-LFS %>%
+  filter(Sex=="Both sexes",
+         Age.group=="15 years and over",
+         Labour.force.characteristics=="Employment") %>%
+  select(Year=Ref_Date,GEO,Employment=Value) %>%
+  rbind(
+    emp_hist %>%
+      mutate(GEO="Canada")
+  ) %>%
+  mutate(Employment=1000*Employment) %>%
+  bind_rows(LFSterr_clean)
+
 ####################################
 # Provincial CPI from 1926-Present #
 ####################################
@@ -169,7 +206,11 @@ fon_macro_data <- canada_macro %>%
   left_join(
     canada_macro %>% select(Year,NationalCPI=CPI),by="Year"
   ) %>%
+  left_join(
+    emp %>% rename(Region=GEO),by=c("Year","Region")
+  ) %>%
   mutate(rGDPpc=(1000000*GDP/Population)/NationalCPI,
+         rGDPwk=(1000000*GDP/Employment)/NationalCPI,
          GDPpc=(1000000*GDP/Population),
          rGDP=GDP/NationalCPI,
          NationalCPI=100*NationalCPI,
@@ -184,11 +225,16 @@ fon_macro_data_long<-fon_macro_data %>%
     Variable=="rGDP" ~ paste0("Real GDP (Millions, $ ",cpi_year,")"),
     Variable=="GDPpc" ~ "Nominal GDP Per Capita ($)",
     Variable=="rGDPpc" ~ paste0("Real GDP Per Capita ($ ",cpi_year,")"),
+    Variable=="rGDPwk" ~ paste0("Real GDP Per Worker ($ ",cpi_year,")"),
     Variable=="CPI" ~ paste0("Provincial CPI (",cpi_year,"=100)"),
     Variable=="NationalCPI" ~ paste0("Canada-Wide CPI (",cpi_year,"=100)"),
     TRUE ~ as.character(Variable)
-  ))
+  )) %>%
+  mutate(`Log Scale`=log(Value))
 write.csv(fon_macro_data_long,'MacroData.csv',row.names = F)
 
 # Fun ExcelFormatting.R after all of the above using table
 table<-fon_macro_data
+
+# Create File for Use in the MacroCleaner that Ayaka wrote
+

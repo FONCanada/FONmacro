@@ -55,6 +55,11 @@ writeData(wb,"Real GDP per Capita (2021 $)",
           table %>% select(Year,Region,Value=rGDPpc) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
+addWorksheet(wb,"Real GDP per Worker (2021 $)")
+writeData(wb,"Real GDP per Worker (2021 $)",
+          table %>% select(Year,Region,Value=rGDPwk) %>%
+            mutate(Region=factor(Region,levels=provnames$GEO)) %>%
+            spread(Region,Value))
 
 # Apply Formatting
 for (s in sheets(wb)){
