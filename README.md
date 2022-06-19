@@ -8,6 +8,11 @@ Population:
 - Provincial, 1867-1971: Tombe (2018)
 - Provincial, 1971-Latest: Statistics Canada data table 17-10-0005-01
 
+Employment:
+- National, 1946-1975: Historical Statistics of Canada series D470-476
+- Provincial and National, 1975-Latest: Statistics Canada data table 14-10-0327
+- Territorial, Latest Available: Statistics Canada data table 14-10-0292
+
 GDP:
 - National, 1870-1961: Òscar Jordà, Moritz Schularick, and Alan M. Taylor. 2017. “Macrofinancial History and the New Business Cycle Facts.” NBER Macroeconomics Annual 2016, volume 31, edited by Martin Eichenbaum and Jonathan A. Parker. Chicago: University of Chicago Press.
 - National, 1961-Latest: Statistics Canada data table 36-10-0104-01
