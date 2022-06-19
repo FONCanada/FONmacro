@@ -1,9 +1,22 @@
 # Finances of the Nation's Main Macroeconomic Database
 
-This repository hosts population, GDP, and inflation data for Canada since confederation and for Canadian provinces and territories as far back as possible.
+We gather, compile, and splice together various data sources to create this database. Relative annual changes are preserved across sources and are consistent with the latest data from Statistics Canada.
 
-National Sources:
+Population:
+- National, 1867-1945: Historical Statistics of Canada series A1-247
+- National, 1945-Latest: Statistics Canada data table 17-10-0009-01
+- Provincial, 1867-1971: Tombe (2018)
+- Provincial, 1971-Latest: Statistics Canada data table 17-10-0005-01
 
-- Historical Population Data from Historical Statistics of Canada series A1-247, https://www150.statcan.gc.ca/n1/pub/11-516-x/sectiona/A1-eng.csv
-- Historical Consumer Price Index and GDP data is from Òscar Jordà, Moritz Schularick, and Alan M. Taylor. 2017. “Macrofinancial History and the New Business Cycle Facts.” in NBER Macroeconomics Annual 2016, volume 31, edited by Martin Eichenbaum and Jonathan A. Parker. Chicago: University of Chicago Press. Available [here](https://www.macrohistory.net/database/)
-- All recent data is from Statistics Canada, including tables 36-10-0229 (GDP), 36-10-0221 (GDP), 36-10-0104 (GDP), 17-10-0009 (Population), 17-10-0005 (Population), and 18-10-0005 (CPI)
+GDP:
+- National, 1870-1961: Òscar Jordà, Moritz Schularick, and Alan M. Taylor. 2017. “Macrofinancial History and the New Business Cycle Facts.” NBER Macroeconomics Annual 2016, volume 31, edited by Martin Eichenbaum and Jonathan A. Parker. Chicago: University of Chicago Press.
+- National, 1961-Latest: Statistics Canada data table 36-10-0104-01
+- Provincial, 1950-1981: Statistics Canada data table 36-10-0229-01
+- Provincial, 1981-Latest: Statistics Canada data table 36-10-0221-01
+- Note: national GDP from 1867-1869 is approximated from population changes relative to 1870
+
+Consumer Prices:
+- National, 1870-1914: Òscar Jordà, Moritz Schularick, and Alan M. Taylor. 2017. “Macrofinancial History and the New Business Cycle Facts.” NBER Macroeconomics Annual 2016, volume 31, edited by Martin Eichenbaum and Jonathan A. Parker. Chicago: University of Chicago Press.
+- National, 1914-Latest: Statistics Canada data table 18-10-0005-01
+- Provincial, 1926-1979: Statistics Canada data table 36-10-0229-01
+- Provincial, 1979-Latest: Statistics Canada data table 18-10-0005-01
