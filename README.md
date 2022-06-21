@@ -4,14 +4,15 @@ We gather, compile, and splice together various data sources to create this data
 
 Population:
 - National, 1867-1945: Historical Statistics of Canada series A1-247
-- National, 1921-1945: Historical Statistics of Canada series D124-133. Note that these earlier years are for employment as of June 1 and are not annual averages.
 - National, 1945-Latest: Statistics Canada data table 17-10-0009-01
 - Provincial, 1867-1971: Tombe (2018)
 - Provincial, 1971-Latest: Statistics Canada data table 17-10-0005-01
 
 Employment:
 - National, 1946-1975: Historical Statistics of Canada series D470-476
-- Provincial and National, 1975-Latest: Statistics Canada data table 14-10-0327
+- National, 1921-1945: Historical Statistics of Canada series D124-133. Note that these earlier years are for employment as of June 1 and are not annual averages.
+- Ontario, Quebec, British Columbia, and Newfoundland and Labrador, 1950-1975: Historical Statistics of Canada series D470-476
+- Alberta, Saskatchewan, Manitoba, Nova Scotia, New Brunswick, and Prince Edward Island, 1950-1975: Imputed from provincial population and unemployment data from Statistics Canada data table 36-10-0229-01 and relative changes in regional participation rates for the Maritimes and Prairie regions estimated from regional employment data in the Historical Statistics of Canada series D470-476. Details available upon request.- Provincial and National, 1975-Latest: Statistics Canada data table 14-10-0327
 - Territorial, Latest Available: Statistics Canada data table 14-10-0292
 
 GDP:
