@@ -30,8 +30,8 @@ writeData(wb,"Population",
           table %>% select(Year,Region,Value=Population) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
-addWorksheet(wb,"CPI (2021=100)")
-writeData(wb,"CPI (2021=100)",
+addWorksheet(wb,"CPI (2020=100)")
+writeData(wb,"CPI (2020=100)",
           table %>% select(Year,Region,Value=CPI) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
@@ -40,8 +40,8 @@ writeData(wb,"Nominal GDP ($M)",
           table %>% select(Year,Region,Value=GDP) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
-addWorksheet(wb,"Real GDP (2021 $M)")
-writeData(wb,"Real GDP (2021 $M)",
+addWorksheet(wb,"Real GDP (2020 $M)")
+writeData(wb,"Real GDP (2020 $M)",
           table %>% select(Year,Region,Value=rGDP) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
@@ -50,13 +50,13 @@ writeData(wb,"Nominal GDP per Capita ($)",
           table %>% select(Year,Region,Value=GDPpc) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
-addWorksheet(wb,"Real GDP per Capita (2021 $)")
-writeData(wb,"Real GDP per Capita (2021 $)",
+addWorksheet(wb,"Real GDP per Capita (2020 $)")
+writeData(wb,"Real GDP per Capita (2020 $)",
           table %>% select(Year,Region,Value=rGDPpc) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
-addWorksheet(wb,"Real GDP per Worker (2021 $)")
-writeData(wb,"Real GDP per Worker (2021 $)",
+addWorksheet(wb,"Real GDP per Worker (2020 $)")
+writeData(wb,"Real GDP per Worker (2020 $)",
           table %>% select(Year,Region,Value=rGDPwk) %>%
             mutate(Region=factor(Region,levels=provnames$GEO)) %>%
             spread(Region,Value))
@@ -74,9 +74,9 @@ for (s in sheets(wb)){
   addStyle(wb,s,align_style,1:(rows+1),1:cols,gridExpand = T,stack = T) # alignment
   addStyle(wb,s,toplabel_style,1,1:cols,gridExpand = T,stack = T) # header
 }
-addStyle(wb,"CPI (2021=100)",number_style,2:(rows+1),2:cols,gridExpand = T) # NUMBER format for CPI
-addStyle(wb,"CPI (2021=100)",align_style,1:(rows+1),1:cols,gridExpand = T,stack = T) # alignment
-addStyle(wb,"CPI (2021=100)",toplabel_style,1,1:cols,gridExpand = T,stack = T) # header
+addStyle(wb,"CPI (2020=100)",number_style,2:(rows+1),2:cols,gridExpand = T) # NUMBER format for CPI
+addStyle(wb,"CPI (2020=100)",align_style,1:(rows+1),1:cols,gridExpand = T,stack = T) # alignment
+addStyle(wb,"CPI (2020=100)",toplabel_style,1,1:cols,gridExpand = T,stack = T) # header
 
 # Save
 saveWorkbook(wb,"FON Macroeconomic Data.xlsx", overwrite = TRUE)

@@ -133,7 +133,7 @@ prov_CPI<-expand.grid(Year=seq(min(cpi26$Year),max(cpidata$Ref_Date)),
   mutate(relcpi=CPIold/weighted.mean(CPIold,Year==1979),
          CPI=ifelse(Year>=1979,CPI,
                     relcpi*weighted.mean(CPI,Year==1979)),
-         CPI=CPI/CPI[n()],
+         CPI=CPI/weighted.mean(CPI,Year==2020), # to match the FON Normalizers
          GEO=factor(GEO,levels=tenprov)) %>%
   select(GEO,Year,CPI) %>%
   arrange(GEO,Year) %>%
@@ -166,8 +166,8 @@ pop_canada<-popqtr %>%
 cpi_canada<-cpidata %>%
   filter(GEO=="Canada") %>%
   select(Year=Ref_Date,CPI=Value) %>%
-  mutate(CPI=CPI/CPI[n()])
-cpi_year<-max(cpi_canada$Year)
+  mutate(CPI=CPI/weighted.mean(CPI,Year==2020)) # to match the FON Normalizers
+cpi_year<-2020
 
 # Merge in population, GDP and inflation measures
 histstats<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/Historical Statistics.xlsx",
