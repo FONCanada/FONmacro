@@ -4,6 +4,7 @@ We gather, compile, and splice together various data sources to create this data
 
 Population:
 - National, 1867-1945: Historical Statistics of Canada series A1-247
+- National, 1921-1945: Historical Statistics of Canada series D124-133. Note that these earlier years are for employment as of June 1 and are not annual averages.
 - National, 1945-Latest: Statistics Canada data table 17-10-0009-01
 - Provincial, 1867-1971: Tombe (2018)
 - Provincial, 1971-Latest: Statistics Canada data table 17-10-0005-01
