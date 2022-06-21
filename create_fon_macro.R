@@ -235,6 +235,24 @@ write.csv(fon_macro_data_long,'MacroData.csv',row.names = F)
 
 # Fun ExcelFormatting.R after all of the above using table
 table<-fon_macro_data
+source('../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/ExcelFormatting.R')
 
-# Create File for Use in the MacroCleaner that Ayaka wrote
+##############
+# Rates Data #
+##############
+
+# Generate Annual Average Interest Rates
+histrates<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/JSTdatasetR5.xlsx",
+                      sheet='Data') %>%
+  filter(country=="Canada") %>%
+  select(Year=year,ltrate)
+yields<-getTABLE("10100122")
+yields_annual<-yields %>%
+  filter(Rates=="Selected Government of Canada benchmark bond yields: long term") %>%
+  mutate(Year=year(Ref_Date)) %>%
+  group_by(Year) %>%
+  summarise(ltrate=mean(Value)) %>%
+  drop_na()
+canada_yields<-histrates %>% filter(Year<=1975) %>%
+  rbind(yields_annual)
 

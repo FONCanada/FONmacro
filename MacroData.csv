@@ -6725,31 +6725,31 @@
 1918,"Canada","Employment",NA,NA
 1919,"Canada","Employment",NA,NA
 1920,"Canada","Employment",NA,NA
-1921,"Canada","Employment",NA,NA
-1922,"Canada","Employment",NA,NA
-1923,"Canada","Employment",NA,NA
-1924,"Canada","Employment",NA,NA
-1925,"Canada","Employment",NA,NA
-1926,"Canada","Employment",NA,NA
-1927,"Canada","Employment",NA,NA
-1928,"Canada","Employment",NA,NA
-1929,"Canada","Employment",NA,NA
-1930,"Canada","Employment",NA,NA
-1931,"Canada","Employment",NA,NA
-1932,"Canada","Employment",NA,NA
-1933,"Canada","Employment",NA,NA
-1934,"Canada","Employment",NA,NA
-1935,"Canada","Employment",NA,NA
-1936,"Canada","Employment",NA,NA
-1937,"Canada","Employment",NA,NA
-1938,"Canada","Employment",NA,NA
-1939,"Canada","Employment",NA,NA
-1940,"Canada","Employment",NA,NA
-1941,"Canada","Employment",NA,NA
-1942,"Canada","Employment",NA,NA
-1943,"Canada","Employment",NA,NA
-1944,"Canada","Employment",NA,NA
-1945,"Canada","Employment",NA,NA
+1921,"Canada","Employment",3121000,14.9536640212529
+1922,"Canada","Employment",3230000,14.9879926951988
+1923,"Canada","Employment",3323000,15.0163785473367
+1924,"Canada","Employment",3344000,15.0226782531867
+1925,"Canada","Employment",3423000,15.0460279175123
+1926,"Canada","Employment",3550000,15.0824581614516
+1927,"Canada","Employment",3690000,15.1211370160167
+1928,"Canada","Employment",3796000,15.149458438712
+1929,"Canada","Employment",3848000,15.1630640907677
+1930,"Canada","Employment",3689000,15.1208659765788
+1931,"Canada","Employment",3670000,15.1157022200308
+1932,"Canada","Employment",3470000,15.059665151923
+1933,"Canada","Employment",3449000,15.053594891919
+1934,"Canada","Employment",3707000,15.1257334821329
+1935,"Canada","Employment",3777000,15.1444406016946
+1936,"Canada","Employment",3895000,15.175204237287
+1937,"Canada","Employment",4115000,15.2301493920933
+1938,"Canada","Employment",4066000,15.2181702731704
+1939,"Canada","Employment",4120000,15.2313637213257
+1940,"Canada","Employment",4184000,15.2467782847269
+1941,"Canada","Employment",4271000,15.2673585498236
+1942,"Canada","Employment",4434000,15.3048126691584
+1943,"Canada","Employment",4491000,15.3175859520699
+1944,"Canada","Employment",4485000,15.316249053475
+1945,"Canada","Employment",4447000,15.3077402694928
 1946,"Canada","Employment",4666000,15.3558127315635
 1947,"Canada","Employment",4832000,15.3907710185968
 1948,"Canada","Employment",4875000,15.3996306624141
@@ -10061,31 +10061,31 @@
 1918,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
 1919,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
 1920,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1921,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1922,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1923,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1924,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1925,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1926,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1927,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1928,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1929,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1930,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1931,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1932,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1933,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1934,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1935,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1936,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1937,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1938,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1939,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1940,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1941,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1942,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1943,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1944,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
-1945,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
+1921,"Canada","Real GDP Per Worker ($ 2020)",18253.0192326697,9.81208578273394
+1922,"Canada","Real GDP Per Worker ($ 2020)",19924.2037145043,9.89969053871952
+1923,"Canada","Real GDP Per Worker ($ 2020)",20836.3519551195,9.94445443040602
+1924,"Canada","Real GDP Per Worker ($ 2020)",20915.9213110118,9.9482659331577
+1925,"Canada","Real GDP Per Worker ($ 2020)",22427.3697323904,10.0180373550291
+1926,"Canada","Real GDP Per Worker ($ 2020)",22886.7030083984,10.038311366242
+1927,"Canada","Real GDP Per Worker ($ 2020)",23158.543800666,10.0501190540913
+1928,"Canada","Real GDP Per Worker ($ 2020)",24491.4156923987,10.1060779552333
+1929,"Canada","Real GDP Per Worker ($ 2020)",24249.3919796697,10.096146823048
+1930,"Canada","Real GDP Per Worker ($ 2020)",23827.1496407203,10.0785809507154
+1931,"Canada","Real GDP Per Worker ($ 2020)",21807.0414286275,9.98998819793667
+1932,"Canada","Real GDP Per Worker ($ 2020)",20493.4964845623,9.92786287013827
+1933,"Canada","Real GDP Per Worker ($ 2020)",19941.0858407413,9.90053749743646
+1934,"Canada","Real GDP Per Worker ($ 2020)",20794.6745378058,9.9424522010714
+1935,"Canada","Real GDP Per Worker ($ 2020)",21813.5178044452,9.99028513937801
+1936,"Canada","Real GDP Per Worker ($ 2020)",22482.4149297479,10.0204887239384
+1937,"Canada","Real GDP Per Worker ($ 2020)",23130.2169388359,10.0488951342924
+1938,"Canada","Real GDP Per Worker ($ 2020)",23547.4245044464,10.0667717305955
+1939,"Canada","Real GDP Per Worker ($ 2020)",24777.1731120805,10.1176780692599
+1940,"Canada","Real GDP Per Worker ($ 2020)",28045.364924834,10.2415786539752
+1941,"Canada","Real GDP Per Worker ($ 2020)",31901.6275302605,10.3704123072289
+1942,"Canada","Real GDP Per Worker ($ 2020)",36788.0445587969,10.5129281952537
+1943,"Canada","Real GDP Per Worker ($ 2020)",38240.2494473215,10.5516438903481
+1944,"Canada","Real GDP Per Worker ($ 2020)",40594.5112430583,10.611388145393
+1945,"Canada","Real GDP Per Worker ($ 2020)",40547.6495878959,10.6102330945565
 1946,"Canada","Real GDP Per Worker ($ 2020)",37892.4519937276,10.542507215398
 1947,"Canada","Real GDP Per Worker ($ 2020)",37855.2632381226,10.5415253043667
 1948,"Canada","Real GDP Per Worker ($ 2020)",38641.7990608796,10.5620898467892
