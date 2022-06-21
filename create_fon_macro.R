@@ -3,6 +3,46 @@ source("../Dropbox/Tweets Data/R/core.R")
 # Load the Historical Long-Run Data from Statistics Canada
 histdata<-getTABLE("36100229")
 
+test<-histdata %>%
+  filter(Long.run.variables %in% c("Household income per capita",
+                                   "Gross domestic product per capita, income based"),
+         Statistical.measures=="Linked data") %>%
+  select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
+  mutate(var=ifelse(var=="Household income per capita","income","gdp")) %>%
+  spread(var,Value) %>%
+  group_by(GEO) %>%
+  mutate(estimate=income*weighted.mean(gdp,Year==1950)/weighted.mean(income,Year==1950))
+# ggplot(test %>% filter(GEO=="Alberta") %>%
+#          gather(var,value,-Year,-GEO),aes(Year,log(value),color=var,group=var))+
+#   geom_line()
+# ratio<-test %>% filter(GEO=="Canada") %>%
+#   mutate(share=income/gdp)
+# plot(ratio$share)
+
+# to merge with historical statistics D470-476 to infer employment
+for_sheet<-histdata %>%
+  filter(Long.run.variables %in% c("Population",
+                                   "Unemployment rate"),
+         Ref_Date<=1976,
+         Statistical.measures=="Linked data") %>%
+  select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
+  mutate(var=ifelse(var=="Population","pop","unemp")) %>%
+  spread(var,Value) %>% drop_na() %>%
+  mutate(region=case_when(
+    GEO %in% c("Alberta","Saskatchewan","Manitoba") ~ "Prairie",
+    GEO=="Ontario" ~ "Ontario",
+    GEO=="Quebec" ~ "Quebec",
+    GEO=="British Columbia" ~ "British Columbia",
+    GEO=="Newfoundland and Labrador" ~ "Newfoundland",
+    GEO %in% c("Prince Edward Island","Nova Scotia","New Brunswick") ~ "Maritimes"
+  )) %>%
+  drop_na() %>%
+  mutate(adjustment=pop*(1-unemp/100)) %>%
+  group_by(region,Year) %>%
+  summarise(adjustment=sum(adjustment)) %>%
+  spread(region,adjustment) %>%
+  arrange(-Year) # copy this to the D470_476 Worksheet
+
 ##################################
 # Nominal Gross Domestic Product #
 ##################################
@@ -109,6 +149,68 @@ emp<-LFS %>%
   ) %>%
   mutate(Employment=1000*Employment) %>%
   bind_rows(LFSterr_clean)
+
+# Historical Employee Data to Project Employment Back to 1961 for Provinces
+# old<-getTABLE("14100264")
+# test<-old %>%
+#   filter(Seasonal.adjustment=="Unadjusted",
+#          GEO!="Yukon and Northwest Territories",
+#          Employees.by.type.of.industry=="Total non-agricultural industries") %>%
+#   mutate(Year=year(Ref_Date)) %>%
+#   group_by(GEO,Year) %>%
+#   summarise(empold=mean(Value)) %>%
+#   left_join(emp,by=c("GEO","Year")) %>%
+#   mutate(ratio=empold/Employment) %>%
+#   group_by(Year) %>%
+#   mutate(ratioCDN=weighted.mean(ratio,GEO=="Canada"),
+#          empoldCDN=weighted.mean(empold,GEO=="Canada"),
+#          empCDN=weighted.mean(Employment,GEO=="Canada")) %>%
+#   group_by(GEO) %>%
+#   mutate(estimate=ratioCDN*weighted.mean(ratio,Year==1976)/weighted.mean(ratioCDN,Year==1976),
+#          share=empold/empoldCDN,
+#          Est1=empold/estimate,
+#          Est2=empCDN*share) %>%
+#   group_by(Year) %>%
+#   mutate(test=ifelse(GEO=="Canada",0,Est1),
+#          test=sum(test),
+#          MainEst=Est1*empCDN/test)
+
+# Create historical employment estimates for the provinces, 1946-1975
+hist_prate<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/D470_476-eng.xlsx",
+                       range="V5:AB32") %>%
+  gather(region,prate,-Year)
+emp_historical<-histdata %>%
+  filter(Long.run.variables %in% c("Population",
+                                   "Unemployment rate"),
+         Ref_Date<=1976,
+         GEO!="Canada",
+         Statistical.measures=="Linked data") %>%
+  select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
+  mutate(var=ifelse(var=="Population","pop","unemp")) %>%
+  spread(var,Value) %>% drop_na() %>%
+  mutate(region=case_when(
+    GEO %in% c("Alberta","Saskatchewan","Manitoba") ~ "Prairie",
+    GEO=="Ontario" ~ "Ontario",
+    GEO=="Quebec" ~ "Quebec",
+    GEO=="British Columbia" ~ "British Columbia",
+    GEO=="Newfoundland and Labrador" ~ "Newfoundland",
+    GEO %in% c("Prince Edward Island","Nova Scotia","New Brunswick") ~ "Maritimes"
+  )) %>%
+  left_join(hist_prate,by=c("region","Year")) %>%
+  left_join(emp,by=c("GEO","Year")) %>%
+  group_by(GEO) %>%
+  mutate(EmpEst=weighted.mean(Employment,Year==1976)*(pop/weighted.mean(pop,Year==1976))*(prate/weighted.mean(prate,Year==1976))*((1-unemp/100)/weighted.mean(1-unemp/100,Year==1976))) %>%
+  group_by(Year) %>%
+  mutate(Total=sum(EmpEst)) %>%
+  left_join(emp %>% filter(GEO=="Canada") %>% select(Year,ActualTotal=Employment),by="Year")
+
+# Append to the main employment data series
+emp<-emp %>%
+  bind_rows(
+    emp_historical %>%
+      filter(Year!=1976) %>%
+      select(Year,GEO,Employment=EmpEst)
+  )
 
 ####################################
 # Provincial CPI from 1926-Present #
