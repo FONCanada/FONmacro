@@ -4,6 +4,9 @@ source("../Dropbox/Tweets Data/R/core.R")
 histdata<-getTABLE("36100229")
 
 # to merge with historical statistics D470-476 to infer employment
+unemp_old<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/Historical Unemployment.xlsx",
+                      sheet='Data',range='O1:X30') %>%
+  gather(GEO,unemp_old,-Year)
 for_sheet<-histdata %>%
   filter(Long.run.variables %in% c("Population",
                                    "Unemployment rate"),
@@ -11,7 +14,10 @@ for_sheet<-histdata %>%
          Statistical.measures=="Linked data") %>%
   select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
   mutate(var=ifelse(var=="Population","pop","unemp")) %>%
-  spread(var,Value) %>% drop_na() %>%
+  spread(var,Value) %>% 
+  left_join(unemp_old,by=c("GEO","Year")) %>%
+  mutate(unemp=ifelse(Year<1950,unemp_old,unemp)) %>%
+  select(-unemp_old) %>%
   mutate(region=case_when(
     GEO %in% c("Alberta","Saskatchewan","Manitoba") ~ "Prairie",
     GEO=="Ontario" ~ "Ontario",
@@ -189,7 +195,7 @@ emp<-LFS %>%
 
 # Create historical employment estimates for the provinces, 1946-1975
 hist_prate<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/D470_476-eng.xlsx",
-                       range="V5:AB32") %>%
+                       range="V5:AB56") %>%
   gather(region,prate,-Year)
 emp_historical<-histdata %>%
   filter(Long.run.variables %in% c("Population",
@@ -199,7 +205,11 @@ emp_historical<-histdata %>%
          Statistical.measures=="Linked data") %>%
   select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
   mutate(var=ifelse(var=="Population","pop","unemp")) %>%
-  spread(var,Value) %>% drop_na() %>%
+  spread(var,Value) %>% 
+  left_join(unemp_old,by=c("GEO","Year")) %>%
+  mutate(unemp=ifelse(Year<1950,unemp_old,unemp)) %>%
+  select(-unemp_old) %>%
+  drop_na() %>%
   mutate(region=case_when(
     GEO %in% c("Alberta","Saskatchewan","Manitoba") ~ "Prairie",
     GEO=="Ontario" ~ "Ontario",
@@ -214,7 +224,8 @@ emp_historical<-histdata %>%
   mutate(EmpEst=weighted.mean(Employment,Year==1976)*(pop/weighted.mean(pop,Year==1976))*(prate/weighted.mean(prate,Year==1976))*((1-unemp/100)/weighted.mean(1-unemp/100,Year==1976))) %>%
   group_by(Year) %>%
   mutate(Total=sum(EmpEst)) %>%
-  left_join(emp %>% filter(GEO=="Canada") %>% select(Year,ActualTotal=Employment),by="Year")
+  left_join(emp %>% filter(GEO=="Canada") %>% select(Year,ActualTotal=Employment),by="Year") %>%
+  ungroup()
 
 # Append to the main employment data series
 emp<-emp %>%
@@ -306,6 +317,37 @@ canada_macro<-data.frame(Year=seq(1867,max(pop_canada$Year))) %>%
                     relcpi*weighted.mean(CPI,Year==min(cpi_canada$Year)))) %>%
   select(Year,GDP,Population,CPI) %>%
   drop_na()
+
+# Adjust the provincial pre-1950 GDP values to be consistent with the national total
+test<-canada_macro %>%
+  left_join(
+    prov_GDP %>%
+      gather(GEO,value,-Year) %>%
+      group_by(Year) %>%
+      drop_na() %>%
+      summarise(allprovGDP=sum(value)),
+    by="Year"
+  ) %>%
+  mutate(rescale=GDP/allprovGDP)
+prov_GDP<-prov_GDP %>%
+  gather(GEO,value,-Year) %>%
+  left_join(test %>% select(Year,rescale),by="Year") %>%
+  mutate(GDP=value*rescale) %>%
+  select(GEO,Year,GDP) %>%
+  spread(GEO,GDP)
+
+# See if the provincial populations are consistent with the national total
+test<-canada_macro %>%
+  left_join(
+    prov_Pop %>%
+      gather(GEO,value,-Year) %>%
+      group_by(Year) %>%
+      drop_na() %>%
+      summarise(allprov=sum(value)),
+    by="Year"
+  ) %>%
+  mutate(rescale=Population/allprov)
+# plot(test$rescale) # this is fine, let it slide: due to NWT I suspect, which is excluded
 
 ######################################
 # Create the Downloadable Data Files #
