@@ -3,22 +3,6 @@ source("../Dropbox/Tweets Data/R/core.R")
 # Load the Historical Long-Run Data from Statistics Canada
 histdata<-getTABLE("36100229")
 
-test<-histdata %>%
-  filter(Long.run.variables %in% c("Household income per capita",
-                                   "Gross domestic product per capita, income based"),
-         Statistical.measures=="Linked data") %>%
-  select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
-  mutate(var=ifelse(var=="Household income per capita","income","gdp")) %>%
-  spread(var,Value) %>%
-  group_by(GEO) %>%
-  mutate(estimate=income*weighted.mean(gdp,Year==1950)/weighted.mean(income,Year==1950))
-# ggplot(test %>% filter(GEO=="Alberta") %>%
-#          gather(var,value,-Year,-GEO),aes(Year,log(value),color=var,group=var))+
-#   geom_line()
-# ratio<-test %>% filter(GEO=="Canada") %>%
-#   mutate(share=income/gdp)
-# plot(ratio$share)
-
 # to merge with historical statistics D470-476 to infer employment
 for_sheet<-histdata %>%
   filter(Long.run.variables %in% c("Population",
@@ -47,8 +31,32 @@ for_sheet<-histdata %>%
 # Nominal Gross Domestic Product #
 ##################################
 
-# Create Provincial Nominal GDP levels from 1950-1980 relative to 1981
-gdp50<-histdata %>%
+# Impute Provincial Nominal GDP levels from 1926-1950
+imputed_gdp<-histdata %>%
+  filter(Long.run.variables %in% c("Household income per capita",
+                                   "Population",
+                                   "Gross domestic product per capita, income based"),
+         Ref_Date<=1975,GEO %in% tenprov,
+         Statistical.measures=="Linked data") %>%
+  select(GEO,Ref_Date,var=Long.run.variables,Value) %>%
+  mutate(var=case_when(
+    var=="Household income per capita" ~ "income",
+    var=="Population" ~ "Pop",
+    var=="Gross domestic product per capita, income based" ~ "GDPpc",
+    TRUE ~ var
+  )) %>%
+  spread(var,Value) %>%
+  group_by(GEO) %>%
+  mutate(estimate=income*weighted.mean(GDPpc,Ref_Date==1950)/weighted.mean(income,Ref_Date==1950),
+         GDP=estimate*Pop)
+# ggplot(imputed_gdp %>% filter(GEO=="British Columbia") %>%
+#          gather(var,value,-Ref_Date,-GEO),aes(Ref_Date,log(value),color=var,group=var))+
+#   geom_line()
+# require(lfe)
+# summary(felm(log(GDPpc)~log(income)|factor(GEO),data=imputed_gdp))
+
+# Create Provincial Nominal GDP levels from 1926-1980 relative to 1981
+gdp_old<-histdata %>%
   filter(Statistical.measures=="Linked data",
          Ref_Date>=1950,Ref_Date<=1981,
          Long.run.variables %in% c("Population",
@@ -58,6 +66,10 @@ gdp50<-histdata %>%
   select(GEO,Ref_Date,Long.run.variables,Value) %>%
   spread(Long.run.variables,Value) %>%
   mutate(GDP=GDPpc*Pop) %>% 
+  bind_rows(
+    imputed_gdp %>% filter(Ref_Date<1950) %>% select(Ref_Date,GEO,GDP,Pop,GDPpc)
+  ) %>%
+  arrange(GEO,Ref_Date) %>%
   group_by(GEO) %>%
   mutate(relGDP=GDP/GDP[n()]) %>%
   select(Ref_Date,GEO,relGDP)
@@ -70,8 +82,8 @@ gdp81<-gdp81data %>%
 
 # Merge the two GDP series together
 prov_GDP<-CJ(GEO=unique(gdp81$GEO),
-               Ref_Date=seq(1950,max(gdp81$Ref_Date))) %>%
-  left_join(gdp50,by=c("Ref_Date","GEO")) %>%
+               Ref_Date=seq(1926,max(gdp81$Ref_Date))) %>%
+  left_join(gdp_old,by=c("Ref_Date","GEO")) %>%
   left_join(gdp81,by=c("Ref_Date","GEO")) %>%
   group_by(GEO) %>%
   mutate(GDP=ifelse(Ref_Date>=1981,Value,
