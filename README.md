@@ -9,8 +9,8 @@ Population:
 - Provincial, 1971-Latest: Statistics Canada data table 17-10-0005-01
 
 Employment:
-- National, 1946-1975: Historical Statistics of Canada series D470-476
 - National, 1921-1945: Historical Statistics of Canada series D124-133. Note that these earlier years are for employment as of June 1 and are not annual averages.
+- National, 1946-1975: Historical Statistics of Canada series D470-476
 - Ontario, Quebec, British Columbia, and Newfoundland and Labrador, 1950-1975: Historical Statistics of Canada series D470-476
 - Alberta, Saskatchewan, Manitoba, Nova Scotia, New Brunswick, and Prince Edward Island, 1950-1975: Imputed from provincial population and unemployment data from Statistics Canada data table 36-10-0229-01 and relative changes in regional participation rates for the Maritimes and Prairie regions estimated from regional employment data in the Historical Statistics of Canada series D470-476. Details available upon request.- Provincial and National, 1975-Latest: Statistics Canada data table 14-10-0327
 - Territorial, Latest Available: Statistics Canada data table 14-10-0292
@@ -18,6 +18,7 @@ Employment:
 GDP:
 - National, 1870-1961: Òscar Jordà, Moritz Schularick, and Alan M. Taylor. 2017. “Macrofinancial History and the New Business Cycle Facts.” NBER Macroeconomics Annual 2016, volume 31, edited by Martin Eichenbaum and Jonathan A. Parker. Chicago: University of Chicago Press.
 - National, 1961-Latest: Statistics Canada data table 36-10-0104-01
+- Provincial, 1926-1949: Imputed from the relationship between GDP per capita and household income per capita between 1950 and 1975, as reported in Statistics Canada data table 36-10-0229-01.
 - Provincial, 1950-1981: Statistics Canada data table 36-10-0229-01
 - Provincial, 1981-Latest: Statistics Canada data table 36-10-0221-01
 - Note: national GDP from 1867-1869 is approximated from population changes relative to 1870
