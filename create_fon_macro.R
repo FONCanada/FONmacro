@@ -1,37 +1,7 @@
 source("../Dropbox/Tweets Data/R/core.R")
 
-# Load the Historical Long-Run Data from Statistics Canada
+# Load the Historical Long-Run Data from Statistics Canada - Brown and MacDonald
 histdata<-getTABLE("36100229")
-
-# to merge with historical statistics D470-476 to infer employment
-unemp_old<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/Historical Unemployment.xlsx",
-                      sheet='Data',range='O1:X30') %>%
-  gather(GEO,unemp_old,-Year)
-for_sheet<-histdata %>%
-  filter(Long.run.variables %in% c("Population",
-                                   "Unemployment rate"),
-         Ref_Date<=1976,
-         Statistical.measures=="Linked data") %>%
-  select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
-  mutate(var=ifelse(var=="Population","pop","unemp")) %>%
-  spread(var,Value) %>% 
-  left_join(unemp_old,by=c("GEO","Year")) %>%
-  mutate(unemp=ifelse(Year<1950,unemp_old,unemp)) %>%
-  select(-unemp_old) %>%
-  mutate(region=case_when(
-    GEO %in% c("Alberta","Saskatchewan","Manitoba") ~ "Prairie",
-    GEO=="Ontario" ~ "Ontario",
-    GEO=="Quebec" ~ "Quebec",
-    GEO=="British Columbia" ~ "British Columbia",
-    GEO=="Newfoundland and Labrador" ~ "Newfoundland",
-    GEO %in% c("Prince Edward Island","Nova Scotia","New Brunswick") ~ "Maritimes"
-  )) %>%
-  drop_na() %>%
-  mutate(adjustment=pop*(1-unemp/100)) %>%
-  group_by(region,Year) %>%
-  summarise(adjustment=sum(adjustment)) %>%
-  spread(region,adjustment) %>%
-  arrange(-Year) # copy this to the D470_476 Worksheet
 
 ##################################
 # Nominal Gross Domestic Product #
@@ -135,6 +105,40 @@ prov_Pop<-popdata %>%
 # Employment 1946-Present for Canada; 1976-Present for Provinces #
 ##################################################################
 
+# to merge with historical statistics D470-476 to infer employment
+unemp_old<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/Historical Unemployment.xlsx",
+                      sheet='ILD Data',range='P1:Y32') %>%
+  gather(GEO,unemp_old,-Year)
+for_sheet<-prov_Pop %>%
+  gather(GEO,pop,-Year) %>%
+  filter(Year>=1921,Year<=1976) %>%
+  mutate(pop=pop/1000) %>%
+  left_join(
+    histdata %>%
+      filter(Long.run.variables=="Unemployment rate",
+             Ref_Date<=1976,
+             Statistical.measures=="Linked data") %>%
+      select(GEO,Year=Ref_Date,unemp=Value),
+    by=c("GEO","Year")
+  ) %>%
+  left_join(unemp_old,by=c("GEO","Year")) %>%
+  mutate(unemp=ifelse(Year<1950,unemp_old,unemp)) %>%
+  select(-unemp_old) %>%
+  mutate(region=case_when(
+    GEO %in% c("Alberta","Saskatchewan","Manitoba") ~ "Prairie",
+    GEO=="Ontario" ~ "Ontario",
+    GEO=="Quebec" ~ "Quebec",
+    GEO=="British Columbia" ~ "British Columbia",
+    GEO=="Newfoundland and Labrador" ~ "Newfoundland",
+    GEO %in% c("Prince Edward Island","Nova Scotia","New Brunswick") ~ "Maritimes"
+  )) %>%
+  drop_na() %>%
+  mutate(adjustment=pop*(1-unemp/100)) %>%
+  group_by(region,Year) %>%
+  summarise(adjustment=sum(adjustment)) %>%
+  spread(region,adjustment) %>%
+  arrange(-Year) # copy this to the D470_476 Worksheet
+
 # Historical Statistics of Canada
 emp_hist<-fread("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/HistoricalEmployment.csv")
 
@@ -195,17 +199,20 @@ emp<-LFS %>%
 
 # Create historical employment estimates for the provinces, 1946-1975
 hist_prate<-read_excel("../Dropbox/Outside Work and Policy/Finances of the Nation/Data/MacroData/D470_476-eng.xlsx",
-                       range="V5:AB56") %>%
+                       range="V5:AB61") %>%
   gather(region,prate,-Year)
-emp_historical<-histdata %>%
-  filter(Long.run.variables %in% c("Population",
-                                   "Unemployment rate"),
-         Ref_Date<=1976,
-         GEO!="Canada",
-         Statistical.measures=="Linked data") %>%
-  select(GEO,Year=Ref_Date,var=Long.run.variables,Value) %>%
-  mutate(var=ifelse(var=="Population","pop","unemp")) %>%
-  spread(var,Value) %>% 
+emp_historical<-prov_Pop %>%
+  gather(GEO,pop,-Year) %>%
+  filter(Year>=1921,Year<=1976) %>%
+  mutate(pop=pop/1000) %>%
+  left_join(
+    histdata %>%
+      filter(Long.run.variables=="Unemployment rate",
+             Ref_Date<=1976,
+             Statistical.measures=="Linked data") %>%
+      select(GEO,Year=Ref_Date,unemp=Value),
+    by=c("GEO","Year")
+  ) %>% 
   left_join(unemp_old,by=c("GEO","Year")) %>%
   mutate(unemp=ifelse(Year<1950,unemp_old,unemp)) %>%
   select(-unemp_old) %>%
