@@ -2123,8 +2123,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2,11.2968076525416
 2018,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1,355631.451254974
 2018,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2,12.7816502243097
-2019,Alberta,AB,48,Nominal GDP (Millions),1,linear,1,351511.884238208
-2019,Alberta,AB,48,Nominal GDP (Millions),1,log,2,12.7699987997273
+2019,Alberta,AB,48,Nominal GDP (Millions),1,linear,1,351889.175113966
+2019,Alberta,AB,48,Nominal GDP (Millions),1,log,2,12.7710715615804
 2019,Alberta,AB,48,Population,2,linear,1,4362576
 2019,Alberta,AB,48,Population,2,log,2,15.2885732665445
 2019,Alberta,AB,48,Provincial CPI (2020=100),3,linear,1,98.8942639944713
@@ -2133,50 +2133,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Alberta,AB,48,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Alberta,AB,48,Employment,5,linear,1,2279300
 2019,Alberta,AB,48,Employment,5,log,2,14.6393789362472
-2019,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,linear,1,81166.8451038656
-2019,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,log,2,11.3042621312392
-2019,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,linear,1,155353.191965008
-2019,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,log,2,11.9534564615365
-2019,Alberta,AB,48,Nominal GDP Per Capita ($),8,linear,1,80574.3863804798
-2019,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2,11.2969360911471
-2019,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1,354096.530445842
-2019,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2,12.7773248398194
-2020,Alberta,AB,48,Nominal GDP (Millions),1,linear,1,294923.579766579
-2020,Alberta,AB,48,Nominal GDP (Millions),1,log,2,12.5944715501236
-2020,Alberta,AB,48,Population,2,linear,1,4420029
-2020,Alberta,AB,48,Population,2,log,2,15.3016568151183
+2019,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,linear,1,81253.9645198653
+2019,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,log,2,11.3053348930922
+2019,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,linear,1,155519.938366698
+2019,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,log,2,11.9545292233895
+2019,Alberta,AB,48,Nominal GDP Per Capita ($),8,linear,1,80660.8698883334
+2019,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2,11.2980088530002
+2019,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1,354476.595519216
+2019,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2,12.7783976016725
+2020,Alberta,AB,48,Nominal GDP (Millions),1,linear,1,296385.582720642
+2020,Alberta,AB,48,Nominal GDP (Millions),1,log,2,12.5994165299277
+2020,Alberta,AB,48,Population,2,linear,1,4416682
+2020,Alberta,AB,48,Population,2,log,2,15.3008992934205
 2020,Alberta,AB,48,Provincial CPI (2020=100),3,linear,1,100
 2020,Alberta,AB,48,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Alberta,AB,48,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Alberta,AB,48,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Alberta,AB,48,Employment,5,linear,1,2129800
 2020,Alberta,AB,48,Employment,5,log,2,14.5715386365634
-2020,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,linear,1,66724.3540181703
-2020,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,log,2,11.1083252929695
-2020,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,linear,1,138474.776864766
-2020,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,log,2,11.8384434715244
-2020,Alberta,AB,48,Nominal GDP Per Capita ($),8,linear,1,66724.3540181703
-2020,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2,11.1083252929695
-2020,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1,294923.579766579
-2020,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2,12.5944715501236
-2021,Alberta,AB,48,Nominal GDP (Millions),1,linear,1, 
-2021,Alberta,AB,48,Nominal GDP (Millions),1,log,2, 
-2021,Alberta,AB,48,Population,2,linear,1,4442879
-2021,Alberta,AB,48,Population,2,log,2,15.3068131476962
+2020,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,linear,1,67105.9367010444
+2020,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,log,2,11.1140277944715
+2020,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,linear,1,139161.227683652
+2020,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,log,2,11.8433884513285
+2020,Alberta,AB,48,Nominal GDP Per Capita ($),8,linear,1,67105.9367010444
+2020,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2,11.1140277944715
+2020,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1,296385.582720642
+2020,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2,12.5994165299277
+2021,Alberta,AB,48,Nominal GDP (Millions),1,linear,1,372141.169216187
+2021,Alberta,AB,48,Nominal GDP (Millions),1,log,2,12.8270285484085
+2021,Alberta,AB,48,Population,2,linear,1,4443773
+2021,Alberta,AB,48,Population,2,log,2,15.307014348329
 2021,Alberta,AB,48,Provincial CPI (2020=100),3,linear,1,103.178991015895
 2021,Alberta,AB,48,Provincial CPI (2020=100),3,log,2,4.6364652568958
 2021,Alberta,AB,48,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Alberta,AB,48,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Alberta,AB,48,Employment,5,linear,1,2239200
 2021,Alberta,AB,48,Employment,5,log,2,14.6216292171834
-2021,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Alberta,AB,48,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2, 
-2021,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,linear,1,81023.9041120833
+2021,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,log,2,11.3024995026123
+2021,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,linear,1,160794.854165713
+2021,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,log,2,11.9878846337579
+2021,Alberta,AB,48,Nominal GDP Per Capita ($),8,linear,1,83744.4147611021
+2021,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2,11.3355247580438
+2021,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1,360051.837447865
+2021,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2,12.794003292977
+2022,Alberta,AB,48,Nominal GDP (Millions),1,linear,1, 
+2022,Alberta,AB,48,Nominal GDP (Millions),1,log,2, 
+2022,Alberta,AB,48,Population,2,linear,1,4543111
+2022,Alberta,AB,48,Population,2,log,2,15.329122577637
+2022,Alberta,AB,48,Provincial CPI (2020=100),3,linear,1, 
+2022,Alberta,AB,48,Provincial CPI (2020=100),3,log,2, 
+2022,Alberta,AB,48,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Alberta,AB,48,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Alberta,AB,48,Employment,5,linear,1, 
+2022,Alberta,AB,48,Employment,5,log,2, 
+2022,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Alberta,AB,48,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Alberta,AB,48,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Alberta,AB,48,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Alberta,AB,48,Nominal GDP Per Capita ($),8,log,2, 
+2022,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Alberta,AB,48,"Real GDP (Millions, $ 2020)",9,log,2, 
 1867,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1, 
 1867,British Columbia,BC,59,Nominal GDP (Millions),1,log,2, 
 1867,British Columbia,BC,59,Population,2,linear,1,32000
@@ -4913,8 +4931,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2,10.9916405493488
 2018,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1,305529.086409808
 2018,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2,12.6298002622591
-2019,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1,311086.752108431
-2019,British Columbia,BC,59,Nominal GDP (Millions),1,log,2,12.6478270979495
+2019,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1,308798.338836304
+2019,British Columbia,BC,59,Nominal GDP (Millions),1,log,2,12.6404437177022
 2019,British Columbia,BC,59,Population,2,linear,1,5094796
 2019,British Columbia,BC,59,Population,2,log,2,15.4437301845832
 2019,British Columbia,BC,59,Provincial CPI (2020=100),3,linear,1,99.2447129909366
@@ -4923,50 +4941,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,British Columbia,BC,59,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,British Columbia,BC,59,Employment,5,linear,1,2666400
 2019,British Columbia,BC,59,Employment,5,log,2,14.7962398059757
-2019,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,linear,1,61508.6756559955
-2019,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,log,2,11.0269335114227
-2019,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,linear,1,117527.060717621
-2019,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,log,2,11.6744238900302
-2019,British Columbia,BC,59,Nominal GDP Per Capita ($),8,linear,1,61059.7072205503
-2019,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2,11.0196074713306
-2019,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1,313374.154697463
-2019,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2,12.6551531380416
-2020,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1,309437.775707239
-2020,British Columbia,BC,59,Nominal GDP (Millions),1,log,2,12.6425123030983
-2020,British Columbia,BC,59,Population,2,linear,1,5158728
-2020,British Columbia,BC,59,Population,2,log,2,15.4562005954409
+2019,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,linear,1,61056.2061478337
+2019,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,log,2,11.0195501311753
+2019,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,linear,1,116662.509322367
+2019,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,log,2,11.6670405097829
+2019,British Columbia,BC,59,Nominal GDP Per Capita ($),8,linear,1,60610.5404095284
+2019,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2,11.0122240910832
+2019,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1,311068.914857159
+2019,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2,12.6477697577942
+2020,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1,306640.326879801
+2020,British Columbia,BC,59,Nominal GDP (Millions),1,log,2,12.633430766059
+2020,British Columbia,BC,59,Population,2,linear,1,5155495
+2020,British Columbia,BC,59,Population,2,log,2,15.4555736941016
 2020,British Columbia,BC,59,Provincial CPI (2020=100),3,linear,1,100
 2020,British Columbia,BC,59,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,British Columbia,BC,59,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,British Columbia,BC,59,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,British Columbia,BC,59,Employment,5,linear,1,2491100
 2020,British Columbia,BC,59,Employment,5,log,2,14.7282349379588
-2020,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,linear,1,59983.347776281
-2020,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,log,2,11.0018222656217
-2020,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,linear,1,124217.323956179
-2020,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,log,2,11.7297879231037
-2020,British Columbia,BC,59,Nominal GDP Per Capita ($),8,linear,1,59983.347776281
-2020,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2,11.0018222656217
-2020,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1,309437.775707239
-2020,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2,12.6425123030983
-2021,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1, 
-2021,British Columbia,BC,59,Nominal GDP (Millions),1,log,2, 
-2021,British Columbia,BC,59,Population,2,linear,1,5214805
-2021,British Columbia,BC,59,Population,2,log,2,15.4670122535798
+2020,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,linear,1,59478.3482245256
+2020,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,log,2,10.9933676299216
+2020,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,linear,1,123094.346625908
+2020,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,log,2,11.7207063860644
+2020,British Columbia,BC,59,Nominal GDP Per Capita ($),8,linear,1,59478.3482245256
+2020,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2,10.9933676299216
+2020,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1,306640.326879801
+2020,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2,12.633430766059
+2021,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1,348402.743079465
+2021,British Columbia,BC,59,Nominal GDP (Millions),1,log,2,12.7611143972919
+2021,British Columbia,BC,59,Population,2,linear,1,5202378
+2021,British Columbia,BC,59,Population,2,log,2,15.4646263867107
 2021,British Columbia,BC,59,Provincial CPI (2020=100),3,linear,1,102.794561933535
 2021,British Columbia,BC,59,Provincial CPI (2020=100),3,log,2,4.6327324521426
 2021,British Columbia,BC,59,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,British Columbia,BC,59,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,British Columbia,BC,59,Employment,5,linear,1,2655700
 2021,British Columbia,BC,59,Employment,5,log,2,14.7922188313917
-2021,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,British Columbia,BC,59,Nominal GDP Per Capita ($),8,linear,1, 
-2021,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2, 
-2021,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,linear,1,64794.3257625804
+2021,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,log,2,11.078973313114
+2021,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,linear,1,126928.70989648
+2021,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,log,2,11.751380868433
+2021,British Columbia,BC,59,Nominal GDP Per Capita ($),8,linear,1,66969.9016640977
+2021,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2,11.1119985685455
+2021,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1,337084.574872082
+2021,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2,12.7280891418604
+2022,British Columbia,BC,59,Nominal GDP (Millions),1,linear,1, 
+2022,British Columbia,BC,59,Nominal GDP (Millions),1,log,2, 
+2022,British Columbia,BC,59,Population,2,linear,1,5319324
+2022,British Columbia,BC,59,Population,2,log,2,15.4868567855749
+2022,British Columbia,BC,59,Provincial CPI (2020=100),3,linear,1, 
+2022,British Columbia,BC,59,Provincial CPI (2020=100),3,log,2, 
+2022,British Columbia,BC,59,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,British Columbia,BC,59,Canada-Wide CPI (2020=100),4,log,2, 
+2022,British Columbia,BC,59,Employment,5,linear,1, 
+2022,British Columbia,BC,59,Employment,5,log,2, 
+2022,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,British Columbia,BC,59,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,British Columbia,BC,59,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,British Columbia,BC,59,Nominal GDP Per Capita ($),8,linear,1, 
+2022,British Columbia,BC,59,Nominal GDP Per Capita ($),8,log,2, 
+2022,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,British Columbia,BC,59,"Real GDP (Millions, $ 2020)",9,log,2, 
 1867,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,373.028175947337
 1867,Canada,NAT,99,Nominal GDP (Millions),1,log,2,5.92165395552372
 1867,Canada,NAT,99,Population,2,linear,1,3460887.04035145
@@ -7705,56 +7741,56 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,14.6466825462024
 2019,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,2311294
 2019,Canada,NAT,99,Nominal GDP (Millions),1,log,2,14.6533180988197
-2019,Canada,NAT,99,Population,2,linear,1,37540202.5
-2019,Canada,NAT,99,Population,2,log,2,17.4409229833542
+2019,Canada,NAT,99,Population,2,linear,1,37539862.25
+2019,Canada,NAT,99,Population,2,log,2,17.4409139196966
 2019,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,99.2700729927007
 2019,Canada,NAT,99,Provincial CPI (2020=100),3,log,2,4.59784414589602
 2019,Canada,NAT,99,Canada-Wide CPI (2020=100),4,linear,1,99.2700729927007
 2019,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Canada,NAT,99,Employment,5,linear,1,18985600
 2019,Canada,NAT,99,Employment,5,log,2,16.7591913550465
-2019,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,62021.2106960139
-2019,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,11.0352317135219
+2019,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,62021.7728375796
+2019,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,11.0352407771795
 2019,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,122634.460265861
 2019,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.7169633418296
-2019,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,61568.5011288898
-2019,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,11.0279056734298
+2019,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,61569.0591672323
+2019,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,11.0279147370874
 2019,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,2328288.80882353
 2019,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,14.6606441389118
 2020,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,2206764
 2020,Canada,NAT,99,Nominal GDP (Millions),1,log,2,14.6070377470336
-2020,Canada,NAT,99,Population,2,linear,1,37994718.25
-2020,Canada,NAT,99,Population,2,log,2,17.4529577146091
+2020,Canada,NAT,99,Population,2,linear,1,37977349.25
+2020,Canada,NAT,99,Population,2,log,2,17.4525004676005
 2020,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,100
 2020,Canada,NAT,99,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Canada,NAT,99,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Canada,NAT,99,Employment,5,linear,1,17999200
 2020,Canada,NAT,99,Employment,5,log,2,16.7058378704283
-2020,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,58080.8096925419
-2020,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.9695905903888
+2020,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,58107.3730415769
+2020,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.9700478373974
 2020,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,122603.44904218
 2020,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.7167104345696
-2020,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,58080.8096925419
-2020,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,10.9695905903888
+2020,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,58107.3730415769
+2020,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,10.9700478373974
 2020,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,2206764
 2020,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,14.6070377470336
 2021,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,2493129
 2021,Canada,NAT,99,Nominal GDP (Millions),1,log,2,14.7290491060527
-2021,Canada,NAT,99,Population,2,linear,1,38226159.5
-2021,Canada,NAT,99,Population,2,log,2,17.4590306428707
+2021,Canada,NAT,99,Population,2,linear,1,38205198.5
+2021,Canada,NAT,99,Population,2,log,2,17.4584821507053
 2021,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,103.357664233577
 2021,Canada,NAT,99,Provincial CPI (2020=100),3,log,2,4.63819544141959
 2021,Canada,NAT,99,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Canada,NAT,99,Employment,5,linear,1,18865400
 2021,Canada,NAT,99,Employment,5,log,2,16.7528401144423
-2021,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,63101.7489786396
-2021,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,11.0525037657147
+2021,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,63136.3692871911
+2021,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,11.0530522578801
 2021,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,127860.396343912
 2021,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.7586942941432
-2021,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,65220.4938348567
-2021,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,11.0855290211462
+2021,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,65256.276577126
+2021,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,11.0860775133116
 2021,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,2412137.52118644
 2021,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,14.6960238506212
 1867,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1, 
@@ -10493,8 +10529,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2,10.9014677288779
 2018,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1,75379.5667941991
 2018,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2,11.2302915198452
-2019,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1,73925.843567111
-2019,Manitoba,MB,46,Nominal GDP (Millions),1,log,2,11.2108177557764
+2019,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1,74578.9866890124
+2019,Manitoba,MB,46,Nominal GDP (Millions),1,log,2,11.2196140667407
 2019,Manitoba,MB,46,Population,2,linear,1,1369954
 2019,Manitoba,MB,46,Population,2,log,2,14.1302877205983
 2019,Manitoba,MB,46,Provincial CPI (2020=100),3,linear,1,99.4909090909091
@@ -10503,50 +10539,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Manitoba,MB,46,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Manitoba,MB,46,Employment,5,linear,1,655400
 2019,Manitoba,MB,46,Employment,5,log,2,13.3930010152469
-2019,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,linear,1,54359.0631118132
-2019,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,log,2,10.9033666332345
-2019,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,linear,1,113624.375871652
-2019,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,log,2,11.6406533385859
-2019,Manitoba,MB,46,Nominal GDP Per Capita ($),8,linear,1,53962.2816292452
-2019,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2,10.8960405931425
-2019,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1,74469.4159462809
-2019,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2,11.2181437958685
-2020,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1,72875.0885713068
-2020,Manitoba,MB,46,Nominal GDP (Millions),1,log,2,11.1965021390388
-2020,Manitoba,MB,46,Population,2,linear,1,1380648
-2020,Manitoba,MB,46,Population,2,log,2,14.1380635121395
+2019,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,linear,1,54839.3315331299
+2019,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,log,2,10.9121629441988
+2019,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,linear,1,114628.259980374
+2019,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,log,2,11.6494496495502
+2019,Manitoba,MB,46,Nominal GDP Per Capita ($),8,linear,1,54439.0444416472
+2019,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2,10.9048369041067
+2019,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1,75127.3615911374
+2019,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2,11.2269401068328
+2020,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1,73561.4307023496
+2020,Manitoba,MB,46,Nominal GDP (Millions),1,log,2,11.2058761279901
+2020,Manitoba,MB,46,Population,2,linear,1,1379888
+2020,Manitoba,MB,46,Population,2,log,2,14.1375128944195
 2020,Manitoba,MB,46,Provincial CPI (2020=100),3,linear,1,100
 2020,Manitoba,MB,46,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Manitoba,MB,46,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Manitoba,MB,46,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Manitoba,MB,46,Employment,5,linear,1,630900
 2020,Manitoba,MB,46,Employment,5,log,2,13.3549026503589
-2020,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,linear,1,52783.2500183297
-2020,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,log,2,10.8739491848635
-2020,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,linear,1,115509.729864173
-2020,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,log,2,11.6571100466441
-2020,Manitoba,MB,46,Nominal GDP Per Capita ($),8,linear,1,52783.2500183297
-2020,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2,10.8739491848635
-2020,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1,72875.0885713068
-2020,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2,11.1965021390388
-2021,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1, 
-2021,Manitoba,MB,46,Nominal GDP (Millions),1,log,2, 
-2021,Manitoba,MB,46,Population,2,linear,1,1383765
-2021,Manitoba,MB,46,Population,2,log,2,14.1403186030546
+2020,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,linear,1,53309.711152173
+2020,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,log,2,10.8838737915349
+2020,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,linear,1,116597.607707005
+2020,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,log,2,11.6664840355955
+2020,Manitoba,MB,46,Nominal GDP Per Capita ($),8,linear,1,53309.711152173
+2020,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2,10.8838737915349
+2020,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1,73561.4307023496
+2020,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2,11.2058761279901
+2021,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1,79334.1222454379
+2021,Manitoba,MB,46,Nominal GDP (Millions),1,log,2,11.2814236082063
+2021,Manitoba,MB,46,Population,2,linear,1,1391979
+2021,Manitoba,MB,46,Population,2,log,2,14.1462370335558
 2021,Manitoba,MB,46,Provincial CPI (2020=100),3,linear,1,103.272727272727
 2021,Manitoba,MB,46,Provincial CPI (2020=100),3,log,2,4.63737332648273
 2021,Manitoba,MB,46,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Manitoba,MB,46,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Manitoba,MB,46,Employment,5,linear,1,653300
 2021,Manitoba,MB,46,Employment,5,log,2,13.3897917208288
-2021,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Manitoba,MB,46,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2, 
-2021,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,linear,1,55142.2714070478
+2021,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,log,2,10.9176718771833
+2021,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,linear,1,117491.020681021
+2021,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,log,2,11.6741171899102
+2021,Manitoba,MB,46,Nominal GDP Per Capita ($),8,linear,1,56993.763731664
+2021,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2,10.9506971326148
+2021,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1,76756.883810911
+2021,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2,11.2483983527748
+2022,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1, 
+2022,Manitoba,MB,46,Nominal GDP (Millions),1,log,2, 
+2022,Manitoba,MB,46,Population,2,linear,1,1409223
+2022,Manitoba,MB,46,Population,2,log,2,14.1585490466331
+2022,Manitoba,MB,46,Provincial CPI (2020=100),3,linear,1, 
+2022,Manitoba,MB,46,Provincial CPI (2020=100),3,log,2, 
+2022,Manitoba,MB,46,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Manitoba,MB,46,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Manitoba,MB,46,Employment,5,linear,1, 
+2022,Manitoba,MB,46,Employment,5,log,2, 
+2022,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Manitoba,MB,46,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Manitoba,MB,46,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Manitoba,MB,46,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Manitoba,MB,46,Nominal GDP Per Capita ($),8,log,2, 
+2022,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Manitoba,MB,46,"Real GDP (Millions, $ 2020)",9,log,2, 
 1867,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1, 
 1867,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2, 
 1867,New Brunswick,NB,13,Population,2,linear,1,271000
@@ -13283,8 +13337,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2,10.784273358659
 2018,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1,38174.6980174842
 2018,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2,10.5499282195771
-2019,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1,38046.3005194578
-2019,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2,10.5465591317419
+2019,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1,38033.0246351639
+2019,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2,10.5462101306328
 2019,New Brunswick,NB,13,Population,2,linear,1,777128
 2019,New Brunswick,NB,13,Population,2,log,2,13.563360351947
 2019,New Brunswick,NB,13,Provincial CPI (2020=100),3,linear,1,99.7803806734993
@@ -13293,50 +13347,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,New Brunswick,NB,13,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,New Brunswick,NB,13,Employment,5,linear,1,361100
 2019,New Brunswick,NB,13,Employment,5,log,2,12.7969102072655
-2019,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,linear,1,49317.5548032753
-2019,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,log,2,10.8060353778513
-2019,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,linear,1,106136.950233065
-2019,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,log,2,11.5724855225327
-2019,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,linear,1,48957.5726514266
-2019,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2,10.7987093377592
-2019,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1,38326.0527291597
-2019,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2,10.553885171834
-2020,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1,37568.4491385665
-2020,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2,10.5339198584657
-2020,New Brunswick,NB,13,Population,2,linear,1,783204
-2020,New Brunswick,NB,13,Population,2,log,2,13.5711484774377
+2019,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,linear,1,49300.3459250851
+2019,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,log,2,10.8056863767422
+2019,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,linear,1,106099.914782801
+2019,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,log,2,11.5721365214236
+2019,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,linear,1,48940.4893854859
+2019,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2,10.7983603366501
+2019,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1,38312.6792280695
+2019,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2,10.5535361707249
+2020,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1,37407.5884110747
+2020,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2,10.5296288615133
+2020,New Brunswick,NB,13,Population,2,linear,1,782996
+2020,New Brunswick,NB,13,Population,2,log,2,13.5708828664031
 2020,New Brunswick,NB,13,Provincial CPI (2020=100),3,linear,1,100
 2020,New Brunswick,NB,13,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,New Brunswick,NB,13,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,New Brunswick,NB,13,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,New Brunswick,NB,13,Employment,5,linear,1,351600
 2020,New Brunswick,NB,13,Employment,5,log,2,12.7702494447932
-2020,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,linear,1,47967.6420684349
-2020,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,log,2,10.7782819389923
-2020,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,linear,1,106849.969108551
-2020,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,log,2,11.5791809716368
-2020,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,linear,1,47967.6420684349
-2020,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2,10.7782819389923
-2020,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1,37568.4491385665
-2020,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2,10.5339198584657
-2021,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1, 
-2021,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2, 
-2021,New Brunswick,NB,13,Population,2,linear,1,789225
-2021,New Brunswick,NB,13,Population,2,log,2,13.5788067302771
+2020,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,linear,1,47774.9419040131
+2020,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,log,2,10.7742565530745
+2020,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,linear,1,106392.458507038
+2020,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,log,2,11.5748899746844
+2020,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,linear,1,47774.9419040131
+2020,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2,10.7742565530745
+2020,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1,37407.5884110747
+2020,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2,10.5296288615133
+2021,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1,42341.211521828
+2021,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2,10.6535161583992
+2021,New Brunswick,NB,13,Population,2,linear,1,790398
+2021,New Brunswick,NB,13,Population,2,log,2,13.5802918950482
 2021,New Brunswick,NB,13,Provincial CPI (2020=100),3,linear,1,103.806734992679
 2021,New Brunswick,NB,13,Provincial CPI (2020=100),3,log,2,4.64253085294943
 2021,New Brunswick,NB,13,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,New Brunswick,NB,13,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,New Brunswick,NB,13,Employment,5,linear,1,360500
 2021,New Brunswick,NB,13,Employment,5,log,2,12.7952472357071
-2021,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,linear,1, 
-2021,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2, 
-2021,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,linear,1,51829.2305738114
+2021,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,log,2,10.8557095658837
+2021,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,linear,1,113635.839631288
+2021,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,log,2,11.6407542252248
+2021,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,linear,1,53569.4821113262
+2021,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2,10.8887348213152
+2021,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1,40965.7201870794
+2021,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2,10.6204909029677
+2022,New Brunswick,NB,13,Nominal GDP (Millions),1,linear,1, 
+2022,New Brunswick,NB,13,Nominal GDP (Millions),1,log,2, 
+2022,New Brunswick,NB,13,Population,2,linear,1,812061
+2022,New Brunswick,NB,13,Population,2,log,2,13.6073307394749
+2022,New Brunswick,NB,13,Provincial CPI (2020=100),3,linear,1, 
+2022,New Brunswick,NB,13,Provincial CPI (2020=100),3,log,2, 
+2022,New Brunswick,NB,13,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,New Brunswick,NB,13,Canada-Wide CPI (2020=100),4,log,2, 
+2022,New Brunswick,NB,13,Employment,5,linear,1, 
+2022,New Brunswick,NB,13,Employment,5,log,2, 
+2022,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,New Brunswick,NB,13,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,New Brunswick,NB,13,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,linear,1, 
+2022,New Brunswick,NB,13,Nominal GDP Per Capita ($),8,log,2, 
+2022,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,New Brunswick,NB,13,"Real GDP (Millions, $ 2020)",9,log,2, 
 1949,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1,195.356811438169
 1949,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2,5.274827688762
 1949,Newfoundland and Labrador,NL,10,Population,2,linear,1,345000
@@ -14597,8 +14669,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2,11.0949469666966
 2018,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1,35535.406365433
 2018,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2,10.4782848408346
-2019,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1,35395.3737880256
-2019,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2,10.4743364066279
+2019,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1,35796.4345431047
+2019,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2,10.485603573661
 2019,Newfoundland and Labrador,NL,10,Population,2,linear,1,523427
 2019,Newfoundland and Labrador,NL,10,Population,2,log,2,13.1681528535329
 2019,Newfoundland and Labrador,NL,10,Provincial CPI (2020=100),3,linear,1,99.785100286533
@@ -14607,50 +14679,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Newfoundland and Labrador,NL,10,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Newfoundland and Labrador,NL,10,Employment,5,linear,1,227000
 2019,Newfoundland and Labrador,NL,10,Employment,5,log,2,12.3327052964635
-2019,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,linear,1,68119.5923966629
-2019,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,log,2,11.1290201511513
-2019,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,linear,1,157073.277045851
-2019,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,log,2,11.9644677082207
-2019,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,linear,1,67622.3690944975
-2019,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2,11.1216941110592
-2019,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1,35655.6338894081
-2019,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2,10.48166244672
-2020,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1,31591.3093807996
-2020,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2,10.3606373421552
-2020,Newfoundland and Labrador,NL,10,Population,2,linear,1,521364
-2020,Newfoundland and Labrador,NL,10,Population,2,log,2,13.1642037332187
+2019,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,linear,1,68891.447366352
+2019,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,log,2,11.1402873181844
+2019,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,linear,1,158853.055597478
+2019,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,log,2,11.9757348752538
+2019,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,linear,1,68388.5900863057
+2019,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2,11.1329612780923
+2019,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1,36059.6436206276
+2019,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2,10.4929296137531
+2020,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1,32204.7917641291
+2020,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2,10.3798705330116
+2020,Newfoundland and Labrador,NL,10,Population,2,linear,1,521359
+2020,Newfoundland and Labrador,NL,10,Population,2,log,2,13.164194142944
 2020,Newfoundland and Labrador,NL,10,Provincial CPI (2020=100),3,linear,1,100
 2020,Newfoundland and Labrador,NL,10,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Newfoundland and Labrador,NL,10,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Newfoundland and Labrador,NL,10,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Newfoundland and Labrador,NL,10,Employment,5,linear,1,214000
 2020,Newfoundland and Labrador,NL,10,Employment,5,log,2,12.273731294004
-2020,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,linear,1,60593.5764279843
-2020,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,log,2,11.0119441669008
-2020,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,linear,1,147622.941031774
-2020,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,log,2,11.9024166061155
-2020,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,linear,1,60593.5764279843
-2020,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2,11.0119441669008
-2020,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1,31591.3093807996
-2020,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2,10.3606373421552
-2021,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1, 
-2021,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2, 
-2021,Newfoundland and Labrador,NL,10,Population,2,linear,1,520553
-2021,Newfoundland and Labrador,NL,10,Population,2,log,2,13.1626469870214
+2020,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,linear,1,61770.8560974858
+2020,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,log,2,11.0311869480319
+2020,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,linear,1,150489.68114079
+2020,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,log,2,11.9216497969719
+2020,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,linear,1,61770.8560974858
+2020,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2,11.0311869480319
+2020,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1,32204.7917641291
+2020,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2,10.3798705330116
+2021,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1,37689.5214370159
+2021,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2,10.5371373888342
+2021,Newfoundland and Labrador,NL,10,Population,2,linear,1,520452
+2021,Newfoundland and Labrador,NL,10,Population,2,log,2,13.1624529437646
 2021,Newfoundland and Labrador,NL,10,Provincial CPI (2020=100),3,linear,1,103.65329512894
 2021,Newfoundland and Labrador,NL,10,Provincial CPI (2020=100),3,log,2,4.64105162929726
 2021,Newfoundland and Labrador,NL,10,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Newfoundland and Labrador,NL,10,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Newfoundland and Labrador,NL,10,Employment,5,linear,1,220100
 2021,Newfoundland and Labrador,NL,10,Employment,5,log,2,12.3018372675146
-2021,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2, 
-2021,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,linear,1,70064.3754432421
+2021,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,log,2,11.1571697476024
+2021,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,linear,1,165675.349060365
+2021,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,log,2,12.0177854238524
+2021,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,linear,1,72416.9019179787
+2021,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2,11.1901950030339
+2021,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1,36465.1443281863
+2021,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2,10.5041121334027
+2022,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,linear,1, 
+2022,Newfoundland and Labrador,NL,10,Nominal GDP (Millions),1,log,2, 
+2022,Newfoundland and Labrador,NL,10,Population,2,linear,1,525972
+2022,Newfoundland and Labrador,NL,10,Population,2,log,2,13.1730032583638
+2022,Newfoundland and Labrador,NL,10,Provincial CPI (2020=100),3,linear,1, 
+2022,Newfoundland and Labrador,NL,10,Provincial CPI (2020=100),3,log,2, 
+2022,Newfoundland and Labrador,NL,10,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Newfoundland and Labrador,NL,10,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Newfoundland and Labrador,NL,10,Employment,5,linear,1, 
+2022,Newfoundland and Labrador,NL,10,Employment,5,log,2, 
+2022,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Newfoundland and Labrador,NL,10,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Newfoundland and Labrador,NL,10,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Newfoundland and Labrador,NL,10,Nominal GDP Per Capita ($),8,log,2, 
+2022,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Newfoundland and Labrador,NL,10,"Real GDP (Millions, $ 2020)",9,log,2, 
 1991,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1, 
 1991,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2, 
 1991,Northwest Territories,NT,61,Population,2,linear,1,38724
@@ -15155,8 +15245,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2,11.5588986260395
 2018,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1,4836.81786604003
 2018,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2,8.48401231779112
-2019,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1,4571.59817458318
-2019,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2,8.42761813272841
+2019,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1,4667.05796689743
+2019,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2,8.44828416646352
 2019,Northwest Territories,NT,61,Population,2,linear,1,45070
 2019,Northwest Territories,NT,61,Population,2,log,2,10.7159721156847
 2019,Northwest Territories,NT,61,Provincial CPI (2020=100),3,linear,1, 
@@ -15165,50 +15255,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Northwest Territories,NT,61,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Northwest Territories,NT,61,Employment,5,linear,1,22716.6666666667
 2019,Northwest Territories,NT,61,Employment,5,log,2,10.0308541484566
-2019,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,linear,1,102179.11841676
-2019,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,log,2,11.5344826151001
-2019,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,linear,1,202723.970669553
-2019,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,log,2,12.2196005823282
-2019,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,linear,1,101433.285435615
-2019,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2,11.527156575008
-2019,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1,4605.21286704335
-2019,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2,8.43494417282048
-2020,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1,4323.54778796124
-2020,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2,8.37183159141243
-2020,Northwest Territories,NT,61,Population,2,linear,1,45372
-2020,Northwest Territories,NT,61,Population,2,log,2,10.7226504536789
+2019,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,linear,1,104312.726194702
+2019,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,log,2,11.5551486488352
+2019,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,linear,1,206957.061024
+2019,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,log,2,12.2402666160633
+2019,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,linear,1,103551.319434156
+2019,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2,11.5478226087431
+2019,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1,4701.37456959521
+2019,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2,8.45561020655559
+2020,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1,4140.85869846186
+2020,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2,8.32865846039923
+2020,Northwest Territories,NT,61,Population,2,linear,1,45346
+2020,Northwest Territories,NT,61,Population,2,log,2,10.7220772487866
 2020,Northwest Territories,NT,61,Provincial CPI (2020=100),3,linear,1, 
 2020,Northwest Territories,NT,61,Provincial CPI (2020=100),3,log,2, 
 2020,Northwest Territories,NT,61,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Northwest Territories,NT,61,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Northwest Territories,NT,61,Employment,5,linear,1,21675
 2020,Northwest Territories,NT,61,Employment,5,log,2,9.98391480164874
-2020,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,linear,1,95291.0999726976
-2020,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,log,2,11.4646916956978
-2020,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,linear,1,199471.639582987
-2020,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,log,2,12.203427347728
-2020,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,linear,1,95291.0999726976
-2020,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2,11.4646916956978
-2020,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1,4323.54778796124
-2020,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2,8.37183159141243
-2021,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1, 
-2021,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2, 
-2021,Northwest Territories,NT,61,Population,2,linear,1,45504
-2021,Northwest Territories,NT,61,Population,2,log,2,10.7255555131629
+2020,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,linear,1,91316.9562577044
+2020,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,log,2,11.4220917695769
+2020,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,linear,1,191043.077207006
+2020,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,log,2,12.1602542167148
+2020,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,linear,1,91316.9562577044
+2020,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2,11.4220917695769
+2020,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1,4140.85869846186
+2020,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2,8.32865846039923
+2021,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1,4934.90556743799
+2021,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2,8.50408881641358
+2021,Northwest Territories,NT,61,Population,2,linear,1,45597
+2021,Northwest Territories,NT,61,Population,2,log,2,10.7275972038646
 2021,Northwest Territories,NT,61,Provincial CPI (2020=100),3,linear,1, 
 2021,Northwest Territories,NT,61,Provincial CPI (2020=100),3,log,2, 
 2021,Northwest Territories,NT,61,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Northwest Territories,NT,61,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Northwest Territories,NT,61,Employment,5,linear,1,23425
 2021,Northwest Territories,NT,61,Employment,5,log,2,10.0615591071066
-2021,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2, 
-2021,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,linear,1,104712.828443808
+2021,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,log,2,11.5589769150818
+2021,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,linear,1,203824.582222083
+2021,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,log,2,12.2250150118397
+2021,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,linear,1,108228.733632432
+2021,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2,11.5920021705133
+2021,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1,4774.5908385523
+2021,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2,8.47106356098208
+2022,Northwest Territories,NT,61,Nominal GDP (Millions),1,linear,1, 
+2022,Northwest Territories,NT,61,Nominal GDP (Millions),1,log,2, 
+2022,Northwest Territories,NT,61,Population,2,linear,1,45605
+2022,Northwest Territories,NT,61,Population,2,log,2,10.7277726386143
+2022,Northwest Territories,NT,61,Provincial CPI (2020=100),3,linear,1, 
+2022,Northwest Territories,NT,61,Provincial CPI (2020=100),3,log,2, 
+2022,Northwest Territories,NT,61,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Northwest Territories,NT,61,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Northwest Territories,NT,61,Employment,5,linear,1,25040
+2022,Northwest Territories,NT,61,Employment,5,log,2,10.128229825214
+2022,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Northwest Territories,NT,61,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Northwest Territories,NT,61,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Northwest Territories,NT,61,Nominal GDP Per Capita ($),8,log,2, 
+2022,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Northwest Territories,NT,61,"Real GDP (Millions, $ 2020)",9,log,2, 
 1867,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1, 
 1867,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2, 
 1867,Nova Scotia,NS,12,Population,2,linear,1,364000
@@ -17945,8 +18053,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2,10.7544849740614
 2018,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1,46102.8465884763
 2018,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2,10.7386299752015
-2019,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1,46540.2699068508
-2019,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2,10.7480732362991
+2019,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1,46804.4952508939
+2019,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2,10.7537345296625
 2019,Nova Scotia,NS,12,Population,2,linear,1,970243
 2019,Nova Scotia,NS,12,Population,2,log,2,13.7853018345697
 2019,Nova Scotia,NS,12,Provincial CPI (2020=100),3,linear,1,99.7099347353154
@@ -17955,50 +18063,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Nova Scotia,NS,12,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Nova Scotia,NS,12,Employment,5,linear,1,461200
 2019,Nova Scotia,NS,12,Employment,5,log,2,13.041587067377
-2019,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,linear,1,48320.3463192344
-2019,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,log,2,10.7856079997857
-2019,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,linear,1,101653.247558137
-2019,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,log,2,11.5293227669784
-2019,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,linear,1,47967.6430614297
-2019,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2,10.7782819596936
-2019,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1,46882.4777738129
-2019,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2,10.7553992763912
-2020,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1,46865.7774914845
-2020,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2,10.7550429970672
-2020,Nova Scotia,NS,12,Population,2,linear,1,981889
-2020,Nova Scotia,NS,12,Population,2,log,2,13.7972335463245
+2019,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,linear,1,48594.6777779052
+2019,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,log,2,10.7912692931492
+2019,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,linear,1,102230.368497979
+2019,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,log,2,11.5349840603418
+2019,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,linear,1,48239.9721006942
+2019,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2,10.7839432530571
+2019,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1,47148.6459512681
+2019,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2,10.7610605697546
+2020,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1,46776.2187787889
+2020,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2,10.7531302070036
+2020,Nova Scotia,NS,12,Population,2,linear,1,981691
+2020,Nova Scotia,NS,12,Population,2,log,2,13.7970318738684
 2020,Nova Scotia,NS,12,Provincial CPI (2020=100),3,linear,1,100
 2020,Nova Scotia,NS,12,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Nova Scotia,NS,12,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Nova Scotia,NS,12,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Nova Scotia,NS,12,Employment,5,linear,1,439700
 2020,Nova Scotia,NS,12,Employment,5,log,2,12.9938479551689
-2020,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,linear,1,47730.2194967909
-2020,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,log,2,10.773320008707
-2020,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,linear,1,106585.802800738
-2020,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,log,2,11.5767055998626
-2020,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,linear,1,47730.2194967909
-2020,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2,10.773320008707
-2020,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1,46865.7774914845
-2020,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2,10.7550429970672
-2021,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1, 
-2021,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2, 
-2021,Nova Scotia,NS,12,Population,2,linear,1,992055
-2021,Nova Scotia,NS,12,Population,2,log,2,13.8075338282785
+2020,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,linear,1,47648.6173131758
+2020,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,log,2,10.7716088910994
+2020,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,linear,1,106382.121398201
+2020,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,log,2,11.5747928097989
+2020,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,linear,1,47648.6173131758
+2020,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2,10.7716088910994
+2020,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1,46776.2187787889
+2020,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2,10.7531302070036
+2021,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1,51599.8734573536
+2021,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2,10.8512744990898
+2021,Nova Scotia,NS,12,Population,2,linear,1,991117
+2021,Nova Scotia,NS,12,Population,2,log,2,13.8065878689064
 2021,Nova Scotia,NS,12,Provincial CPI (2020=100),3,linear,1,104.060913705584
 2021,Nova Scotia,NS,12,Provincial CPI (2020=100),3,log,2,4.64497643638851
 2021,Nova Scotia,NS,12,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Nova Scotia,NS,12,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Nova Scotia,NS,12,Employment,5,linear,1,463500
 2021,Nova Scotia,NS,12,Employment,5,log,2,13.046561663988
-2021,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2, 
-2021,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,linear,1,50371.0524405913
+2021,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,log,2,10.8271719327162
+2021,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,linear,1,107710.046131093
+2021,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,log,2,11.5871981376345
+2021,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,linear,1,52062.3432524652
+2021,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2,10.8601971881477
+2021,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1,49923.6063817616
+2021,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2,10.8182492436583
+2022,Nova Scotia,NS,12,Nominal GDP (Millions),1,linear,1, 
+2022,Nova Scotia,NS,12,Nominal GDP (Millions),1,log,2, 
+2022,Nova Scotia,NS,12,Population,2,linear,1,1019725
+2022,Nova Scotia,NS,12,Population,2,log,2,13.8350435410666
+2022,Nova Scotia,NS,12,Provincial CPI (2020=100),3,linear,1, 
+2022,Nova Scotia,NS,12,Provincial CPI (2020=100),3,log,2, 
+2022,Nova Scotia,NS,12,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Nova Scotia,NS,12,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Nova Scotia,NS,12,Employment,5,linear,1, 
+2022,Nova Scotia,NS,12,Employment,5,log,2, 
+2022,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Nova Scotia,NS,12,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Nova Scotia,NS,12,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Nova Scotia,NS,12,Nominal GDP Per Capita ($),8,log,2, 
+2022,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Nova Scotia,NS,12,"Real GDP (Millions, $ 2020)",9,log,2, 
 1991,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1, 
 1991,Nunavut,NU,62,Nominal GDP (Millions),1,log,2, 
 1991,Nunavut,NU,62,Population,2,linear,1,22154
@@ -18503,8 +18629,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2,11.3276338343245
 2018,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1,3254.68118088675
 2018,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2,8.08784960234527
-2019,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1,3462.21034622153
-2019,Nunavut,NU,62,Nominal GDP (Millions),1,log,2,8.1496624924755
+2019,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1,3581.74213134056
+2019,Nunavut,NU,62,Nominal GDP (Millions),1,log,2,8.1836045898954
 2019,Nunavut,NU,62,Population,2,linear,1,38592
 2019,Nunavut,NU,62,Population,2,log,2,10.5608002800869
 2019,Nunavut,NU,62,Provincial CPI (2020=100),3,linear,1, 
@@ -18513,50 +18639,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Nunavut,NU,62,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Nunavut,NU,62,Employment,5,linear,1,13041.6666666667
 2019,Nunavut,NU,62,Employment,5,log,2,9.47590463917435
-2019,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,linear,1,90372.8175590243
-2019,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,log,2,11.411698810445
-2019,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,linear,1,267425.00513006
-2019,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,log,2,12.4965944513575
-2019,Nunavut,NU,62,Nominal GDP Per Capita ($),8,linear,1,89713.1619564037
-2019,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2,11.4043727703529
-2019,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1,3487.66777523787
-2019,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2,8.15698853256757
-2020,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1,4161.48977277157
-2020,Nunavut,NU,62,Nominal GDP (Millions),1,log,2,8.33362840760091
-2020,Nunavut,NU,62,Population,2,linear,1,39155
-2020,Nunavut,NU,62,Population,2,log,2,10.575283407185
+2019,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,linear,1,93492.9122756423
+2019,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,log,2,11.4456409078649
+2019,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,linear,1,276657.774099036
+2019,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,log,2,12.5305365487774
+2019,Nunavut,NU,62,Nominal GDP Per Capita ($),8,linear,1,92810.4822590318
+2019,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2,11.4383148677728
+2019,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1,3608.07847054159
+2019,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2,8.19093062998747
+2020,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1,4214.78476448989
+2020,Nunavut,NU,62,Nominal GDP (Millions),1,log,2,8.34635380495418
+2020,Nunavut,NU,62,Population,2,linear,1,39157
+2020,Nunavut,NU,62,Population,2,log,2,10.5753344849254
 2020,Nunavut,NU,62,Provincial CPI (2020=100),3,linear,1, 
 2020,Nunavut,NU,62,Provincial CPI (2020=100),3,log,2, 
 2020,Nunavut,NU,62,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Nunavut,NU,62,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Nunavut,NU,62,Employment,5,linear,1,12083.3333333333
 2020,Nunavut,NU,62,Employment,5,log,2,9.39958237161471
-2020,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,linear,1,106282.461314559
-2020,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,log,2,11.5738555583801
-2020,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,linear,1,344399.153608682
-2020,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,log,2,12.7495565939505
-2020,Nunavut,NU,62,Nominal GDP Per Capita ($),8,linear,1,106282.461314559
-2020,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2,11.5738555583801
-2020,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1,4161.48977277157
-2020,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2,8.33362840760091
-2021,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1, 
-2021,Nunavut,NU,62,Nominal GDP (Millions),1,log,2, 
-2021,Nunavut,NU,62,Population,2,linear,1,39403
-2021,Nunavut,NU,62,Population,2,log,2,10.5815972345193
+2020,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,linear,1,107638.091899019
+2020,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,log,2,11.5865298779931
+2020,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,linear,1,348809.773612956
+2020,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,log,2,12.7622819913037
+2020,Nunavut,NU,62,Nominal GDP Per Capita ($),8,linear,1,107638.091899019
+2020,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2,11.5865298779931
+2020,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1,4214.78476448989
+2020,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2,8.34635380495418
+2021,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1,4656.65877748982
+2021,Nunavut,NU,62,Nominal GDP (Millions),1,log,2,8.44605346941321
+2021,Nunavut,NU,62,Population,2,linear,1,39711
+2021,Nunavut,NU,62,Population,2,log,2,10.5893835063819
 2021,Nunavut,NU,62,Provincial CPI (2020=100),3,linear,1, 
 2021,Nunavut,NU,62,Provincial CPI (2020=100),3,log,2, 
 2021,Nunavut,NU,62,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Nunavut,NU,62,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Nunavut,NU,62,Employment,5,linear,1,12650
 2021,Nunavut,NU,62,Employment,5,log,2,9.44541249415567
-2021,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Nunavut,NU,62,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2, 
-2021,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,linear,1,113454.285695098
+2021,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,log,2,11.6391552655641
+2021,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,linear,1,356156.76990024
+2021,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,log,2,12.7831262777903
+2021,Nunavut,NU,62,Nominal GDP Per Capita ($),8,linear,1,117263.699667342
+2021,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2,11.6721805209956
+2021,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1,4505.38313923803
+2021,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2,8.41302821398171
+2022,Nunavut,NU,62,Nominal GDP (Millions),1,linear,1, 
+2022,Nunavut,NU,62,Nominal GDP (Millions),1,log,2, 
+2022,Nunavut,NU,62,Population,2,linear,1,40526
+2022,Nunavut,NU,62,Population,2,log,2,10.6096990224253
+2022,Nunavut,NU,62,Provincial CPI (2020=100),3,linear,1, 
+2022,Nunavut,NU,62,Provincial CPI (2020=100),3,log,2, 
+2022,Nunavut,NU,62,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Nunavut,NU,62,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Nunavut,NU,62,Employment,5,linear,1,14850
+2022,Nunavut,NU,62,Employment,5,log,2,9.60575514423085
+2022,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Nunavut,NU,62,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Nunavut,NU,62,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Nunavut,NU,62,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Nunavut,NU,62,Nominal GDP Per Capita ($),8,log,2, 
+2022,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Nunavut,NU,62,"Real GDP (Millions, $ 2020)",9,log,2, 
 1867,Ontario,ON,35,Nominal GDP (Millions),1,linear,1, 
 1867,Ontario,ON,35,Nominal GDP (Millions),1,log,2, 
 1867,Ontario,ON,35,Population,2,linear,1,1525000
@@ -21293,8 +21437,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2,11.0043061139987
 2018,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1,883637.721718882
 2018,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2,13.6918024405617
-2019,Ontario,ON,35,Nominal GDP (Millions),1,linear,1,892538.020331653
-2019,Ontario,ON,35,Nominal GDP (Millions),1,log,2,13.70182439154
+2019,Ontario,ON,35,Nominal GDP (Millions),1,linear,1,892661.281675373
+2019,Ontario,ON,35,Nominal GDP (Millions),1,log,2,13.7019624840698
 2019,Ontario,ON,35,Population,2,linear,1,14544701
 2019,Ontario,ON,35,Population,2,log,2,16.4927372928077
 2019,Ontario,ON,35,Provincial CPI (2020=100),3,linear,1,99.349710982659
@@ -21303,50 +21447,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Ontario,ON,35,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Ontario,ON,35,Employment,5,linear,1,7376900
 2019,Ontario,ON,35,Employment,5,log,2,15.8138640541286
-2019,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,linear,1,61816.3824676021
-2019,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,log,2,11.0319236967886
-2019,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,linear,1,121880.573125963
-2019,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,log,2,11.7107969354677
-2019,Ontario,ON,35,Nominal GDP Per Capita ($),8,linear,1,61365.1679970357
-2019,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2,11.0245976566965
-2019,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1,899100.799892915
-2019,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2,13.709150431632
-2020,Ontario,ON,35,Nominal GDP (Millions),1,linear,1,867250.467213122
-2020,Ontario,ON,35,Nominal GDP (Millions),1,log,2,13.6730831035613
-2020,Ontario,ON,35,Population,2,linear,1,14745712
-2020,Ontario,ON,35,Population,2,log,2,16.5064628866208
+2019,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,linear,1,61824.9194376732
+2019,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,log,2,11.0320617893184
+2019,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,linear,1,121897.405084798
+2019,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,log,2,11.7109350279975
+2019,Ontario,ON,35,Nominal GDP Per Capita ($),8,linear,1,61373.6426534566
+2019,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2,11.0247357492263
+2019,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1,899224.967570045
+2019,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2,13.7092885241618
+2020,Ontario,ON,35,Nominal GDP (Millions),1,linear,1,866114.792581704
+2020,Ontario,ON,35,Nominal GDP (Millions),1,log,2,13.6717727337042
+2020,Ontario,ON,35,Population,2,linear,1,14726022
+2020,Ontario,ON,35,Population,2,log,2,16.5051266908659
 2020,Ontario,ON,35,Provincial CPI (2020=100),3,linear,1,100
 2020,Ontario,ON,35,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Ontario,ON,35,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Ontario,ON,35,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Ontario,ON,35,Employment,5,linear,1,7021600
 2020,Ontario,ON,35,Employment,5,log,2,15.76450167026
-2020,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,linear,1,58813.7396968774
-2020,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,log,2,10.9821307749048
-2020,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,linear,1,123511.801756455
-2020,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,log,2,11.7240919912655
-2020,Ontario,ON,35,Nominal GDP Per Capita ($),8,linear,1,58813.7396968774
-2020,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2,10.9821307749048
-2020,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1,867250.467213122
-2020,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2,13.6730831035613
-2021,Ontario,ON,35,Nominal GDP (Millions),1,linear,1, 
-2021,Ontario,ON,35,Nominal GDP (Millions),1,log,2, 
-2021,Ontario,ON,35,Population,2,linear,1,14826276
-2021,Ontario,ON,35,Population,2,log,2,16.5119115699705
+2020,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,linear,1,58815.2586341175
+2020,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,log,2,10.9821566008025
+2020,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,linear,1,123350.061607284
+2020,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,log,2,11.7227816214084
+2020,Ontario,ON,35,Nominal GDP Per Capita ($),8,linear,1,58815.2586341175
+2020,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2,10.9821566008025
+2020,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1,866114.792581704
+2020,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2,13.6717727337042
+2021,Ontario,ON,35,Nominal GDP (Millions),1,linear,1,950716.613110532
+2021,Ontario,ON,35,Nominal GDP (Millions),1,log,2,13.7649713088032
+2021,Ontario,ON,35,Population,2,linear,1,14809257
+2021,Ontario,ON,35,Population,2,log,2,16.5107630161806
 2021,Ontario,ON,35,Provincial CPI (2020=100),3,linear,1,103.468208092486
 2021,Ontario,ON,35,Provincial CPI (2020=100),3,log,2,4.63926439733107
 2021,Ontario,ON,35,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Ontario,ON,35,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Ontario,ON,35,Employment,5,linear,1,7366400
 2021,Ontario,ON,35,Employment,5,log,2,15.8124396780696
-2021,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Ontario,ON,35,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2, 
-2021,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,linear,1,62111.944669823
+2021,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,log,2,11.0366935951553
+2021,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,linear,1,124868.558778398
+2021,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,log,2,11.7350169332663
+2021,Ontario,ON,35,Nominal GDP Per Capita ($),8,linear,1,64197.4552207806
+2021,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2,11.0697188505868
+2021,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1,919831.75138519
+2021,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2,13.7319460533717
+2022,Ontario,ON,35,Nominal GDP (Millions),1,linear,1, 
+2022,Ontario,ON,35,Nominal GDP (Millions),1,log,2, 
+2022,Ontario,ON,35,Population,2,linear,1,15109416
+2022,Ontario,ON,35,Population,2,log,2,16.5308286836013
+2022,Ontario,ON,35,Provincial CPI (2020=100),3,linear,1, 
+2022,Ontario,ON,35,Provincial CPI (2020=100),3,log,2, 
+2022,Ontario,ON,35,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Ontario,ON,35,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Ontario,ON,35,Employment,5,linear,1, 
+2022,Ontario,ON,35,Employment,5,log,2, 
+2022,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Ontario,ON,35,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Ontario,ON,35,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Ontario,ON,35,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Ontario,ON,35,Nominal GDP Per Capita ($),8,log,2, 
+2022,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Ontario,ON,35,"Real GDP (Millions, $ 2020)",9,log,2, 
 1867,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1, 
 1867,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2, 
 1867,Prince Edward Island,PE,11,Population,2,linear,1,88000
@@ -24083,8 +24245,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2,10.7263314259186
 2018,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1,7174.06524183465
 2018,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2,8.87822775225699
-2019,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1,7446.60324104972
-2019,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2,8.9155132666023
+2019,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1,7435.31290657749
+2019,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2,8.91399594362771
 2019,Prince Edward Island,PE,11,Population,2,linear,1,157419
 2019,Prince Edward Island,PE,11,Population,2,log,2,11.9666663192433
 2019,Prince Edward Island,PE,11,Provincial CPI (2020=100),3,linear,1,100
@@ -24093,50 +24255,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Prince Edward Island,PE,11,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Prince Edward Island,PE,11,Employment,5,linear,1,79200
 2019,Prince Edward Island,PE,11,Employment,5,log,2,11.2797315778025
-2019,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,linear,1,47652.1746208887
-2019,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,log,2,10.7716835454154
-2019,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,linear,1,94714.1120788595
-2019,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,log,2,11.4586182868561
-2019,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,linear,1,47304.3485287654
-2019,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2,10.7643575053233
-2019,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1,7501.35767664567
-2019,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2,8.92283930669437
-2020,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1,7510.68875335793
-2020,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2,8.924082452052
-2020,Prince Edward Island,PE,11,Population,2,linear,1,161329
-2020,Prince Edward Island,PE,11,Population,2,log,2,11.9912010371658
+2019,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,linear,1,47579.9257078765
+2019,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,log,2,10.7701662224408
+2019,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,linear,1,94570.509154144
+2019,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,log,2,11.4571009638815
+2019,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,linear,1,47232.6269800818
+2019,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2,10.7628401823487
+2019,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1,7489.98432500821
+2019,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2,8.92132198371978
+2020,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1,7538.46073307436
+2020,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2,8.92777329335409
+2020,Prince Edward Island,PE,11,Population,2,linear,1,161305
+2020,Prince Edward Island,PE,11,Population,2,log,2,11.991052261773
 2020,Prince Edward Island,PE,11,Provincial CPI (2020=100),3,linear,1,100
 2020,Prince Edward Island,PE,11,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Prince Edward Island,PE,11,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Prince Edward Island,PE,11,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Prince Edward Island,PE,11,Employment,5,linear,1,76700
 2020,Prince Edward Island,PE,11,Employment,5,log,2,11.2476569873553
-2020,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,linear,1,46555.1063563149
-2020,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,log,2,10.7483919728505
-2020,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,linear,1,97922.9302914984
-2020,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,log,2,11.4919360226609
-2020,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,linear,1,46555.1063563149
-2020,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2,10.7483919728505
-2020,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1,7510.68875335793
-2020,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2,8.924082452052
-2021,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1, 
-2021,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2, 
-2021,Prince Edward Island,PE,11,Population,2,linear,1,164318
-2021,Prince Edward Island,PE,11,Population,2,log,2,12.0095588537154
+2020,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,linear,1,46734.2037325214
+2020,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,log,2,10.7522315895454
+2020,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,linear,1,98285.0160765888
+2020,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,log,2,11.495626863963
+2020,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,linear,1,46734.2037325214
+2020,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2,10.7522315895454
+2020,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1,7538.46073307436
+2020,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2,8.92777329335409
+2021,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1,8572.98234601039
+2021,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2,9.05637094942204
+2021,Prince Edward Island,PE,11,Population,2,linear,1,164758
+2021,Prince Edward Island,PE,11,Population,2,log,2,12.0122330096077
 2021,Prince Edward Island,PE,11,Provincial CPI (2020=100),3,linear,1,105.07614213198
 2021,Prince Edward Island,PE,11,Provincial CPI (2020=100),3,log,2,4.65468525051547
 2021,Prince Edward Island,PE,11,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Prince Edward Island,PE,11,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Prince Edward Island,PE,11,Employment,5,linear,1,79400
 2021,Prince Edward Island,PE,11,Employment,5,log,2,11.2822536472352
-2021,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2, 
-2021,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,linear,1,50343.4219102339
+2021,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,log,2,10.8266232423471
+2021,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,linear,1,104464.50260814
+2021,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,log,2,11.5566026047196
+2021,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,linear,1,52033.7849816724
+2021,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2,10.8596484977786
+2021,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1,8294.48150708632
+2021,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2,9.02334569399055
+2022,Prince Edward Island,PE,11,Nominal GDP (Millions),1,linear,1, 
+2022,Prince Edward Island,PE,11,Nominal GDP (Millions),1,log,2, 
+2022,Prince Edward Island,PE,11,Population,2,linear,1,170688
+2022,Prince Edward Island,PE,11,Population,2,log,2,12.0475926075417
+2022,Prince Edward Island,PE,11,Provincial CPI (2020=100),3,linear,1, 
+2022,Prince Edward Island,PE,11,Provincial CPI (2020=100),3,log,2, 
+2022,Prince Edward Island,PE,11,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Prince Edward Island,PE,11,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Prince Edward Island,PE,11,Employment,5,linear,1, 
+2022,Prince Edward Island,PE,11,Employment,5,log,2, 
+2022,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Prince Edward Island,PE,11,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Prince Edward Island,PE,11,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Prince Edward Island,PE,11,Nominal GDP Per Capita ($),8,log,2, 
+2022,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Prince Edward Island,PE,11,"Real GDP (Millions, $ 2020)",9,log,2, 
 1867,Quebec,QC,24,Nominal GDP (Millions),1,linear,1, 
 1867,Quebec,QC,24,Nominal GDP (Millions),1,log,2, 
 1867,Quebec,QC,24,Population,2,linear,1,1123000
@@ -26873,8 +27053,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2,10.8657403082733
 2018,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1,451715.43403352
 2018,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2,13.0208076898292
-2019,Quebec,QC,24,Nominal GDP (Millions),1,linear,1,460412.954715155
-2019,Quebec,QC,24,Nominal GDP (Millions),1,log,2,13.0398790933905
+2019,Quebec,QC,24,Nominal GDP (Millions),1,linear,1,459526.322506833
+2019,Quebec,QC,24,Nominal GDP (Millions),1,log,2,13.0379515042445
 2019,Quebec,QC,24,Population,2,linear,1,8503483
 2019,Quebec,QC,24,Population,2,log,2,15.9559864022358
 2019,Quebec,QC,24,Provincial CPI (2020=100),3,linear,1,99.1716867469879
@@ -26883,50 +27063,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Quebec,QC,24,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Quebec,QC,24,Employment,5,linear,1,4308100
 2019,Quebec,QC,24,Employment,5,log,2,15.2760075296167
-2019,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,linear,1,54542.1616163707
-2019,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,log,2,10.906729289211
-2019,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,linear,1,107657.283741803
-2019,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,log,2,11.5867081618301
-2019,Quebec,QC,24,Nominal GDP Per Capita ($),8,linear,1,54144.043648368
-2019,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2,10.8994032491189
-2019,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1,463798.344088061
-2019,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2,13.0472051334825
-2020,Quebec,QC,24,Nominal GDP (Millions),1,linear,1,449211.813450204
-2020,Quebec,QC,24,Nominal GDP (Millions),1,log,2,13.0152498003657
-2020,Quebec,QC,24,Population,2,linear,1,8578300
-2020,Quebec,QC,24,Population,2,log,2,15.9647463166346
+2019,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,linear,1,54437.1280009927
+2019,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,log,2,10.9048017000651
+2019,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,linear,1,107449.964607429
+2019,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,log,2,11.5847805726842
+2019,Quebec,QC,24,Nominal GDP Per Capita ($),8,linear,1,54039.7767017154
+2019,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2,10.897475659973
+2019,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1,462905.192525265
+2019,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2,13.0452775443366
+2020,Quebec,QC,24,Nominal GDP (Millions),1,linear,1,450567.384430126
+2020,Quebec,QC,24,Nominal GDP (Millions),1,log,2,13.0182629218264
+2020,Quebec,QC,24,Population,2,linear,1,8576595
+2020,Quebec,QC,24,Population,2,log,2,15.9645475395502
 2020,Quebec,QC,24,Provincial CPI (2020=100),3,linear,1,100
 2020,Quebec,QC,24,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Quebec,QC,24,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Quebec,QC,24,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Quebec,QC,24,Employment,5,linear,1,4099600
 2020,Quebec,QC,24,Employment,5,log,2,15.2263999659395
-2020,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,linear,1,52366.06477393
-2020,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,log,2,10.8660140416954
-2020,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,linear,1,109574.547138795
-2020,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,log,2,11.6043603923904
-2020,Quebec,QC,24,Nominal GDP Per Capita ($),8,linear,1,52366.06477393
-2020,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2,10.8660140416954
-2020,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1,449211.813450204
-2020,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2,13.0152498003657
-2021,Quebec,QC,24,Nominal GDP (Millions),1,linear,1, 
-2021,Quebec,QC,24,Nominal GDP (Millions),1,log,2, 
-2021,Quebec,QC,24,Population,2,linear,1,8604495
-2021,Quebec,QC,24,Population,2,log,2,15.9677952990956
+2020,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,linear,1,52534.5296624273
+2020,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,log,2,10.8692259402405
+2020,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,linear,1,109905.206466515
+2020,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,log,2,11.6073735138511
+2020,Quebec,QC,24,Nominal GDP Per Capita ($),8,linear,1,52534.5296624273
+2020,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2,10.8692259402405
+2020,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1,450567.384430126
+2020,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2,13.0182629218264
+2021,Quebec,QC,24,Nominal GDP (Millions),1,linear,1,501296.372940381
+2021,Quebec,QC,24,Nominal GDP (Millions),1,log,2,13.124952767918
+2021,Quebec,QC,24,Population,2,linear,1,8602335
+2021,Quebec,QC,24,Population,2,log,2,15.967544235999
 2021,Quebec,QC,24,Provincial CPI (2020=100),3,linear,1,103.765060240964
 2021,Quebec,QC,24,Provincial CPI (2020=100),3,log,2,4.64212930752532
 2021,Quebec,QC,24,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Quebec,QC,24,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Quebec,QC,24,Employment,5,linear,1,4269000
 2021,Quebec,QC,24,Employment,5,log,2,15.2668901657401
-2021,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Quebec,QC,24,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2, 
-2021,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,linear,1,56381.357070733
+2021,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,log,2,10.9398938344517
+2021,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,linear,1,113612.396644897
+2021,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,log,2,11.6405479047107
+2021,Quebec,QC,24,Nominal GDP Per Capita ($),8,linear,1,58274.4537315021
+2021,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2,10.9729190898832
+2021,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1,485011.321277064
+2021,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2,13.0919275124865
+2022,Quebec,QC,24,Nominal GDP (Millions),1,linear,1, 
+2022,Quebec,QC,24,Nominal GDP (Millions),1,log,2, 
+2022,Quebec,QC,24,Population,2,linear,1,8695659
+2022,Quebec,QC,24,Population,2,log,2,15.9783344935829
+2022,Quebec,QC,24,Provincial CPI (2020=100),3,linear,1, 
+2022,Quebec,QC,24,Provincial CPI (2020=100),3,log,2, 
+2022,Quebec,QC,24,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Quebec,QC,24,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Quebec,QC,24,Employment,5,linear,1, 
+2022,Quebec,QC,24,Employment,5,log,2, 
+2022,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Quebec,QC,24,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Quebec,QC,24,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Quebec,QC,24,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Quebec,QC,24,Nominal GDP Per Capita ($),8,log,2, 
+2022,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Quebec,QC,24,"Real GDP (Millions, $ 2020)",9,log,2, 
 1901,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1, 
 1901,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2, 
 1901,Saskatchewan,SK,47,Population,2,linear,1,91000
@@ -29051,8 +29249,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2,11.1850826075259
 2018,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1,85961.3900780165
 2018,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2,11.3616535218451
-2019,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1,83353.1392339101
-2019,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2,11.330841550744
+2019,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1,84447.7655804711
+2019,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2,11.3438884633953
 2019,Saskatchewan,SK,47,Population,2,linear,1,1172479
 2019,Saskatchewan,SK,47,Population,2,log,2,13.9746308686944
 2019,Saskatchewan,SK,47,Provincial CPI (2020=100),3,linear,1,99.4314143567875
@@ -29061,50 +29259,68 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Saskatchewan,SK,47,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Saskatchewan,SK,47,Employment,5,linear,1,570900
 2019,Saskatchewan,SK,47,Employment,5,log,2,13.2549693419523
-2019,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,linear,1,71614.1013728785
-2019,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,log,2,11.1790472801059
-2019,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,linear,1,147076.598289668
-2019,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,log,2,11.898708806848
-2019,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,linear,1,71091.3707059232
-2019,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2,11.1717212400138
-2019,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1,83966.0299635712
-2019,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2,11.338167590836
-2020,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1,77860.8734336851
-2020,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2,11.2626788391042
-2020,Saskatchewan,SK,47,Population,2,linear,1,1179300
-2020,Saskatchewan,SK,47,Population,2,log,2,13.9804316000781
+2019,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,linear,1,72554.5660376592
+2019,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,log,2,11.1920941927573
+2019,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,linear,1,149008.066269519
+2019,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,log,2,11.9117557194993
+2019,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,linear,1,72024.9706651216
+2019,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2,11.1847681526652
+2019,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1,85068.7050332686
+2019,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2,11.3512145034874
+2020,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1,77974.0176435091
+2020,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2,11.2641309430447
+2020,Saskatchewan,SK,47,Population,2,linear,1,1178467
+2020,Saskatchewan,SK,47,Population,2,log,2,13.9797249992692
 2020,Saskatchewan,SK,47,Provincial CPI (2020=100),3,linear,1,100
 2020,Saskatchewan,SK,47,Provincial CPI (2020=100),3,log,2,4.60517018598809
 2020,Saskatchewan,SK,47,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Saskatchewan,SK,47,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Saskatchewan,SK,47,Employment,5,linear,1,544100
 2020,Saskatchewan,SK,47,Employment,5,log,2,13.206888332474
-2020,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,linear,1,66022.9572065506
-2020,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,log,2,11.0977577969904
-2020,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,linear,1,143100.300374352
-2020,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,log,2,11.8713010645944
-2020,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,linear,1,66022.9572065506
-2020,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2,11.0977577969904
-2020,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1,77860.8734336851
-2020,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2,11.2626788391042
-2021,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1, 
-2021,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2, 
-2021,Saskatchewan,SK,47,Population,2,linear,1,1179844
-2021,Saskatchewan,SK,47,Population,2,log,2,13.9808927843124
+2020,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,linear,1,66165.6352222923
+2020,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,log,2,11.0999165017398
+2020,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,linear,1,143308.247828541
+2020,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,log,2,11.872753168535
+2020,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,linear,1,66165.6352222923
+2020,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2,11.0999165017398
+2020,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1,77974.0176435091
+2020,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2,11.2641309430447
+2021,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1,87762.018765261
+2021,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2,11.382384097935
+2021,Saskatchewan,SK,47,Population,2,linear,1,1181493
+2021,Saskatchewan,SK,47,Population,2,log,2,13.9822894509195
 2021,Saskatchewan,SK,47,Provincial CPI (2020=100),3,linear,1,102.629708599858
 2021,Saskatchewan,SK,47,Provincial CPI (2020=100),3,log,2,4.63112744832647
 2021,Saskatchewan,SK,47,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Saskatchewan,SK,47,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Saskatchewan,SK,47,Employment,5,linear,1,558200
 2021,Saskatchewan,SK,47,Employment,5,log,2,13.2324726000844
-2021,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2, 
-2021,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,linear,1,71867.5377102753
+2021,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,log,2,11.1825799495483
+2021,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,linear,1,152115.716108789
+2021,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,log,2,11.9323968003834
+2021,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,linear,1,74280.6083195254
+2021,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2,11.2156052049798
+2021,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1,84910.9927319263
+2021,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2,11.3493588425035
+2022,Saskatchewan,SK,47,Nominal GDP (Millions),1,linear,1, 
+2022,Saskatchewan,SK,47,Nominal GDP (Millions),1,log,2, 
+2022,Saskatchewan,SK,47,Population,2,linear,1,1194803
+2022,Saskatchewan,SK,47,Population,2,log,2,13.9934918762014
+2022,Saskatchewan,SK,47,Provincial CPI (2020=100),3,linear,1, 
+2022,Saskatchewan,SK,47,Provincial CPI (2020=100),3,log,2, 
+2022,Saskatchewan,SK,47,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Saskatchewan,SK,47,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Saskatchewan,SK,47,Employment,5,linear,1, 
+2022,Saskatchewan,SK,47,Employment,5,log,2, 
+2022,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Saskatchewan,SK,47,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Saskatchewan,SK,47,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Saskatchewan,SK,47,Nominal GDP Per Capita ($),8,log,2, 
+2022,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Saskatchewan,SK,47,"Real GDP (Millions, $ 2020)",9,log,2, 
 1971,Yukon,YK,60,Nominal GDP (Millions),1,linear,1, 
 1971,Yukon,YK,60,Nominal GDP (Millions),1,log,2, 
 1971,Yukon,YK,60,Population,2,linear,1,18991
@@ -29969,8 +30185,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2018,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2,11.210380843994
 2018,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1,3074.89292121024
 2018,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2,8.03102535726365
-2019,Yukon,YK,60,Nominal GDP (Millions),1,linear,1,3003.04982934326
-2019,Yukon,YK,60,Nominal GDP (Millions),1,log,2,8.00738366103356
+2019,Yukon,YK,60,Nominal GDP (Millions),1,linear,1,3074.06216406349
+2019,Yukon,YK,60,Nominal GDP (Millions),1,log,2,8.03075514642611
 2019,Yukon,YK,60,Population,2,linear,1,41362
 2019,Yukon,YK,60,Population,2,log,2,10.6301178639126
 2019,Yukon,YK,60,Provincial CPI (2020=100),3,linear,1, 
@@ -29979,47 +30195,65 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2019,Yukon,YK,60,Canada-Wide CPI (2020=100),4,log,2,4.59784414589602
 2019,Yukon,YK,60,Employment,5,linear,1,23208.3333333333
 2019,Yukon,YK,60,Employment,5,log,2,10.0522666885615
-2019,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,linear,1,73137.9304213634
-2019,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,log,2,11.2001023951773
-2019,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,linear,1,130346.760994834
-2019,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,log,2,11.7779535705284
-2019,Yukon,YK,60,Nominal GDP Per Capita ($),8,linear,1,72604.0769146382
-2019,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2,11.1927763550852
-2019,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1,3025.13107808844
-2019,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2,8.01470970112564
-2020,Yukon,YK,60,Nominal GDP (Millions),1,linear,1,3183.13953292287
-2020,Yukon,YK,60,Nominal GDP (Millions),1,log,2,8.06562326324333
-2020,Yukon,YK,60,Population,2,linear,1,42174
-2020,Yukon,YK,60,Population,2,log,2,10.649559196404
+2019,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,linear,1,74867.4039535966
+2019,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,log,2,11.2234738805698
+2019,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,linear,1,133429.036796926
+2019,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,log,2,11.801325055921
+2019,Yukon,YK,60,Nominal GDP Per Capita ($),8,linear,1,74320.9265524755
+2019,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2,11.2161478404778
+2019,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1,3096.66556232866
+2019,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2,8.03808118651818
+2020,Yukon,YK,60,Nominal GDP (Millions),1,linear,1,3237.76189184919
+2020,Yukon,YK,60,Nominal GDP (Millions),1,log,2,8.08263759597138
+2020,Yukon,YK,60,Population,2,linear,1,42163
+2020,Yukon,YK,60,Population,2,log,2,10.6492983381789
 2020,Yukon,YK,60,Provincial CPI (2020=100),3,linear,1, 
 2020,Yukon,YK,60,Provincial CPI (2020=100),3,log,2, 
 2020,Yukon,YK,60,Canada-Wide CPI (2020=100),4,linear,1,100
 2020,Yukon,YK,60,Canada-Wide CPI (2020=100),4,log,2,4.60517018598809
 2020,Yukon,YK,60,Employment,5,linear,1,21858.3333333333
 2020,Yukon,YK,60,Employment,5,log,2,9.99233751606696
-2020,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,linear,1,75476.3487675552
-2020,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,log,2,11.2315746248036
-2020,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,linear,1,145625.903145537
-2020,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,log,2,11.8887963051406
-2020,Yukon,YK,60,Nominal GDP Per Capita ($),8,linear,1,75476.3487675552
-2020,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2,11.2315746248036
-2020,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1,3183.13953292287
-2020,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2,8.06562326324333
-2021,Yukon,YK,60,Nominal GDP (Millions),1,linear,1, 
-2021,Yukon,YK,60,Nominal GDP (Millions),1,log,2, 
-2021,Yukon,YK,60,Population,2,linear,1,42986
-2021,Yukon,YK,60,Population,2,log,2,10.6686297602672
+2020,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,linear,1,76791.544525987
+2020,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,log,2,11.2488498157567
+2020,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,linear,1,148124.829211553
+2020,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,log,2,11.9058106378687
+2020,Yukon,YK,60,Nominal GDP Per Capita ($),8,linear,1,76791.544525987
+2020,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2,11.2488498157567
+2020,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1,3237.76189184919
+2020,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2,8.08263759597138
+2021,Yukon,YK,60,Nominal GDP (Millions),1,linear,1,3680.80753560015
+2021,Yukon,YK,60,Nominal GDP (Millions),1,log,2,8.21088744611153
+2021,Yukon,YK,60,Population,2,linear,1,43250
+2021,Yukon,YK,60,Population,2,log,2,10.67475251236
 2021,Yukon,YK,60,Provincial CPI (2020=100),3,linear,1, 
 2021,Yukon,YK,60,Provincial CPI (2020=100),3,log,2, 
 2021,Yukon,YK,60,Canada-Wide CPI (2020=100),4,linear,1,103.357664233577
 2021,Yukon,YK,60,Canada-Wide CPI (2020=100),4,log,2,4.63819544141959
 2021,Yukon,YK,60,Employment,5,linear,1,22216.6666666667
 2021,Yukon,YK,60,Employment,5,log,2,10.0085980369387
-2021,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,linear,1, 
-2021,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,log,2, 
-2021,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,linear,1, 
-2021,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,log,2, 
-2021,Yukon,YK,60,Nominal GDP Per Capita ($),8,linear,1, 
-2021,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2, 
-2021,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1, 
-2021,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2, 
+2021,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,linear,1,82340.653861275
+2021,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,log,2,11.3186202362843
+2021,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,linear,1,160295.571470374
+2021,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,log,2,11.9847747117056
+2021,Yukon,YK,60,Nominal GDP Per Capita ($),8,linear,1,85105.3765456681
+2021,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2,11.3516454917158
+2021,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1,3561.23327950014
+2021,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2,8.17786219068004
+2022,Yukon,YK,60,Nominal GDP (Millions),1,linear,1, 
+2022,Yukon,YK,60,Nominal GDP (Millions),1,log,2, 
+2022,Yukon,YK,60,Population,2,linear,1,43789
+2022,Yukon,YK,60,Population,2,log,2,10.6871379232707
+2022,Yukon,YK,60,Provincial CPI (2020=100),3,linear,1, 
+2022,Yukon,YK,60,Provincial CPI (2020=100),3,log,2, 
+2022,Yukon,YK,60,Canada-Wide CPI (2020=100),4,linear,1, 
+2022,Yukon,YK,60,Canada-Wide CPI (2020=100),4,log,2, 
+2022,Yukon,YK,60,Employment,5,linear,1,23220
+2022,Yukon,YK,60,Employment,5,log,2,10.0527692552519
+2022,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,linear,1, 
+2022,Yukon,YK,60,Real GDP Per Capita ($ 2020),6,log,2, 
+2022,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,linear,1, 
+2022,Yukon,YK,60,Real GDP Per Worker ($ 2020),7,log,2, 
+2022,Yukon,YK,60,Nominal GDP Per Capita ($),8,linear,1, 
+2022,Yukon,YK,60,Nominal GDP Per Capita ($),8,log,2, 
+2022,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,linear,1, 
+2022,Yukon,YK,60,"Real GDP (Millions, $ 2020)",9,log,2, 
