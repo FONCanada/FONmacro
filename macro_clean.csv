@@ -7499,8 +7499,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1963,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,12.9450747490584
 1963,Canada,NAT,99,National Inflation (%),10,linear,1,1.25786163522013
 1963,Canada,NAT,99,National Inflation (%),10,log,2, 
-1964,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,53976
-1964,Canada,NAT,99,Nominal GDP (Millions),1,log,2,10.8962947823073
+1964,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,53975
+1964,Canada,NAT,99,Nominal GDP (Millions),1,log,2,10.896276255383
 1964,Canada,NAT,99,Population,2,linear,1,19277250
 1964,Canada,NAT,99,Population,2,log,2,16.7744362021186
 1964,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,11.970802919708
@@ -7509,18 +7509,18 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1964,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,2.48247059499012
 1964,Canada,NAT,99,Employment,5,linear,1,6609000
 1964,Canada,NAT,99,Employment,5,log,2,15.7039429144526
-1964,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,23390.1138995828
-1964,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.0600687291509
-1964,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,68224.704671014
-1964,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.1305620168169
-1964,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,2799.98443761429
-1964,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,7.93736913815295
-1964,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,450897.073170732
-1964,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.0189943733052
+1964,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,23389.6805567285
+1964,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.0600502022267
+1964,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,68223.4406887873
+1964,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.1305434898927
+1964,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,2799.93256299524
+1964,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,7.9373506112287
+1964,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,450888.719512195
+1964,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.018975846381
 1964,Canada,NAT,99,National Inflation (%),10,linear,1,1.86335403726707
 1964,Canada,NAT,99,National Inflation (%),10,log,2, 
-1965,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,59552
-1965,Canada,NAT,99,Nominal GDP (Millions),1,log,2,10.994605159442
+1965,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,59551
+1965,Canada,NAT,99,Nominal GDP (Millions),1,log,2,10.9945883672537
 1965,Canada,NAT,99,Population,2,linear,1,19633500
 1965,Canada,NAT,99,Population,2,log,2,16.792747848882
 1965,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,12.2627737226277
@@ -7529,18 +7529,18 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1965,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,2.50656814656918
 1965,Canada,NAT,99,Employment,5,linear,1,6862000
 1965,Canada,NAT,99,Employment,5,log,2,15.7415095024005
-1965,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,24734.8858304623
-1965,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.1159699079431
-1965,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,70771.2592469223
-1965,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.1672082544246
-1965,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,3033.1830799399
-1965,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.01736786852423
-1965,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,485632.380952381
-1965,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.0932071988609
+1965,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,24734.4704810898
+1965,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.1159531157549
+1965,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,70770.0708525905
+1965,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.1671914622364
+1965,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,3033.13214658619
+1965,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.01735107633596
+1965,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,485624.226190476
+1965,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.0931904066726
 1965,Canada,NAT,99,National Inflation (%),10,linear,1,2.4390243902439
 1965,Canada,NAT,99,National Inflation (%),10,log,2, 
-1966,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,66704
-1966,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.1080202001206
+1966,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,66705
+1966,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.1080351916129
 1966,Canada,NAT,99,Population,2,linear,1,19997500
 1966,Canada,NAT,99,Population,2,log,2,16.8111178237051
 1966,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,12.7737226277372
@@ -7549,18 +7549,18 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1966,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,2.54739014108943
 1966,Canada,NAT,99,Employment,5,linear,1,7152000
 1966,Canada,NAT,99,Employment,5,log,2,15.7829025958355
-1966,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,26113.1155680174
-1966,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.1701929792784
-1966,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,73014.1259188239
-1966,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.198408207148
-1966,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,3335.61695211901
-1966,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.11241293437974
-1966,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,522197.028571429
-1966,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.1658002450192
+1966,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,26113.5070455235
+1966,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.1702079707707
+1966,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,73015.2205177373
+1966,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.1984231986404
+1966,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,3335.6669583698
+1966,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.11242792587207
+1966,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,522204.857142857
+1966,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.1658152365116
 1966,Canada,NAT,99,National Inflation (%),10,linear,1,4.16666666666667
 1966,Canada,NAT,99,National Inflation (%),10,log,2, 
-1967,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,71813
-1967,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.181820797143
+1967,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,71812
+1967,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.1818068719907
 1967,Canada,NAT,99,Population,2,linear,1,20363750
 1967,Canada,NAT,99,Population,2,log,2,16.8292669173625
 1967,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,13.2116788321168
@@ -7569,14 +7569,14 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1967,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,2.58110119843175
 1967,Canada,NAT,99,Employment,5,linear,1,7379000
 1967,Canada,NAT,99,Employment,5,log,2,15.8141486860405
-1967,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,26692.3803978131
-1967,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.1921334253011
-1967,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,73662.6861805078
-1967,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.2072516566231
-1967,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,3526.51157080597
-1967,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.16806443774478
-1967,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,543556.961325967
-1967,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.2058897846994
+1967,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,26692.0087049386
+1967,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.1921195001488
+1967,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,73661.6604235253
+1967,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.2072377314708
+1967,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,3526.46246393714
+1967,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.16805051259248
+1967,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,543549.392265193
+1967,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.2058758595471
 1967,Canada,NAT,99,National Inflation (%),10,linear,1,3.42857142857143
 1967,Canada,NAT,99,National Inflation (%),10,log,2, 
 1968,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,78474
@@ -7619,8 +7619,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1969,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.3064524068309
 1969,Canada,NAT,99,National Inflation (%),10,linear,1,4.78723404255319
 1969,Canada,NAT,99,National Inflation (%),10,log,2, 
-1970,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,93154
-1970,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.4420093166
+1970,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,93153
+1970,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.4419985816303
 1970,Canada,NAT,99,Population,2,linear,1,21287500
 1970,Canada,NAT,99,Population,2,log,2,16.8736306039531
 1970,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,14.8175182481752
@@ -7629,18 +7629,18 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1970,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,2.69581014620771
 1970,Canada,NAT,99,Employment,5,linear,1,7879000
 1970,Canada,NAT,99,Employment,5,log,2,15.8797115502278
-1970,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,29532.5791344744
-1970,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.2932493103916
-1970,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,79791.189024638
-1970,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.2871683641168
-1970,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,4375.99530240752
-1970,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.38388927061118
-1970,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,628674.778325123
-1970,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.3513693563804
+1970,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,29532.2621048338
+1970,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.2932385754219
+1970,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,79790.332473239
+1970,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.2871576291471
+1970,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,4375.94832648268
+1970,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.38387853564148
+1970,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,628668.02955665
+1970,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.3513586214107
 1970,Canada,NAT,99,National Inflation (%),10,linear,1,3.0456852791878
 1970,Canada,NAT,99,National Inflation (%),10,log,2, 
-1971,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,101664
-1971,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.5294285370692
+1971,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,101665
+1971,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.5294383733444
 1971,Canada,NAT,99,Population,2,linear,1,21747318.75
 1971,Canada,NAT,99,Population,2,log,2,16.8950010320378
 1971,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,15.2554744525547
@@ -7649,18 +7649,18 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1971,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,2.72493841913073
 1971,Canada,NAT,99,Employment,5,linear,1,8079000
 1971,Canada,NAT,99,Employment,5,log,2,15.9047786604618
-1971,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,30643.3156111767
-1971,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.3301698298531
-1971,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,82486.6879753819
-1971,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.320392201429
-1971,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,4674.78318447878
-1971,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.44993806299571
-1971,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,666409.95215311
-1971,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.4096603039266
+1971,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,30643.6170287445
+1971,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.3301796661283
+1971,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,82487.4993411355
+1971,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.3204020377042
+1971,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,4674.82916715882
+1971,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.44994789927091
+1971,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,666416.507177034
+1971,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.4096701402018
 1971,Canada,NAT,99,National Inflation (%),10,linear,1,2.95566502463054
 1971,Canada,NAT,99,National Inflation (%),10,log,2, 
-1972,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,113522
-1972,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.6397519297196
+1972,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,113521
+1972,Canada,NAT,99,Nominal GDP (Millions),1,log,2,11.6397431208156
 1972,Canada,NAT,99,Population,2,linear,1,22187094.75
 1972,Canada,NAT,99,Population,2,log,2,16.9150213602444
 1972,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,15.985401459854
@@ -7669,14 +7669,14 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1972,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,2.77167589698242
 1972,Canada,NAT,99,Employment,5,linear,1,8329000
 1972,Canada,NAT,99,Employment,5,log,2,15.9352539589175
-1972,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,32007.8164637127
-1972,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.3737354164452
-1972,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,85263.5918622889
-1972,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.3535028177721
-1972,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,5116.57796025773
-1972,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.5402411274395
-1972,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,710160.456621005
-1972,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.4732462187253
+1972,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,32007.5345111708
+1972,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.3737266075411
+1972,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,85262.8407867982
+1972,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.353494008868
+1972,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,5116.53288901198
+1972,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,8.54023231853546
+1972,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,710154.200913242
+1972,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.4732374098212
 1972,Canada,NAT,99,National Inflation (%),10,linear,1,4.78468899521529
 1972,Canada,NAT,99,National Inflation (%),10,log,2, 
 1973,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,132966
@@ -7799,8 +7799,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1978,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.7574146266822
 1978,Canada,NAT,99,National Inflation (%),10,linear,1,8.92857142857144
 1978,Canada,NAT,99,National Inflation (%),10,log,2, 
-1979,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,287609
-1979,Canada,NAT,99,Nominal GDP (Millions),1,log,2,12.5693571978025
+1979,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,287608
+1979,Canada,NAT,99,Nominal GDP (Millions),1,log,2,12.5693537208538
 1979,Canada,NAT,99,Population,2,linear,1,24170164.25
 1979,Canada,NAT,99,Population,2,log,2,17.000629548271
 1979,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,29.1970802919708
@@ -7809,18 +7809,18 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1979,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,3.3740687142739
 1979,Canada,NAT,99,Employment,5,linear,1,10668600
 1979,Canada,NAT,99,Employment,5,log,2,16.1828154056721
-1979,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,40755.2391788153
-1979,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.61533967921
-1979,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,92332.7170387867
-1979,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.4331538218089
-1979,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,11899.3399062234
-1979,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,9.38423820749584
-1979,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,985060.825
-1979,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.8004586695167
+1979,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,40755.0974751858
+1979,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.6153362022613
+1979,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,92332.3960032244
+1979,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.4331503448602
+1979,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,11899.2985329009
+1979,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,9.38423473054714
+1979,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,985057.4
+1979,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.800455192568
 1979,Canada,NAT,99,National Inflation (%),10,linear,1,9.28961748633876
 1979,Canada,NAT,99,National Inflation (%),10,log,2, 
-1980,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,322783
-1980,Canada,NAT,99,Nominal GDP (Millions),1,log,2,12.6847355498028
+1980,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,322782
+1980,Canada,NAT,99,Nominal GDP (Millions),1,log,2,12.6847324517414
 1980,Canada,NAT,99,Population,2,linear,1,24470715.25
 1980,Canada,NAT,99,Population,2,log,2,17.0129876646607
 1980,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,32.1167883211679
@@ -7829,14 +7829,14 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 1980,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,3.46937889407823
 1980,Canada,NAT,99,Employment,5,linear,1,10984000
 1980,Canada,NAT,99,Employment,5,log,2,16.2119502264299
-1980,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,41070.6788132658
-1980,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.6230497350163
-1980,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,91499.3523637688
-1980,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.424087173247
-1980,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,13190.5829765233
-1980,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,9.48725844310639
-1980,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,1005028.88636364
-1980,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.8205268417126
+1980,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,41070.5515739787
+1980,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.6230466369549
+1980,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,91499.0688935973
+1980,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.4240840751856
+1980,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,13190.5421113508
+1980,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,9.487255345045
+1980,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,1005025.77272727
+1980,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,13.8205237436512
 1980,Canada,NAT,99,National Inflation (%),10,linear,1,10
 1980,Canada,NAT,99,National Inflation (%),10,log,2, 
 1981,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,368358
@@ -8659,8 +8659,8 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2021,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,14.7026158528592
 2021,Canada,NAT,99,National Inflation (%),10,linear,1,3.35766423357664
 2021,Canada,NAT,99,National Inflation (%),10,log,2, 
-2022,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,2068605
-2022,Canada,NAT,99,Nominal GDP (Millions),1,log,2,14.5423850250166
+2022,Canada,NAT,99,Nominal GDP (Millions),1,linear,1,2786990.66666667
+2022,Canada,NAT,99,Nominal GDP (Millions),1,log,2,14.8404729575768
 2022,Canada,NAT,99,Population,2,linear,1,38845828.75
 2022,Canada,NAT,99,Population,2,log,2,17.4751112609312
 2022,Canada,NAT,99,Provincial CPI (2020=100),3,linear,1,110.36496350365
@@ -8669,14 +8669,14 @@ date,provname,provabb,provcode,item,itemid,transformation,transformationid,val
 2022,Canada,NAT,99,Canada-Wide CPI (2020=100),4,log,2,4.7037927239054
 2022,Canada,NAT,99,Employment,5,linear,1,19693000
 2022,Canada,NAT,99,Employment,5,log,2,16.7957738006143
-2022,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,48250.5151856234
-2022,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,10.7841617841324
-2022,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,95177.5377037526
-2022,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.4634992444492
-2022,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,53251.6634749362
-2022,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,10.8827843220497
-2022,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,1874331.25
-2022,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,14.4437624870993
+2022,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,linear,1,65006.9662812333
+2022,Canada,NAT,99,Real GDP Per Capita ($ 2020),6,log,2,11.0822497166925
+2022,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,linear,1,128230.817027259
+2022,Canada,NAT,99,Real GDP Per Worker ($ 2020),7,log,2,11.7615871770094
+2022,Canada,NAT,99,Nominal GDP Per Capita ($),8,linear,1,71744.914611113
+2022,Canada,NAT,99,Nominal GDP Per Capita ($),8,log,2,11.1808722546098
+2022,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,linear,1,2525249.47971781
+2022,Canada,NAT,99,"Real GDP (Millions, $ 2020)",9,log,2,14.7418504196595
 2022,Canada,NAT,99,National Inflation (%),10,linear,1,6.77966101694913
 2022,Canada,NAT,99,National Inflation (%),10,log,2, 
 1867,Manitoba,MB,46,Nominal GDP (Millions),1,linear,1, 
