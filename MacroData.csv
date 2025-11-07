@@ -153,9 +153,10 @@
 2018,"Canada","Nominal GDP (Millions)",2235675,14.6200537538558
 2019,"Canada","Nominal GDP (Millions)",2313563,14.6542993184259
 2020,"Canada","Nominal GDP (Millions)",2220527,14.6132551130639
-2021,"Canada","Nominal GDP (Millions)",2517123,14.7386271406231
-2022,"Canada","Nominal GDP (Millions)",2813289,14.849864819486
-2023,"Canada","Nominal GDP (Millions)",2892140,14.8775072704944
+2021,"Canada","Nominal GDP (Millions)",2535818,14.7460268254024
+2022,"Canada","Nominal GDP (Millions)",2850940,14.8631593224261
+2023,"Canada","Nominal GDP (Millions)",2933810,14.8918124775786
+2024,"Canada","Nominal GDP (Millions)",3072346,14.9379519971157
 1949,"Newfoundland and Labrador","Nominal GDP (Millions)",209.10556051842,5.34283919870856
 1950,"Newfoundland and Labrador","Nominal GDP (Millions)",222.05125062295,5.40290821389046
 1951,"Newfoundland and Labrador","Nominal GDP (Millions)",272.728964118792,5.60847849660155
@@ -229,9 +230,10 @@
 2019,"Newfoundland and Labrador","Nominal GDP (Millions)",35819,10.4862337578604
 2020,"Newfoundland and Labrador","Nominal GDP (Millions)",32176,10.3789761120124
 2021,"Newfoundland and Labrador","Nominal GDP (Millions)",38678,10.5630262419222
-2022,"Newfoundland and Labrador","Nominal GDP (Millions)",41209,10.6264119580836
-2023,"Newfoundland and Labrador","Nominal GDP (Millions)",38959,10.5702650900759
-2024,"Newfoundland and Labrador","Nominal GDP (Millions)",NA,NA
+2022,"Newfoundland and Labrador","Nominal GDP (Millions)",42036,10.6462816729855
+2023,"Newfoundland and Labrador","Nominal GDP (Millions)",40363,10.6056688027259
+2024,"Newfoundland and Labrador","Nominal GDP (Millions)",42219,10.6506256356647
+2025,"Newfoundland and Labrador","Nominal GDP (Millions)",NA,NA
 1867,"Prince Edward Island","Nominal GDP (Millions)",NA,NA
 1868,"Prince Edward Island","Nominal GDP (Millions)",NA,NA
 1869,"Prince Edward Island","Nominal GDP (Millions)",NA,NA
@@ -387,9 +389,10 @@
 2019,"Prince Edward Island","Nominal GDP (Millions)",7440,8.91462612782714
 2020,"Prince Edward Island","Nominal GDP (Millions)",7461,8.91744473247151
 2021,"Prince Edward Island","Nominal GDP (Millions)",8567,9.05567289196404
-2022,"Prince Edward Island","Nominal GDP (Millions)",9461,9.15493336470444
-2023,"Prince Edward Island","Nominal GDP (Millions)",9924,9.20271134481169
-2024,"Prince Edward Island","Nominal GDP (Millions)",NA,NA
+2022,"Prince Edward Island","Nominal GDP (Millions)",9499,9.15894180889018
+2023,"Prince Edward Island","Nominal GDP (Millions)",10134,9.22365138603585
+2024,"Prince Edward Island","Nominal GDP (Millions)",10889,9.29550838434606
+2025,"Prince Edward Island","Nominal GDP (Millions)",NA,NA
 1867,"Nova Scotia","Nominal GDP (Millions)",NA,NA
 1868,"Nova Scotia","Nominal GDP (Millions)",NA,NA
 1869,"Nova Scotia","Nominal GDP (Millions)",NA,NA
@@ -545,9 +548,10 @@
 2019,"Nova Scotia","Nominal GDP (Millions)",46834,10.754364713862
 2020,"Nova Scotia","Nominal GDP (Millions)",46165,10.7399772142067
 2021,"Nova Scotia","Nominal GDP (Millions)",51385,10.8471015800592
-2022,"Nova Scotia","Nominal GDP (Millions)",55173,10.9182289821671
-2023,"Nova Scotia","Nominal GDP (Millions)",59574,10.9949745162616
-2024,"Nova Scotia","Nominal GDP (Millions)",NA,NA
+2022,"Nova Scotia","Nominal GDP (Millions)",56228,10.9371701324517
+2023,"Nova Scotia","Nominal GDP (Millions)",60487,11.0101837448967
+2024,"Nova Scotia","Nominal GDP (Millions)",65338,11.0873290755651
+2025,"Nova Scotia","Nominal GDP (Millions)",NA,NA
 1867,"New Brunswick","Nominal GDP (Millions)",NA,NA
 1868,"New Brunswick","Nominal GDP (Millions)",NA,NA
 1869,"New Brunswick","Nominal GDP (Millions)",NA,NA
@@ -703,9 +707,10 @@
 2019,"New Brunswick","Nominal GDP (Millions)",38057,10.5468403148323
 2020,"New Brunswick","Nominal GDP (Millions)",37354,10.5281952798736
 2021,"New Brunswick","Nominal GDP (Millions)",41290,10.6283756188801
-2022,"New Brunswick","Nominal GDP (Millions)",45571,10.7270268282787
-2023,"New Brunswick","Nominal GDP (Millions)",47035,10.7586472844061
-2024,"New Brunswick","Nominal GDP (Millions)",NA,NA
+2022,"New Brunswick","Nominal GDP (Millions)",44913,10.7124825641179
+2023,"New Brunswick","Nominal GDP (Millions)",46463,10.7464115759143
+2024,"New Brunswick","Nominal GDP (Millions)",48302,10.7852282466509
+2025,"New Brunswick","Nominal GDP (Millions)",NA,NA
 1867,"Quebec","Nominal GDP (Millions)",NA,NA
 1868,"Quebec","Nominal GDP (Millions)",NA,NA
 1869,"Quebec","Nominal GDP (Millions)",NA,NA
@@ -861,9 +866,10 @@
 2019,"Quebec","Nominal GDP (Millions)",459816,13.0385816884439
 2020,"Quebec","Nominal GDP (Millions)",451344,13.019985077185
 2021,"Quebec","Nominal GDP (Millions)",507464,13.1371810514214
-2022,"Quebec","Nominal GDP (Millions)",551681,13.2207252596608
-2023,"Quebec","Nominal GDP (Millions)",579460,13.269851914358
-2024,"Quebec","Nominal GDP (Millions)",NA,NA
+2022,"Quebec","Nominal GDP (Millions)",556139,13.2287735419879
+2023,"Quebec","Nominal GDP (Millions)",582495,13.2750758806942
+2024,"Quebec","Nominal GDP (Millions)",616771,13.3322530832647
+2025,"Quebec","Nominal GDP (Millions)",NA,NA
 1867,"Ontario","Nominal GDP (Millions)",NA,NA
 1868,"Ontario","Nominal GDP (Millions)",NA,NA
 1869,"Ontario","Nominal GDP (Millions)",NA,NA
@@ -1019,9 +1025,10 @@
 2019,"Ontario","Nominal GDP (Millions)",893224,13.7025926682692
 2020,"Ontario","Nominal GDP (Millions)",874354,13.6812406069584
 2021,"Ontario","Nominal GDP (Millions)",970146,13.7852018546172
-2022,"Ontario","Nominal GDP (Millions)",1061714,13.8753951413139
-2023,"Ontario","Nominal GDP (Millions)",1119545,13.9284329107294
-2024,"Ontario","Nominal GDP (Millions)",NA,NA
+2022,"Ontario","Nominal GDP (Millions)",1065260,13.8787294587858
+2023,"Ontario","Nominal GDP (Millions)",1138592,13.9453029693019
+2024,"Ontario","Nominal GDP (Millions)",1197020,13.9953456928383
+2025,"Ontario","Nominal GDP (Millions)",NA,NA
 1867,"Manitoba","Nominal GDP (Millions)",NA,NA
 1868,"Manitoba","Nominal GDP (Millions)",NA,NA
 1869,"Manitoba","Nominal GDP (Millions)",NA,NA
@@ -1177,9 +1184,10 @@
 2019,"Manitoba","Nominal GDP (Millions)",74626,11.2202442509401
 2020,"Manitoba","Nominal GDP (Millions)",72963,11.1977077423239
 2021,"Manitoba","Nominal GDP (Millions)",79281,11.280753782446
-2022,"Manitoba","Nominal GDP (Millions)",87881,11.3837389055872
-2023,"Manitoba","Nominal GDP (Millions)",91872,11.4281515829208
-2024,"Manitoba","Nominal GDP (Millions)",NA,NA
+2022,"Manitoba","Nominal GDP (Millions)",88262,11.3880649428886
+2023,"Manitoba","Nominal GDP (Millions)",93045,11.4408385260753
+2024,"Manitoba","Nominal GDP (Millions)",96125,11.4734047068079
+2025,"Manitoba","Nominal GDP (Millions)",NA,NA
 1901,"Saskatchewan","Nominal GDP (Millions)",NA,NA
 1902,"Saskatchewan","Nominal GDP (Millions)",NA,NA
 1903,"Saskatchewan","Nominal GDP (Millions)",NA,NA
@@ -1301,9 +1309,10 @@
 2019,"Saskatchewan","Nominal GDP (Millions)",84501,11.3445186475948
 2020,"Saskatchewan","Nominal GDP (Millions)",77778,11.2616138938281
 2021,"Saskatchewan","Nominal GDP (Millions)",88352,11.3890841147299
-2022,"Saskatchewan","Nominal GDP (Millions)",115195,11.6543816235242
-2023,"Saskatchewan","Nominal GDP (Millions)",109702,11.6055228776377
-2024,"Saskatchewan","Nominal GDP (Millions)",NA,NA
+2022,"Saskatchewan","Nominal GDP (Millions)",117286,11.6723706754299
+2023,"Saskatchewan","Nominal GDP (Millions)",112895,11.6342134621774
+2024,"Saskatchewan","Nominal GDP (Millions)",112839,11.633717302971
+2025,"Saskatchewan","Nominal GDP (Millions)",NA,NA
 1901,"Alberta","Nominal GDP (Millions)",NA,NA
 1902,"Alberta","Nominal GDP (Millions)",NA,NA
 1903,"Alberta","Nominal GDP (Millions)",NA,NA
@@ -1425,9 +1434,10 @@
 2019,"Alberta","Nominal GDP (Millions)",352111,12.7717017457798
 2020,"Alberta","Nominal GDP (Millions)",301305,12.6158783197368
 2021,"Alberta","Nominal GDP (Millions)",380053,12.8480659956612
-2022,"Alberta","Nominal GDP (Millions)",472776,13.0663769823643
-2023,"Alberta","Nominal GDP (Millions)",452410,13.0223441273123
-2024,"Alberta","Nominal GDP (Millions)",NA,NA
+2022,"Alberta","Nominal GDP (Millions)",469995,13.0604773353318
+2023,"Alberta","Nominal GDP (Millions)",451008,13.0192403566867
+2024,"Alberta","Nominal GDP (Millions)",473937,13.0688296804513
+2025,"Alberta","Nominal GDP (Millions)",NA,NA
 1867,"British Columbia","Nominal GDP (Millions)",NA,NA
 1868,"British Columbia","Nominal GDP (Millions)",NA,NA
 1869,"British Columbia","Nominal GDP (Millions)",NA,NA
@@ -1583,9 +1593,10 @@
 2019,"British Columbia","Nominal GDP (Millions)",308993,12.6410739019016
 2020,"British Columbia","Nominal GDP (Millions)",307412,12.6359441464099
 2021,"British Columbia","Nominal GDP (Millions)",357002,12.785496662987
-2022,"British Columbia","Nominal GDP (Millions)",395629,12.888232182414
-2023,"British Columbia","Nominal GDP (Millions)",409881,12.9236221526491
-2024,"British Columbia","Nominal GDP (Millions)",NA,NA
+2022,"British Columbia","Nominal GDP (Millions)",400154,12.8996047519966
+2023,"British Columbia","Nominal GDP (Millions)",414465,12.9347438109091
+2024,"British Columbia","Nominal GDP (Millions)",429089,12.9694196356009
+2025,"British Columbia","Nominal GDP (Millions)",NA,NA
 1971,"Yukon","Nominal GDP (Millions)",NA,NA
 1972,"Yukon","Nominal GDP (Millions)",NA,NA
 1973,"Yukon","Nominal GDP (Millions)",NA,NA
@@ -1637,9 +1648,10 @@
 2019,"Yukon","Nominal GDP (Millions)",3076,8.03138533062553
 2020,"Yukon","Nominal GDP (Millions)",3242,8.08394570229562
 2021,"Yukon","Nominal GDP (Millions)",3637,8.19891444498699
-2022,"Yukon","Nominal GDP (Millions)",4072,8.31188955823036
-2023,"Yukon","Nominal GDP (Millions)",4330,8.37332282099653
-2024,"Yukon","Nominal GDP (Millions)",NA,NA
+2022,"Yukon","Nominal GDP (Millions)",3873,8.26178467951475
+2023,"Yukon","Nominal GDP (Millions)",4182,8.33854487998858
+2024,"Yukon","Nominal GDP (Millions)",4349,8.37770121259764
+2025,"Yukon","Nominal GDP (Millions)",NA,NA
 1991,"Northwest Territories","Nominal GDP (Millions)",NA,NA
 1992,"Northwest Territories","Nominal GDP (Millions)",NA,NA
 1993,"Northwest Territories","Nominal GDP (Millions)",NA,NA
@@ -1671,9 +1683,10 @@
 2019,"Northwest Territories","Nominal GDP (Millions)",4670,8.44891435066294
 2020,"Northwest Territories","Nominal GDP (Millions)",4193,8.34117174717076
 2021,"Northwest Territories","Nominal GDP (Millions)",4781,8.4724050086261
-2022,"Northwest Territories","Nominal GDP (Millions)",5505,8.61341204915678
-2023,"Northwest Territories","Nominal GDP (Millions)",5478,8.60849534982302
-2024,"Northwest Territories","Nominal GDP (Millions)",NA,NA
+2022,"Northwest Territories","Nominal GDP (Millions)",5340,8.58298093195424
+2023,"Northwest Territories","Nominal GDP (Millions)",5346,8.58410389669886
+2024,"Northwest Territories","Nominal GDP (Millions)",5123,8.5414954839392
+2025,"Northwest Territories","Nominal GDP (Millions)",NA,NA
 1991,"Nunavut","Nominal GDP (Millions)",NA,NA
 1992,"Nunavut","Nominal GDP (Millions)",NA,NA
 1993,"Nunavut","Nominal GDP (Millions)",NA,NA
@@ -1705,9 +1718,10 @@
 2019,"Nunavut","Nominal GDP (Millions)",3584,8.18423477409482
 2020,"Nunavut","Nominal GDP (Millions)",4066,8.31041499418829
 2021,"Nunavut","Nominal GDP (Millions)",4418,8.39344238398006
-2022,"Nunavut","Nominal GDP (Millions)",4320,8.37101068123816
-2023,"Nunavut","Nominal GDP (Millions)",4825,8.48156601377309
-2024,"Nunavut","Nominal GDP (Millions)",NA,NA
+2022,"Nunavut","Nominal GDP (Millions)",4402,8.38981426208641
+2023,"Nunavut","Nominal GDP (Millions)",4899,8.49678638163858
+2024,"Nunavut","Nominal GDP (Millions)",5668,8.64259160081057
+2025,"Nunavut","Nominal GDP (Millions)",NA,NA
 1867,"Canada","Population",3460887.04035145,15.0570354842205
 1868,"Canada","Population",3508857.75301009,15.0708011159865
 1869,"Canada","Population",3562824.80475106,15.0860642726665
@@ -1862,9 +1876,10 @@
 2018,"Canada","Population",37009338.75,17.42668083741
 2019,"Canada","Population",37555214,17.4413227813952
 2020,"Canada","Population",37997798.25,17.4530387752226
-2021,"Canada","Population",38221486,17.458908376188
-2022,"Canada","Population",38865972.75,17.4756296892796
-2023,"Canada","Population",39968532.25,17.5036030087223
+2021,"Canada","Population",38224832.5,17.4589959278208
+2022,"Canada","Population",38873253,17.4758169885471
+2023,"Canada","Population",39936359,17.5027977200538
+2024,"Canada","Population",41117821,17.531952186462
 1949,"Newfoundland and Labrador","Population",345000,12.7512996960135
 1950,"Newfoundland and Labrador","Population",351000,12.768541502448
 1951,"Newfoundland and Labrador","Population",361400,12.7977406571403
@@ -1938,9 +1953,10 @@
 2019,"Newfoundland and Labrador","Population",527643,13.1761751976415
 2020,"Newfoundland and Labrador","Population",526884,13.1747356894429
 2021,"Newfoundland and Labrador","Population",527056,13.1750620837377
-2022,"Newfoundland and Labrador","Population",531308,13.183097169732
-2023,"Newfoundland and Labrador","Population",538907,13.1972982932601
-2024,"Newfoundland and Labrador","Population",545247,13.2089941819855
+2022,"Newfoundland and Labrador","Population",531257,13.1830011756045
+2023,"Newfoundland and Labrador","Population",538789,13.1970793075713
+2024,"Newfoundland and Labrador","Population",546869,13.2119645646053
+2025,"Newfoundland and Labrador","Population",549911,13.2175117259329
 1867,"Prince Edward Island","Population",88000,11.3850920934603
 1868,"Prince Edward Island","Population",90000,11.4075649493124
 1869,"Prince Edward Island","Population",91000,11.418614785499
@@ -2096,9 +2112,10 @@
 2019,"Prince Edward Island","Population",155792,11.9562770632185
 2020,"Prince Edward Island","Population",159193,11.9778725815765
 2021,"Prince Edward Island","Population",162133,11.9961722650428
-2022,"Prince Edward Island","Population",167213,12.0270237278064
-2023,"Prince Edward Island","Population",173713,12.0651597911098
-2024,"Prince Edward Island","Population",178550,12.0926239530226
+2022,"Prince Edward Island","Population",167200,12.0269459796327
+2023,"Prince Edward Island","Population",173734,12.0652806728559
+2024,"Prince Edward Island","Population",179709,12.09909415499
+2025,"Prince Edward Island","Population",182657,12.1153653561537
 1867,"Nova Scotia","Population",364000,12.8049091466189
 1868,"Nova Scotia","Population",369000,12.8185519230227
 1869,"Nova Scotia","Population",374000,12.8320110763967
@@ -2254,9 +2271,10 @@
 2019,"Nova Scotia","Population",975799,13.7910119015632
 2020,"Nova Scotia","Population",989168,13.8046194647329
 2021,"Nova Scotia","Population",999908,13.815418553732
-2022,"Nova Scotia","Population",1025263,13.8404597230081
-2023,"Nova Scotia","Population",1056486,13.870458864649
-2024,"Nova Scotia","Population",1076374,13.8891085429538
+2022,"Nova Scotia","Population",1024034,13.8392602871554
+2023,"Nova Scotia","Population",1053005,13.8671585394429
+2024,"Nova Scotia","Population",1082769,13.8950322068333
+2025,"Nova Scotia","Population",1093245,13.9046608957454
 1867,"New Brunswick","Population",271000,12.5098740998618
 1868,"New Brunswick","Population",274000,12.5208833853702
 1869,"New Brunswick","Population",277000,12.5317727851695
@@ -2412,9 +2430,10 @@
 2019,"New Brunswick","Population",777387,13.5636935748524
 2020,"New Brunswick","Population",783432,13.5714395469671
 2021,"New Brunswick","Population",790802,13.5808028993599
-2022,"New Brunswick","Population",809264,13.603880471608
-2023,"New Brunswick","Population",832190,13.6318160591166
-2024,"New Brunswick","Population",854355,13.6581020772617
+2022,"New Brunswick","Population",808869,13.6033922546223
+2023,"New Brunswick","Population",831103,13.6305090132085
+2024,"New Brunswick","Population",858293,13.6627008120165
+2025,"New Brunswick","Population",869682,13.6758829065717
 1867,"Quebec","Population",1123000,13.9315142337206
 1868,"Quebec","Population",1137000,13.9439037727327
 1869,"Quebec","Population",1154000,13.9587447260502
@@ -2570,9 +2589,10 @@
 2019,"Quebec","Population",8483186,15.9535966447548
 2020,"Quebec","Population",8551095,15.9615699028881
 2021,"Quebec","Population",8572020,15.9640139687507
-2022,"Quebec","Population",8673184,15.9757465247073
-2023,"Quebec","Population",8848020,15.9957042631395
-2024,"Quebec","Population",9056044,16.0189429380705
+2022,"Quebec","Population",8669963,15.9753750811582
+2023,"Quebec","Population",8821696,15.992724699747
+2024,"Quebec","Population",8995474,16.0122321199206
+2025,"Quebec","Population",9058297,16.0191916912558
 1867,"Ontario","Population",1525000,14.2375049680236
 1868,"Ontario","Population",1545000,14.250534468314
 1869,"Ontario","Population",1569000,14.2659490317152
@@ -2728,9 +2748,10 @@
 2019,"Ontario","Population",14573565,16.494719829093
 2020,"Ontario","Population",14761811,16.507554066087
 2021,"Ontario","Population",14842488,16.5130044366375
-2022,"Ontario","Population",15141455,16.5329469043943
-2023,"Ontario","Population",15623207,16.5642679950022
-2024,"Ontario","Population",16124116,16.5958265974379
+2022,"Ontario","Population",15155836,16.533896230265
+2023,"Ontario","Population",15632481,16.5648614230063
+2024,"Ontario","Population",16144797,16.5971083885433
+2025,"Ontario","Population",16258260,16.6041116452877
 1867,"Manitoba","Population",15000,9.61580548008435
 1868,"Manitoba","Population",17000,9.74096862303835
 1869,"Manitoba","Population",20000,9.90348755253613
@@ -2886,9 +2907,10 @@
 2019,"Manitoba","Population",1370033,14.1303453851054
 2020,"Manitoba","Population",1380132,14.1376897047329
 2021,"Manitoba","Population",1391924,14.1461975206848
-2022,"Manitoba","Population",1412568,14.1609198824369
-2023,"Manitoba","Population",1454743,14.190339810684
-2024,"Manitoba","Population",1494301,14.2171690969389
+2022,"Manitoba","Population",1413498,14.1615780411873
+2023,"Manitoba","Population",1453202,14.1892799556013
+2024,"Manitoba","Population",1492144,14.2157245698339
+2025,"Manitoba","Population",1509702,14.2274228383215
 1901,"Saskatchewan","Population",91000,11.418614785499
 1902,"Saskatchewan","Population",125000,11.7360690162844
 1903,"Saskatchewan","Population",159000,11.9766594812024
@@ -3010,9 +3032,10 @@
 2019,"Saskatchewan","Population",1164223,13.9675644696803
 2020,"Saskatchewan","Population",1167386,13.970277619218
 2021,"Saskatchewan","Population",1167711,13.9705559802472
-2022,"Saskatchewan","Population",1178455,13.9797148164969
-2023,"Saskatchewan","Population",1209307,14.0055580262293
-2024,"Saskatchewan","Population",1239865,14.0305130606866
+2022,"Saskatchewan","Population",1178796,13.9800041365586
+2023,"Saskatchewan","Population",1210257,14.0063432917142
+2024,"Saskatchewan","Population",1247868,14.0369470530868
+2025,"Saskatchewan","Population",1266959,14.0521300988744
 1901,"Alberta","Population",73000,11.1982147201305
 1902,"Alberta","Population",96000,11.47210347045
 1903,"Alberta","Population",119000,11.6868787720937
@@ -3134,9 +3157,10 @@
 2019,"Alberta","Population",4355377,15.2869217316862
 2020,"Alberta","Population",4407495,15.2988170588236
 2021,"Alberta","Population",4431531,15.3042556805101
-2022,"Alberta","Population",4510747,15.3219733296925
-2023,"Alberta","Population",4684514,15.3597727329483
-2024,"Alberta","Population",4888723,15.4024416821524
+2022,"Alberta","Population",4512731,15.3224130714488
+2023,"Alberta","Population",4688576,15.3606394695857
+2024,"Alberta","Population",4909030,15.4065869242458
+2025,"Alberta","Population",5029346,15.4308005137419
 1867,"British Columbia","Population",32000,10.3734911817819
 1868,"British Columbia","Population",33000,10.4042628404486
 1869,"British Columbia","Population",34000,10.4341158035983
@@ -3292,9 +3316,10 @@
 2019,"British Columbia","Population",5111022,15.4469099421826
 2020,"British Columbia","Population",5176101,15.4595626281101
 2021,"British Columbia","Population",5226665,15.4692839653408
-2022,"British Columbia","Population",5357486,15.4940053931673
-2023,"British Columbia","Population",5531553,15.525979165899
-2024,"British Columbia","Population",5698430,15.5557012562681
+2022,"British Columbia","Population",5358845,15.4942590247521
+2023,"British Columbia","Population",5515296,15.5230358810336
+2024,"British Columbia","Population",5671114,15.5508961290688
+2025,"British Columbia","Population",5697536,15.5555443586428
 1971,"Yukon","Population",18991,9.85172046171425
 1972,"Yukon","Population",20143,9.91061211247842
 1973,"Yukon","Population",21148,9.95930061735534
@@ -3346,9 +3371,10 @@
 2019,"Yukon","Population",41187,10.6258779515657
 2020,"Yukon","Population",41958,10.6444243969319
 2021,"Yukon","Population",42961,10.6680480063792
-2022,"Yukon","Population",43900,10.6896695990633
-2023,"Yukon","Population",45463,10.7246540873101
-2024,"Yukon","Population",46704,10.7515850930939
+2022,"Yukon","Population",43869,10.68896319928
+2023,"Yukon","Population",45419,10.7236857986845
+2024,"Yukon","Population",47595,10.7704829926854
+2025,"Yukon","Population",48278,10.7847312493327
 1991,"Northwest Territories","Population",38724,10.56421484184
 1992,"Northwest Territories","Population",39416,10.5819271042238
 1993,"Northwest Territories","Population",39820,10.5921245776182
@@ -3380,9 +3406,10 @@
 2019,"Northwest Territories","Population",44442,10.7019402472413
 2020,"Northwest Territories","Population",44504,10.7033343517551
 2021,"Northwest Territories","Population",44579,10.7050181751046
-2022,"Northwest Territories","Population",44634,10.7062511794194
-2023,"Northwest Territories","Population",44681,10.7073036343114
-2024,"Northwest Territories","Population",44731,10.7084220525374
+2022,"Northwest Territories","Population",44631,10.7061839638254
+2023,"Northwest Territories","Population",44614,10.7058029900967
+2024,"Northwest Territories","Population",45257,10.7201126332965
+2025,"Northwest Territories","Population",45950,10.7353091277838
 1991,"Nunavut","Population",22154,10.0057733460769
 1992,"Nunavut","Population",22883,10.0381495557795
 1993,"Nunavut","Population",23559,10.067263192043
@@ -3414,9 +3441,10 @@
 2019,"Nunavut","Population",38839,10.5671801754209
 2020,"Nunavut","Population",39479,10.583524163946
 2021,"Nunavut","Population",40086,10.5987824251535
-2022,"Nunavut","Population",40457,10.6079949606667
-2023,"Nunavut","Population",40700,10.6139833714307
-2024,"Nunavut","Population",41159,10.6251978942204
+2022,"Nunavut","Population",40603,10.6115972344856
+2023,"Nunavut","Population",40916,10.6192764635769
+2024,"Nunavut","Population",41410,10.6312776765396
+2025,"Nunavut","Population",41830,10.6413690644362
 1867,"Canada","Provincial CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"Canada","Provincial CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"Canada","Provincial CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -3574,6 +3602,7 @@
 2021,"Canada","Provincial CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Canada","Provincial CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Canada","Provincial CPI (2020=100)",114.671532846715,4.74207180542154
+2024,"Canada","Provincial CPI (2020=100)",117.445255474453,4.7659723141583
 1949,"Newfoundland and Labrador","Provincial CPI (2020=100)",9.19093762608476,2.21821795794067
 1950,"Newfoundland and Labrador","Provincial CPI (2020=100)",9.47815442689991,2.24898961660742
 1951,"Newfoundland and Labrador","Provincial CPI (2020=100)",10.4116090295491,2.34292143644162
@@ -3649,7 +3678,8 @@
 2021,"Newfoundland and Labrador","Provincial CPI (2020=100)",103.65329512894,4.64105162929726
 2022,"Newfoundland and Labrador","Provincial CPI (2020=100)",110.243553008596,4.70269203650465
 2023,"Newfoundland and Labrador","Provincial CPI (2020=100)",113.896848137536,4.73529319788005
-2024,"Newfoundland and Labrador","Provincial CPI (2020=100)",NA,NA
+2024,"Newfoundland and Labrador","Provincial CPI (2020=100)",115.974212034384,4.75336785634341
+2025,"Newfoundland and Labrador","Provincial CPI (2020=100)",NA,NA
 1867,"Prince Edward Island","Provincial CPI (2020=100)",NA,NA
 1868,"Prince Edward Island","Provincial CPI (2020=100)",NA,NA
 1869,"Prince Edward Island","Provincial CPI (2020=100)",NA,NA
@@ -3807,7 +3837,8 @@
 2021,"Prince Edward Island","Provincial CPI (2020=100)",105.07614213198,4.65468525051547
 2022,"Prince Edward Island","Provincial CPI (2020=100)",114.430746918057,4.73996980960061
 2023,"Prince Edward Island","Provincial CPI (2020=100)",117.693981145758,4.76808787570938
-2024,"Prince Edward Island","Provincial CPI (2020=100)",NA,NA
+2024,"Prince Edward Island","Provincial CPI (2020=100)",119.869470630892,4.78640340601581
+2025,"Prince Edward Island","Provincial CPI (2020=100)",NA,NA
 1867,"Nova Scotia","Provincial CPI (2020=100)",NA,NA
 1868,"Nova Scotia","Provincial CPI (2020=100)",NA,NA
 1869,"Nova Scotia","Provincial CPI (2020=100)",NA,NA
@@ -3965,7 +3996,8 @@
 2021,"Nova Scotia","Provincial CPI (2020=100)",104.060913705584,4.64497643638851
 2022,"Nova Scotia","Provincial CPI (2020=100)",111.892675852067,4.71754016055795
 2023,"Nova Scotia","Provincial CPI (2020=100)",116.388687454677,4.75693534375891
-2024,"Nova Scotia","Provincial CPI (2020=100)",NA,NA
+2024,"Nova Scotia","Provincial CPI (2020=100)",119.071791153009,4.77972659820716
+2025,"Nova Scotia","Provincial CPI (2020=100)",NA,NA
 1867,"New Brunswick","Provincial CPI (2020=100)",NA,NA
 1868,"New Brunswick","Provincial CPI (2020=100)",NA,NA
 1869,"New Brunswick","Provincial CPI (2020=100)",NA,NA
@@ -4123,7 +4155,8 @@
 2021,"New Brunswick","Provincial CPI (2020=100)",103.806734992679,4.64253085294943
 2022,"New Brunswick","Provincial CPI (2020=100)",111.346998535871,4.71265143811665
 2023,"New Brunswick","Provincial CPI (2020=100)",115.300146412884,4.74753869711709
-2024,"New Brunswick","Provincial CPI (2020=100)",NA,NA
+2024,"New Brunswick","Provincial CPI (2020=100)",117.862371888726,4.76951760383586
+2025,"New Brunswick","Provincial CPI (2020=100)",NA,NA
 1867,"Quebec","Provincial CPI (2020=100)",NA,NA
 1868,"Quebec","Provincial CPI (2020=100)",NA,NA
 1869,"Quebec","Provincial CPI (2020=100)",NA,NA
@@ -4281,7 +4314,8 @@
 2021,"Quebec","Provincial CPI (2020=100)",103.765060240964,4.64212930752532
 2022,"Quebec","Provincial CPI (2020=100)",110.692771084337,4.70675853572449
 2023,"Quebec","Provincial CPI (2020=100)",115.66265060241,4.75067776965933
-2024,"Quebec","Provincial CPI (2020=100)",NA,NA
+2024,"Quebec","Provincial CPI (2020=100)",118.373493975904,4.77384482894086
+2025,"Quebec","Provincial CPI (2020=100)",NA,NA
 1867,"Ontario","Provincial CPI (2020=100)",NA,NA
 1868,"Ontario","Provincial CPI (2020=100)",NA,NA
 1869,"Ontario","Provincial CPI (2020=100)",NA,NA
@@ -4439,7 +4473,8 @@
 2021,"Ontario","Provincial CPI (2020=100)",103.468208092486,4.63926439733107
 2022,"Ontario","Provincial CPI (2020=100)",110.476878612717,4.70480625573954
 2023,"Ontario","Provincial CPI (2020=100)",114.667630057803,4.74203777033689
-2024,"Ontario","Provincial CPI (2020=100)",NA,NA
+2024,"Ontario","Provincial CPI (2020=100)",117.413294797688,4.76570014457431
+2025,"Ontario","Provincial CPI (2020=100)",NA,NA
 1867,"Manitoba","Provincial CPI (2020=100)",NA,NA
 1868,"Manitoba","Provincial CPI (2020=100)",NA,NA
 1869,"Manitoba","Provincial CPI (2020=100)",NA,NA
@@ -4597,7 +4632,8 @@
 2021,"Manitoba","Provincial CPI (2020=100)",103.272727272727,4.63737332648273
 2022,"Manitoba","Provincial CPI (2020=100)",111.418181818182,4.71329052618796
 2023,"Manitoba","Provincial CPI (2020=100)",115.345454545455,4.74793157808221
-2024,"Manitoba","Provincial CPI (2020=100)",NA,NA
+2024,"Manitoba","Provincial CPI (2020=100)",116.581818181818,4.75859332849697
+2025,"Manitoba","Provincial CPI (2020=100)",NA,NA
 1901,"Saskatchewan","Provincial CPI (2020=100)",NA,NA
 1902,"Saskatchewan","Provincial CPI (2020=100)",NA,NA
 1903,"Saskatchewan","Provincial CPI (2020=100)",NA,NA
@@ -4721,7 +4757,8 @@
 2021,"Saskatchewan","Provincial CPI (2020=100)",102.629708599858,4.63112744832647
 2022,"Saskatchewan","Provincial CPI (2020=100)",109.381663113006,4.69484326271258
 2023,"Saskatchewan","Provincial CPI (2020=100)",113.717128642502,4.73371403710158
-2024,"Saskatchewan","Provincial CPI (2020=100)",NA,NA
+2024,"Saskatchewan","Provincial CPI (2020=100)",115.351812366738,4.74798669638829
+2025,"Saskatchewan","Provincial CPI (2020=100)",NA,NA
 1901,"Alberta","Provincial CPI (2020=100)",NA,NA
 1902,"Alberta","Provincial CPI (2020=100)",NA,NA
 1903,"Alberta","Provincial CPI (2020=100)",NA,NA
@@ -4845,7 +4882,8 @@
 2021,"Alberta","Provincial CPI (2020=100)",103.178991015895,4.6364652568958
 2022,"Alberta","Provincial CPI (2020=100)",109.813407049067,4.69878262589332
 2023,"Alberta","Provincial CPI (2020=100)",113.407049067035,4.7309835504467
-2024,"Alberta","Provincial CPI (2020=100)",NA,NA
+2024,"Alberta","Provincial CPI (2020=100)",116.724257083621,4.75981437616441
+2025,"Alberta","Provincial CPI (2020=100)",NA,NA
 1867,"British Columbia","Provincial CPI (2020=100)",NA,NA
 1868,"British Columbia","Provincial CPI (2020=100)",NA,NA
 1869,"British Columbia","Provincial CPI (2020=100)",NA,NA
@@ -5003,7 +5041,8 @@
 2021,"British Columbia","Provincial CPI (2020=100)",102.794561933535,4.6327324521426
 2022,"British Columbia","Provincial CPI (2020=100)",109.894259818731,4.69951862909673
 2023,"British Columbia","Provincial CPI (2020=100)",114.199395770393,4.73794600623062
-2024,"British Columbia","Provincial CPI (2020=100)",NA,NA
+2024,"British Columbia","Provincial CPI (2020=100)",117.220543806647,4.7640571502343
+2025,"British Columbia","Provincial CPI (2020=100)",NA,NA
 1971,"Yukon","Provincial CPI (2020=100)",NA,NA
 1972,"Yukon","Provincial CPI (2020=100)",NA,NA
 1973,"Yukon","Provincial CPI (2020=100)",NA,NA
@@ -5058,6 +5097,7 @@
 2022,"Yukon","Provincial CPI (2020=100)",NA,NA
 2023,"Yukon","Provincial CPI (2020=100)",NA,NA
 2024,"Yukon","Provincial CPI (2020=100)",NA,NA
+2025,"Yukon","Provincial CPI (2020=100)",NA,NA
 1991,"Northwest Territories","Provincial CPI (2020=100)",NA,NA
 1992,"Northwest Territories","Provincial CPI (2020=100)",NA,NA
 1993,"Northwest Territories","Provincial CPI (2020=100)",NA,NA
@@ -5092,6 +5132,7 @@
 2022,"Northwest Territories","Provincial CPI (2020=100)",NA,NA
 2023,"Northwest Territories","Provincial CPI (2020=100)",NA,NA
 2024,"Northwest Territories","Provincial CPI (2020=100)",NA,NA
+2025,"Northwest Territories","Provincial CPI (2020=100)",NA,NA
 1991,"Nunavut","Provincial CPI (2020=100)",NA,NA
 1992,"Nunavut","Provincial CPI (2020=100)",NA,NA
 1993,"Nunavut","Provincial CPI (2020=100)",NA,NA
@@ -5126,6 +5167,7 @@
 2022,"Nunavut","Provincial CPI (2020=100)",NA,NA
 2023,"Nunavut","Provincial CPI (2020=100)",NA,NA
 2024,"Nunavut","Provincial CPI (2020=100)",NA,NA
+2025,"Nunavut","Provincial CPI (2020=100)",NA,NA
 1867,"Canada","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"Canada","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"Canada","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -5283,6 +5325,7 @@
 2021,"Canada","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Canada","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Canada","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
+2024,"Canada","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
 1949,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",8.90510948905109,2.18662521189918
 1950,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",9.12408759124088,2.21091790446822
 1951,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",10.0729927007299,2.30985785232313
@@ -5358,7 +5401,8 @@
 2021,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",NA,NA
 1867,"Prince Edward Island","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"Prince Edward Island","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"Prince Edward Island","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -5516,7 +5560,8 @@
 2021,"Prince Edward Island","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Prince Edward Island","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Prince Edward Island","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Prince Edward Island","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Prince Edward Island","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Prince Edward Island","Canada-Wide CPI (2020=100)",NA,NA
 1867,"Nova Scotia","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"Nova Scotia","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"Nova Scotia","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -5674,7 +5719,8 @@
 2021,"Nova Scotia","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Nova Scotia","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Nova Scotia","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Nova Scotia","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Nova Scotia","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Nova Scotia","Canada-Wide CPI (2020=100)",NA,NA
 1867,"New Brunswick","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"New Brunswick","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"New Brunswick","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -5832,7 +5878,8 @@
 2021,"New Brunswick","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"New Brunswick","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"New Brunswick","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"New Brunswick","Canada-Wide CPI (2020=100)",NA,NA
+2024,"New Brunswick","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"New Brunswick","Canada-Wide CPI (2020=100)",NA,NA
 1867,"Quebec","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"Quebec","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"Quebec","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -5990,7 +6037,8 @@
 2021,"Quebec","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Quebec","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Quebec","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Quebec","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Quebec","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Quebec","Canada-Wide CPI (2020=100)",NA,NA
 1867,"Ontario","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"Ontario","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"Ontario","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -6148,7 +6196,8 @@
 2021,"Ontario","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Ontario","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Ontario","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Ontario","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Ontario","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Ontario","Canada-Wide CPI (2020=100)",NA,NA
 1867,"Manitoba","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"Manitoba","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"Manitoba","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -6306,7 +6355,8 @@
 2021,"Manitoba","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Manitoba","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Manitoba","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Manitoba","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Manitoba","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Manitoba","Canada-Wide CPI (2020=100)",NA,NA
 1901,"Saskatchewan","Canada-Wide CPI (2020=100)",3.34261945684859,1.2067547681283
 1902,"Saskatchewan","Canada-Wide CPI (2020=100)",3.39444321270219,1.22213974541126
 1903,"Saskatchewan","Canada-Wide CPI (2020=100)",3.42035480627991,1.22974429021971
@@ -6430,7 +6480,8 @@
 2021,"Saskatchewan","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Saskatchewan","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Saskatchewan","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Saskatchewan","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Saskatchewan","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Saskatchewan","Canada-Wide CPI (2020=100)",NA,NA
 1901,"Alberta","Canada-Wide CPI (2020=100)",3.34261945684859,1.2067547681283
 1902,"Alberta","Canada-Wide CPI (2020=100)",3.39444321270219,1.22213974541126
 1903,"Alberta","Canada-Wide CPI (2020=100)",3.42035480627991,1.22974429021971
@@ -6554,7 +6605,8 @@
 2021,"Alberta","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Alberta","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Alberta","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Alberta","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Alberta","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Alberta","Canada-Wide CPI (2020=100)",NA,NA
 1867,"British Columbia","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1868,"British Columbia","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
 1869,"British Columbia","Canada-Wide CPI (2020=100)",3.5240023179871,1.25959736584531
@@ -6712,7 +6764,8 @@
 2021,"British Columbia","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"British Columbia","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"British Columbia","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"British Columbia","Canada-Wide CPI (2020=100)",NA,NA
+2024,"British Columbia","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"British Columbia","Canada-Wide CPI (2020=100)",NA,NA
 1971,"Yukon","Canada-Wide CPI (2020=100)",15.2554744525547,2.72493841913073
 1972,"Yukon","Canada-Wide CPI (2020=100)",15.985401459854,2.77167589698242
 1973,"Yukon","Canada-Wide CPI (2020=100)",17.2262773722628,2.84643597219153
@@ -6766,7 +6819,8 @@
 2021,"Yukon","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Yukon","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Yukon","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Yukon","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Yukon","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Yukon","Canada-Wide CPI (2020=100)",NA,NA
 1991,"Northwest Territories","Canada-Wide CPI (2020=100)",60.4379562043796,4.10161732155118
 1992,"Northwest Territories","Canada-Wide CPI (2020=100)",61.3138686131387,4.11600605900328
 1993,"Northwest Territories","Canada-Wide CPI (2020=100)",62.4817518248175,4.13487454330766
@@ -6800,7 +6854,8 @@
 2021,"Northwest Territories","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Northwest Territories","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Northwest Territories","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Northwest Territories","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Northwest Territories","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Northwest Territories","Canada-Wide CPI (2020=100)",NA,NA
 1991,"Nunavut","Canada-Wide CPI (2020=100)",60.4379562043796,4.10161732155118
 1992,"Nunavut","Canada-Wide CPI (2020=100)",61.3138686131387,4.11600605900328
 1993,"Nunavut","Canada-Wide CPI (2020=100)",62.4817518248175,4.13487454330766
@@ -6834,7 +6889,8 @@
 2021,"Nunavut","Canada-Wide CPI (2020=100)",103.357664233577,4.63819544141959
 2022,"Nunavut","Canada-Wide CPI (2020=100)",110.36496350365,4.7037927239054
 2023,"Nunavut","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
-2024,"Nunavut","Canada-Wide CPI (2020=100)",NA,NA
+2024,"Nunavut","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
+2025,"Nunavut","Canada-Wide CPI (2020=100)",NA,NA
 1867,"Canada","Employment",NA,NA
 1868,"Canada","Employment",NA,NA
 1869,"Canada","Employment",NA,NA
@@ -6979,19 +7035,20 @@
 2008,"Canada","Employment",16996800,16.6485356490079
 2009,"Canada","Employment",16755400,16.6342311523392
 2010,"Canada","Employment",16978200,16.6474407261612
-2011,"Canada","Employment",17244300,16.6629922120534
-2012,"Canada","Employment",17475600,16.6763161802587
-2013,"Canada","Employment",17712200,16.6897642256464
-2014,"Canada","Employment",17783200,16.6937647493588
-2015,"Canada","Employment",17905900,16.7006408254404
-2016,"Canada","Employment",18008700,16.7063655324258
-2017,"Canada","Employment",18395000,16.727589446521
-2018,"Canada","Employment",18723300,16.7452792955291
-2019,"Canada","Employment",19121200,16.7663082251244
-2020,"Canada","Employment",18043800,16.7083126934321
-2021,"Canada","Employment",18942300,16.7569080744635
-2022,"Canada","Employment",19693000,16.7957738006143
-2023,"Canada","Employment",20170900,16.8197515296588
+2011,"Canada","Employment",17219600,16.6615588278903
+2012,"Canada","Employment",17431600,16.6737952090377
+2013,"Canada","Employment",17667700,16.6872486717038
+2014,"Canada","Employment",17738500,16.6912479765921
+2015,"Canada","Employment",17857200,16.6979173462061
+2016,"Canada","Employment",17966900,16.7040417341398
+2017,"Canada","Employment",18372200,16.7263492104996
+2018,"Canada","Employment",18706600,16.7443869607322
+2019,"Canada","Employment",19070800,16.7636689274046
+2020,"Canada","Employment",18068500,16.7096806486082
+2021,"Canada","Employment",18964100,16.7580582761394
+2022,"Canada","Employment",19739500,16.7981322623682
+2023,"Canada","Employment",20334800,16.8278442620157
+2024,"Canada","Employment",20730500,16.8471166037545
 1949,"Newfoundland and Labrador","Employment",NA,NA
 1950,"Newfoundland and Labrador","Employment",90993.6922253879,11.418545466892
 1951,"Newfoundland and Labrador","Employment",95098.6708220219,11.4626702718009
@@ -7054,20 +7111,21 @@
 2008,"Newfoundland and Labrador","Employment",221500,12.3081778684673
 2009,"Newfoundland and Labrador","Employment",215600,12.281180118017
 2010,"Newfoundland and Labrador","Employment",224500,12.3216309861644
-2011,"Newfoundland and Labrador","Employment",232700,12.3575053492904
-2012,"Newfoundland and Labrador","Employment",239900,12.3879774488278
-2013,"Newfoundland and Labrador","Employment",241900,12.3962796965981
-2014,"Newfoundland and Labrador","Employment",239600,12.3867261452234
-2015,"Newfoundland and Labrador","Employment",239600,12.3867261452234
-2016,"Newfoundland and Labrador","Employment",234500,12.3652108668685
-2017,"Newfoundland and Labrador","Employment",225700,12.3269619628056
-2018,"Newfoundland and Labrador","Employment",226700,12.3313828364956
-2019,"Newfoundland and Labrador","Employment",229900,12.3453997107513
-2020,"Newfoundland and Labrador","Employment",215500,12.2807161885259
-2021,"Newfoundland and Labrador","Employment",222800,12.3140297870353
-2022,"Newfoundland and Labrador","Employment",232500,12.3566455040095
-2023,"Newfoundland and Labrador","Employment",236700,12.3745487955021
-2024,"Newfoundland and Labrador","Employment",NA,NA
+2011,"Newfoundland and Labrador","Employment",232800,12.3579349948394
+2012,"Newfoundland and Labrador","Employment",240000,12.3883942023241
+2013,"Newfoundland and Labrador","Employment",242000,12.3966930051388
+2014,"Newfoundland and Labrador","Employment",239900,12.3879774488278
+2015,"Newfoundland and Labrador","Employment",240100,12.3888107822093
+2016,"Newfoundland and Labrador","Employment",235100,12.3677662345282
+2017,"Newfoundland and Labrador","Employment",226800,12.3318238508357
+2018,"Newfoundland and Labrador","Employment",228000,12.3371009079366
+2019,"Newfoundland and Labrador","Employment",231300,12.3514708482195
+2020,"Newfoundland and Labrador","Employment",217300,12.2890341662445
+2021,"Newfoundland and Labrador","Employment",225100,12.3243000268948
+2022,"Newfoundland and Labrador","Employment",234200,12.3639307301458
+2023,"Newfoundland and Labrador","Employment",238300,12.3812856630868
+2024,"Newfoundland and Labrador","Employment",245000,12.4090134895269
+2025,"Newfoundland and Labrador","Employment",NA,NA
 1867,"Prince Edward Island","Employment",NA,NA
 1868,"Prince Edward Island","Employment",NA,NA
 1869,"Prince Edward Island","Employment",NA,NA
@@ -7212,20 +7270,21 @@
 2008,"Prince Edward Island","Employment",68800,11.1389590239214
 2009,"Prince Edward Island","Employment",68500,11.1345890242503
 2010,"Prince Edward Island","Employment",70100,11.1576780730227
-2011,"Prince Edward Island","Employment",72100,11.185809323273
-2012,"Prince Edward Island","Employment",72900,11.1968439179968
-2013,"Prince Edward Island","Employment",73800,11.2091140105886
+2011,"Prince Edward Island","Employment",72200,11.1871953248809
+2012,"Prince Edward Island","Employment",73000,11.1982147201305
+2013,"Prince Edward Island","Employment",73900,11.2104681069363
 2014,"Prince Edward Island","Employment",73300,11.2023158878747
-2015,"Prince Edward Island","Employment",72900,11.1968439179968
-2016,"Prince Edward Island","Employment",72500,11.1913418408428
-2017,"Prince Edward Island","Employment",75000,11.2252433925184
-2018,"Prince Edward Island","Employment",77000,11.2515607008358
-2019,"Prince Edward Island","Employment",79500,11.2835123006424
-2020,"Prince Edward Island","Employment",76800,11.2489599191358
-2021,"Prince Edward Island","Employment",79900,11.2885311317544
-2022,"Prince Edward Island","Employment",84200,11.3409502002304
-2023,"Prince Edward Island","Employment",89000,11.3963916487143
-2024,"Prince Edward Island","Employment",NA,NA
+2015,"Prince Edward Island","Employment",72700,11.1940966635216
+2016,"Prince Edward Island","Employment",72100,11.185809323273
+2017,"Prince Edward Island","Employment",74200,11.2145194291555
+2018,"Prince Edward Island","Employment",76100,11.2398035438498
+2019,"Prince Edward Island","Employment",78100,11.2657453358278
+2020,"Prince Edward Island","Employment",76200,11.2411167416747
+2021,"Prince Edward Island","Employment",80000,11.289781913656
+2022,"Prince Edward Island","Employment",84100,11.339761845961
+2023,"Prince Edward Island","Employment",89300,11.3997567668646
+2024,"Prince Edward Island","Employment",92500,11.4349639235005
+2025,"Prince Edward Island","Employment",NA,NA
 1867,"Nova Scotia","Employment",NA,NA
 1868,"Nova Scotia","Employment",NA,NA
 1869,"Nova Scotia","Employment",NA,NA
@@ -7370,20 +7429,21 @@
 2008,"Nova Scotia","Employment",451800,13.020994883016
 2009,"Nova Scotia","Employment",450700,13.0185572086787
 2010,"Nova Scotia","Employment",452500,13.0225430421221
-2011,"Nova Scotia","Employment",454900,13.0278328935581
-2012,"Nova Scotia","Employment",458100,13.0348427798748
-2013,"Nova Scotia","Employment",455300,13.0287118213229
-2014,"Nova Scotia","Employment",448000,13.0125485113971
-2015,"Nova Scotia","Employment",444300,13.004255288924
-2016,"Nova Scotia","Employment",443200,13.0017764144152
-2017,"Nova Scotia","Employment",447100,13.0105375622221
-2018,"Nova Scotia","Employment",451800,13.020994883016
-2019,"Nova Scotia","Employment",464600,13.0489320993184
-2020,"Nova Scotia","Employment",443300,13.0020020207331
-2021,"Nova Scotia","Employment",468100,13.0564372272882
-2022,"Nova Scotia","Employment",484900,13.0916979630934
-2023,"Nova Scotia","Employment",497800,13.1179536689156
-2024,"Nova Scotia","Employment",NA,NA
+2011,"Nova Scotia","Employment",456000,13.0302480884965
+2012,"Nova Scotia","Employment",457300,13.0330949096461
+2013,"Nova Scotia","Employment",453400,13.0245300170556
+2014,"Nova Scotia","Employment",446900,13.0100901349215
+2015,"Nova Scotia","Employment",443700,13.002903937367
+2016,"Nova Scotia","Employment",441900,12.9988388911188
+2017,"Nova Scotia","Employment",444800,13.0053800219185
+2018,"Nova Scotia","Employment",451100,13.0194443233965
+2019,"Nova Scotia","Employment",463800,13.0472087038036
+2020,"Nova Scotia","Employment",447200,13.010761200823
+2021,"Nova Scotia","Employment",475500,13.0721221609676
+2022,"Nova Scotia","Employment",492100,13.1064372268541
+2023,"Nova Scotia","Employment",505300,13.13290759128
+2024,"Nova Scotia","Employment",521300,13.1640809707562
+2025,"Nova Scotia","Employment",NA,NA
 1867,"New Brunswick","Employment",NA,NA
 1868,"New Brunswick","Employment",NA,NA
 1869,"New Brunswick","Employment",NA,NA
@@ -7528,20 +7588,21 @@
 2008,"New Brunswick","Employment",362100,12.7996756957537
 2009,"New Brunswick","Employment",361900,12.7991232095518
 2010,"New Brunswick","Employment",359400,12.7921912533316
-2011,"New Brunswick","Employment",356900,12.7852109094783
-2012,"New Brunswick","Employment",355000,12.7798730684576
-2013,"New Brunswick","Employment",357600,12.7871703222815
-2014,"New Brunswick","Employment",357600,12.7871703222815
-2015,"New Brunswick","Employment",354800,12.7793095294176
+2011,"New Brunswick","Employment",356400,12.7838089745788
+2012,"New Brunswick","Employment",354400,12.7781814977131
+2013,"New Brunswick","Employment",357000,12.7854910607618
+2014,"New Brunswick","Employment",357400,12.7866108817075
+2015,"New Brunswick","Employment",354700,12.7790276407617
 2016,"New Brunswick","Employment",357600,12.7871703222815
-2017,"New Brunswick","Employment",360100,12.794137049637
-2018,"New Brunswick","Employment",361400,12.7977406571403
-2019,"New Brunswick","Employment",363600,12.8038096412855
-2020,"New Brunswick","Employment",352400,12.7725221730442
-2021,"New Brunswick","Employment",363500,12.8035345759557
-2022,"New Brunswick","Employment",373500,12.830673283555
-2023,"New Brunswick","Employment",386500,12.8648871470096
-2024,"New Brunswick","Employment",NA,NA
+2017,"New Brunswick","Employment",359400,12.7921912533316
+2018,"New Brunswick","Employment",359900,12.7935814940671
+2019,"New Brunswick","Employment",361700,12.7985704179402
+2020,"New Brunswick","Employment",351500,12.7699649902329
+2021,"New Brunswick","Employment",364600,12.8065561412267
+2022,"New Brunswick","Employment",375600,12.8362800263162
+2023,"New Brunswick","Employment",388600,12.8703058159255
+2024,"New Brunswick","Employment",4e+05,12.8992198260901
+2025,"New Brunswick","Employment",NA,NA
 1867,"Quebec","Employment",NA,NA
 1868,"Quebec","Employment",NA,NA
 1869,"Quebec","Employment",NA,NA
@@ -7686,20 +7747,21 @@
 2008,"Quebec","Employment",3876000,15.1703142519928
 2009,"Quebec","Employment",3854500,15.1647518548815
 2010,"Quebec","Employment",3928100,15.1836664063809
-2011,"Quebec","Employment",3974700,15.1954598315243
-2012,"Quebec","Employment",4013800,15.2052489814867
-2013,"Quebec","Employment",4053300,15.2150419221162
-2014,"Quebec","Employment",4033300,15.2100954574019
-2015,"Quebec","Employment",4050200,15.2142768205795
-2016,"Quebec","Employment",4073300,15.2199640397001
-2017,"Quebec","Employment",4177700,15.2452714138293
-2018,"Quebec","Employment",4253300,15.2632057101915
-2019,"Quebec","Employment",4330700,15.2812397497302
-2020,"Quebec","Employment",4096800,15.2257167391305
-2021,"Quebec","Employment",4273400,15.267920321291
-2022,"Quebec","Employment",4403100,15.2978193962674
-2023,"Quebec","Employment",4506400,15.3210091665626
-2024,"Quebec","Employment",NA,NA
+2011,"Quebec","Employment",3967400,15.1936215262761
+2012,"Quebec","Employment",4000400,15.2019049140845
+2013,"Quebec","Employment",4038800,15.2114581761123
+2014,"Quebec","Employment",4020200,15.2068422106014
+2015,"Quebec","Employment",4041900,15.212225436412
+2016,"Quebec","Employment",4063600,15.2175798381995
+2017,"Quebec","Employment",4165100,15.2422508428987
+2018,"Quebec","Employment",4243200,15.2608282595336
+2019,"Quebec","Employment",4300300,15.274195345672
+2020,"Quebec","Employment",4087500,15.2234440941876
+2021,"Quebec","Employment",4261800,15.265202164214
+2022,"Quebec","Employment",4392000,15.2952952621715
+2023,"Quebec","Employment",4522800,15.3246418290432
+2024,"Quebec","Employment",4566000,15.3341481060719
+2025,"Quebec","Employment",NA,NA
 1867,"Ontario","Employment",NA,NA
 1868,"Ontario","Employment",NA,NA
 1869,"Ontario","Employment",NA,NA
@@ -7844,20 +7906,21 @@
 2008,"Ontario","Employment",6600700,15.7026862619787
 2009,"Ontario","Employment",6444700,15.6787686455606
 2010,"Ontario","Employment",6547400,15.6945785822424
-2011,"Ontario","Employment",6658000,15.7113296971171
-2012,"Ontario","Employment",6702900,15.7180508265357
-2013,"Ontario","Employment",6806900,15.7334473615627
-2014,"Ontario","Employment",6840000,15.7382982895987
-2015,"Ontario","Employment",6887000,15.7451461345268
-2016,"Ontario","Employment",6956400,15.7551726571158
-2017,"Ontario","Employment",7117300,15.7780389979854
-2018,"Ontario","Employment",7245900,15.7959463496243
-2019,"Ontario","Employment",7429200,15.8209287392953
-2020,"Ontario","Employment",7025900,15.7651138788572
-2021,"Ontario","Employment",7393300,15.8160847426419
-2022,"Ontario","Employment",7731600,15.8608263849147
-2023,"Ontario","Employment",7914800,15.8842449825004
-2024,"Ontario","Employment",NA,NA
+2011,"Ontario","Employment",6647600,15.7097664452355
+2012,"Ontario","Employment",6685400,15.7154366021806
+2013,"Ontario","Employment",6790900,15.7310940386157
+2014,"Ontario","Employment",6823400,15.7358684393173
+2015,"Ontario","Employment",6862700,15.7416115082732
+2016,"Ontario","Employment",6934500,15.7520195110785
+2017,"Ontario","Employment",7109200,15.776900277868
+2018,"Ontario","Employment",7240400,15.7951870114545
+2019,"Ontario","Employment",7412900,15.8187322837327
+2020,"Ontario","Employment",7043400,15.7676015660947
+2021,"Ontario","Employment",7404800,15.8176389965414
+2022,"Ontario","Employment",7764100,15.8650211031469
+2023,"Ontario","Employment",8006100,15.8957143090887
+2024,"Ontario","Employment",8146100,15.9130498430788
+2025,"Ontario","Employment",NA,NA
 1867,"Manitoba","Employment",NA,NA
 1868,"Manitoba","Employment",NA,NA
 1869,"Manitoba","Employment",NA,NA
@@ -8002,20 +8065,21 @@
 2008,"Manitoba","Employment",602500,13.3088429443469
 2009,"Manitoba","Employment",600100,13.3048515869776
 2010,"Manitoba","Employment",610200,13.3215420512647
-2011,"Manitoba","Employment",616400,13.3316513824281
-2012,"Manitoba","Employment",621300,13.3395693360518
-2013,"Manitoba","Employment",626800,13.348382789464
-2014,"Manitoba","Employment",628300,13.350773038391
-2015,"Manitoba","Employment",637400,13.3651526809654
-2016,"Manitoba","Employment",637600,13.3654664064581
-2017,"Manitoba","Employment",648100,13.3818002844158
-2018,"Manitoba","Employment",654000,13.3908626304393
-2019,"Manitoba","Employment",661400,13.4021140795298
-2020,"Manitoba","Employment",632600,13.3575935898537
-2021,"Manitoba","Employment",656200,13.3942208995091
-2022,"Manitoba","Employment",677500,13.426164831736
-2023,"Manitoba","Employment",694600,13.4510914192921
-2024,"Manitoba","Employment",NA,NA
+2011,"Manitoba","Employment",615500,13.3301902246066
+2012,"Manitoba","Employment",620700,13.3386031524017
+2013,"Manitoba","Employment",626100,13.3472653817334
+2014,"Manitoba","Employment",628200,13.3506138660867
+2015,"Manitoba","Employment",637900,13.36593681023
+2016,"Manitoba","Employment",638000,13.3660935623269
+2017,"Manitoba","Employment",648800,13.3828797817833
+2018,"Manitoba","Employment",653600,13.3902508225279
+2019,"Manitoba","Employment",661600,13.4024164226916
+2020,"Manitoba","Employment",635600,13.3623247136447
+2021,"Manitoba","Employment",664000,13.4060374284586
+2022,"Manitoba","Employment",687900,13.4413987575141
+2023,"Manitoba","Employment",706800,13.4685030194277
+2024,"Manitoba","Employment",724400,13.4930990049914
+2025,"Manitoba","Employment",NA,NA
 1901,"Saskatchewan","Employment",NA,NA
 1902,"Saskatchewan","Employment",NA,NA
 1903,"Saskatchewan","Employment",NA,NA
@@ -8126,20 +8190,21 @@
 2008,"Saskatchewan","Employment",518700,13.1590809603395
 2009,"Saskatchewan","Employment",527100,13.1751455628433
 2010,"Saskatchewan","Employment",535100,13.1902089242994
-2011,"Saskatchewan","Employment",540500,13.2002499160614
-2012,"Saskatchewan","Employment",549600,13.2169460198903
-2013,"Saskatchewan","Employment",563500,13.241922612462
-2014,"Saskatchewan","Employment",566900,13.2479382003124
-2015,"Saskatchewan","Employment",565200,13.2449349297925
+2011,"Saskatchewan","Employment",540900,13.2009896978595
+2012,"Saskatchewan","Employment",550800,13.2191270458366
+2013,"Saskatchewan","Employment",565700,13.2458191813312
+2014,"Saskatchewan","Employment",568500,13.2507565921727
+2015,"Saskatchewan","Employment",565500,13.2454655745383
 2016,"Saskatchewan","Employment",561100,13.2376544217391
 2017,"Saskatchewan","Employment",562500,13.2401464130607
-2018,"Saskatchewan","Employment",566500,13.2472323594502
-2019,"Saskatchewan","Employment",576900,13.265424220245
-2020,"Saskatchewan","Employment",547500,13.2131177406728
-2021,"Saskatchewan","Employment",561700,13.2387231785205
-2022,"Saskatchewan","Employment",581500,13.2733662509409
-2023,"Saskatchewan","Employment",592200,13.2915996946496
-2024,"Saskatchewan","Employment",NA,NA
+2018,"Saskatchewan","Employment",565200,13.2449349297925
+2019,"Saskatchewan","Employment",574500,13.2612553762709
+2020,"Saskatchewan","Employment",545300,13.2090913809142
+2021,"Saskatchewan","Employment",558300,13.2326517312985
+2022,"Saskatchewan","Employment",577800,13.2669830670143
+2023,"Saskatchewan","Employment",587000,13.2827800988102
+2024,"Saskatchewan","Employment",602200,13.3083448950298
+2025,"Saskatchewan","Employment",NA,NA
 1901,"Alberta","Employment",NA,NA
 1902,"Alberta","Employment",NA,NA
 1903,"Alberta","Employment",NA,NA
@@ -8250,20 +8315,21 @@
 2008,"Alberta","Employment",2050300,14.5334966818711
 2009,"Alberta","Employment",2030200,14.5236448683325
 2010,"Alberta","Employment",2029100,14.5231029029557
-2011,"Alberta","Employment",2103200,14.5589705523978
-2012,"Alberta","Employment",2166600,14.5886696764936
-2013,"Alberta","Employment",2211100,14.6090006872202
-2014,"Alberta","Employment",2246900,14.6250620463943
-2015,"Alberta","Employment",2265600,14.6333501824815
-2016,"Alberta","Employment",2204600,14.6060566445114
-2017,"Alberta","Employment",2221100,14.6135131266266
-2018,"Alberta","Employment",2280100,14.6397298596179
-2019,"Alberta","Employment",2307800,14.6518052477427
-2020,"Alberta","Employment",2143700,14.5780438660092
-2021,"Alberta","Employment",2259600,14.6306983644332
-2022,"Alberta","Employment",2376100,14.6809710461211
-2023,"Alberta","Employment",2461100,14.7161189624363
-2024,"Alberta","Employment",NA,NA
+2011,"Alberta","Employment",2101100,14.5579715750771
+2012,"Alberta","Employment",2166100,14.5884388735291
+2013,"Alberta","Employment",2215000,14.6107629614614
+2014,"Alberta","Employment",2250300,14.6265740986258
+2015,"Alberta","Employment",2263000,14.6322019246157
+2016,"Alberta","Employment",2198300,14.6031948923482
+2017,"Alberta","Employment",2218400,14.6122967732837
+2018,"Alberta","Employment",2279300,14.6393789362472
+2019,"Alberta","Employment",2305500,14.6508081306289
+2020,"Alberta","Employment",2137100,14.5749603277783
+2021,"Alberta","Employment",2245900,14.6246168896918
+2022,"Alberta","Employment",2356000,14.6724758237536
+2023,"Alberta","Employment",2442600,14.7085736037191
+2024,"Alberta","Employment",2518900,14.7393328562538
+2025,"Alberta","Employment",NA,NA
 1867,"British Columbia","Employment",NA,NA
 1868,"British Columbia","Employment",NA,NA
 1869,"British Columbia","Employment",NA,NA
@@ -8408,20 +8474,21 @@
 2008,"British Columbia","Employment",2244400,14.623948782859
 2009,"British Columbia","Employment",2202000,14.6048765962648
 2010,"British Columbia","Employment",2221700,14.6137832265652
-2011,"British Columbia","Employment",2234900,14.6197070422995
-2012,"British Columbia","Employment",2295600,14.6465048052163
-2013,"British Columbia","Employment",2322000,14.65793944124
-2014,"British Columbia","Employment",2349300,14.6696279694071
-2015,"British Columbia","Employment",2388900,14.6863435669136
-2016,"British Columbia","Employment",2467900,14.7188781445479
-2017,"British Columbia","Employment",2560300,14.7556349970898
-2018,"British Columbia","Employment",2606400,14.7734805168299
-2019,"British Columbia","Employment",2677700,14.8004687750597
-2020,"British Columbia","Employment",2509200,14.7354745352047
-2021,"British Columbia","Employment",2663900,14.7953017724003
-2022,"British Columbia","Employment",2747900,14.8263475415603
-2023,"British Columbia","Employment",2791800,14.8421971070608
-2024,"British Columbia","Employment",NA,NA
+2011,"British Columbia","Employment",2229700,14.6173776052385
+2012,"British Columbia","Employment",2283600,14.6412637030722
+2013,"British Columbia","Employment",2305000,14.6505912344129
+2014,"British Columbia","Employment",2330300,14.6615075726184
+2015,"British Columbia","Employment",2375000,14.6805079954509
+2016,"British Columbia","Employment",2464700,14.7175806541985
+2017,"British Columbia","Employment",2562900,14.7566499878078
+2018,"British Columbia","Employment",2609900,14.7748224643886
+2019,"British Columbia","Employment",2681100,14.8017377160376
+2020,"British Columbia","Employment",2527300,14.7426620971712
+2021,"British Columbia","Employment",2683900,14.8027815185555
+2022,"British Columbia","Employment",2775700,14.8364135256047
+2023,"British Columbia","Employment",2847900,14.862092438538
+2024,"British Columbia","Employment",2914000,14.8850372657373
+2025,"British Columbia","Employment",NA,NA
 1971,"Yukon","Employment",NA,NA
 1972,"Yukon","Employment",NA,NA
 1973,"Yukon","Employment",NA,NA
@@ -8459,23 +8526,24 @@
 2005,"Yukon","Employment",17091.6666666667,9.74634629427247
 2006,"Yukon","Employment",17100,9.74683374249075
 2007,"Yukon","Employment",17041.6666666667,9.74341660467699
-2008,"Yukon","Employment",17816.6666666667,9.78788962778508
-2009,"Yukon","Employment",17325,9.7599058240581
+2008,"Yukon","Employment",17808.3333333333,9.78742179151924
+2009,"Yukon","Employment",17316.6666666667,9.75942470785926
 2010,"Yukon","Employment",17300,9.75846178048587
-2011,"Yukon","Employment",19058.3333333333,9.85525973022287
-2012,"Yukon","Employment",19558.3333333333,9.88115673205111
-2013,"Yukon","Employment",19341.6666666667,9.87001694247453
+2011,"Yukon","Employment",19091.6666666667,9.85700721865359
+2012,"Yukon","Employment",19575,9.882008520859
+2013,"Yukon","Employment",19333.3333333333,9.86958600086045
 2014,"Yukon","Employment",20366.6666666667,9.92165485649158
-2015,"Yukon","Employment",20250,9.91591007253469
-2016,"Yukon","Employment",21000,9.95227771670556
-2017,"Yukon","Employment",22200,10.0078475678604
-2018,"Yukon","Employment",22383.3333333333,10.0160719132833
-2019,"Yukon","Employment",23166.6666666667,10.0504697428848
-2020,"Yukon","Employment",21958.3333333333,9.99690199717555
-2021,"Yukon","Employment",22416.6666666667,10.017560008796
-2022,"Yukon","Employment",23283.3333333333,10.055493076017
-2023,"Yukon","Employment",23841.6666666667,10.0791900292502
-2024,"Yukon","Employment",25000,10.1266311038503
+2015,"Yukon","Employment",20241.6666666667,9.91549846520226
+2016,"Yukon","Employment",20975,9.95108653133541
+2017,"Yukon","Employment",22191.6666666667,10.007472122014
+2018,"Yukon","Employment",22416.6666666667,10.017560008796
+2019,"Yukon","Employment",23191.6666666667,10.051548297726
+2020,"Yukon","Employment",22241.6666666667,10.0097226856046
+2021,"Yukon","Employment",22841.6666666667,10.0363416325029
+2022,"Yukon","Employment",23850,10.0795394963165
+2023,"Yukon","Employment",24808.3333333333,10.1189348972159
+2024,"Yukon","Employment",26383.3333333333,10.180487776641
+2025,"Yukon","Employment",27211.1111111111,10.211380665604
 1991,"Northwest Territories","Employment",NA,NA
 1992,"Northwest Territories","Employment",NA,NA
 1993,"Northwest Territories","Employment",NA,NA
@@ -8494,22 +8562,23 @@
 2006,"Northwest Territories","Employment",22575,10.0245983782852
 2007,"Northwest Territories","Employment",22866.6666666667,10.0374355250459
 2008,"Northwest Territories","Employment",22341.6666666667,10.0142086744361
-2009,"Northwest Territories","Employment",21116.6666666667,9.95781789708118
-2010,"Northwest Territories","Employment",21641.6666666667,9.98237574786284
-2011,"Northwest Territories","Employment",22583.3333333333,10.0249674500738
-2012,"Northwest Territories","Employment",23125,10.0486695623806
-2013,"Northwest Territories","Employment",23333.3333333333,10.0576382323634
-2014,"Northwest Territories","Employment",22841.6666666667,10.0363416325029
-2015,"Northwest Territories","Employment",23016.6666666667,10.0439738701693
-2016,"Northwest Territories","Employment",23308.3333333333,10.0565662294021
-2017,"Northwest Territories","Employment",22541.6666666667,10.0231207274807
-2018,"Northwest Territories","Employment",22658.3333333333,10.0282829808326
-2019,"Northwest Territories","Employment",23141.6666666667,10.0493900235069
-2020,"Northwest Territories","Employment",21841.6666666667,9.9915747395235
-2021,"Northwest Territories","Employment",23341.6666666667,10.0579953114602
-2022,"Northwest Territories","Employment",24733.3333333333,10.1159071404874
-2023,"Northwest Territories","Employment",23783.3333333333,10.0767403342369
-2024,"Northwest Territories","Employment",22930,10.040201375852
+2009,"Northwest Territories","Employment",21141.6666666667,9.95900109579937
+2010,"Northwest Territories","Employment",21675,9.98391480164874
+2011,"Northwest Territories","Employment",22591.6666666667,10.0253363856988
+2012,"Northwest Territories","Employment",23108.3333333333,10.0479485818159
+2013,"Northwest Territories","Employment",23375,10.0594223541569
+2014,"Northwest Territories","Employment",22883.3333333333,10.038164122528
+2015,"Northwest Territories","Employment",23091.6666666667,10.0472270810631
+2016,"Northwest Territories","Employment",23316.6666666667,10.0569236914255
+2017,"Northwest Territories","Employment",22483.3333333333,10.0205295729678
+2018,"Northwest Territories","Employment",22408.3333333333,10.017188192469
+2019,"Northwest Territories","Employment",22783.3333333333,10.033784553484
+2020,"Northwest Territories","Employment",21508.3333333333,9.9761957359187
+2021,"Northwest Territories","Employment",23058.3333333333,10.045782515987
+2022,"Northwest Territories","Employment",24475,10.1054074673987
+2023,"Northwest Territories","Employment",23641.6666666667,10.0707659710089
+2024,"Northwest Territories","Employment",22933.3333333333,10.0403467352533
+2025,"Northwest Territories","Employment",23133.3333333333,10.0490298578268
 1991,"Nunavut","Employment",NA,NA
 1992,"Nunavut","Employment",NA,NA
 1993,"Nunavut","Employment",NA,NA
@@ -8531,19 +8600,20 @@
 2009,"Nunavut","Employment",10841.6666666667,9.2911520147126
 2010,"Nunavut","Employment",11491.6666666667,9.34937741399339
 2011,"Nunavut","Employment",11991.6666666667,9.39196724308746
-2012,"Nunavut","Employment",11966.6666666667,9.38988028580826
-2013,"Nunavut","Employment",12400,9.42545175159313
-2014,"Nunavut","Employment",12066.6666666667,9.39820210914575
-2015,"Nunavut","Employment",12133.3333333333,9.40371176495672
-2016,"Nunavut","Employment",12908.3333333333,9.46562837661696
-2017,"Nunavut","Employment",12841.6666666667,9.46045037152021
-2018,"Nunavut","Employment",13000,9.47270463644367
-2019,"Nunavut","Employment",13416.6666666667,9.5042529941786
-2020,"Nunavut","Employment",12366.6666666667,9.42275995992742
-2021,"Nunavut","Employment",13541.6666666667,9.51352663096393
-2022,"Nunavut","Employment",14391.6666666667,9.57440461434677
-2023,"Nunavut","Employment",14200,9.56099724358935
-2024,"Nunavut","Employment",14410,9.57567768899357
+2012,"Nunavut","Employment",11941.6666666667,9.38778896402826
+2013,"Nunavut","Employment",12425,9.42746585096483
+2014,"Nunavut","Employment",12108.3333333333,9.40164919977037
+2015,"Nunavut","Employment",12208.3333333333,9.40987405765126
+2016,"Nunavut","Employment",12975,9.47077970803409
+2017,"Nunavut","Employment",12975,9.47077970803409
+2018,"Nunavut","Employment",13108.3333333333,9.48100343925837
+2019,"Nunavut","Employment",13483.3333333333,9.50920963381853
+2020,"Nunavut","Employment",12408.3333333333,9.4261235688841
+2021,"Nunavut","Employment",13566.6666666667,9.51537108276258
+2022,"Nunavut","Employment",14291.6666666667,9.56743189580013
+2023,"Nunavut","Employment",14000,9.5468126085974
+2024,"Nunavut","Employment",14300,9.568014816248
+2025,"Nunavut","Employment",14400,9.57498348556409
 1867,"Canada","Real GDP Per Capita ($ 2020)",3058.56719820874,8.02570184941028
 1868,"Canada","Real GDP Per Capita ($ 2020)",3058.56719820873,8.02570184941028
 1869,"Canada","Real GDP Per Capita ($ 2020)",3058.56719820873,8.02570184941028
@@ -8698,9 +8768,10 @@
 2018,"Canada","Real GDP Per Capita ($ 2020)",62038.6133883779,11.0355122667567
 2019,"Canada","Real GDP Per Capita ($ 2020)",62057.2816506134,11.0358131350871
 2020,"Canada","Real GDP Per Capita ($ 2020)",58438.3070142755,10.9757268958056
-2021,"Canada","Real GDP Per Capita ($ 2020)",63716.8333822695,11.0622040669678
-2022,"Canada","Real GDP Per Capita ($ 2020)",65586.3681176421,11.0911231502534
-2023,"Canada","Real GDP Per Capita ($ 2020)",63102.3443204601,11.0525132003029
+2021,"Canada","Real GDP Per Capita ($ 2020)",64184.4468942648,11.0695162001144
+2022,"Canada","Real GDP Per Capita ($ 2020)",66451.6805274308,11.1042303539259
+2023,"Canada","Real GDP Per Capita ($ 2020)",64063.0924361308,11.0676236960556
+2024,"Canada","Real GDP Per Capita ($ 2020)",63621.5953007064,11.0607082404478
 1949,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",6806.23943716407,8.82559503474825
 1950,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",6933.56611631776,8.8441295509266
 1951,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",7491.77275255538,8.92156073109052
@@ -8774,9 +8845,10 @@
 2019,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",68384.068394729,11.1328951582753
 2020,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",61068.4704792706,11.0197509805338
 2021,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",71001.0156405297,11.1704494607173
-2022,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",70277.2075568081,11.1602028083985
-2023,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",63043.215803789,11.0515757353466
-2024,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",71694.4428086117,11.1801685174279
+2023,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",65329.4646784201,11.0871984336855
+2024,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",65733.863696388,11.0933695008535
+2025,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"Prince Edward Island","Real GDP Per Capita ($ 2020)",NA,NA
 1868,"Prince Edward Island","Real GDP Per Capita ($ 2020)",NA,NA
 1869,"Prince Edward Island","Real GDP Per Capita ($ 2020)",NA,NA
@@ -8932,9 +9004,10 @@
 2019,"Prince Edward Island","Real GDP Per Capita ($ 2020)",48107.1292643585,10.7811856626649
 2020,"Prince Edward Island","Real GDP Per Capita ($ 2020)",46867.6386524533,10.7550827088593
 2021,"Prince Edward Island","Real GDP Per Capita ($ 2020)",51122.8035182527,10.841985929454
-2022,"Prince Edward Island","Real GDP Per Capita ($ 2020)",51266.7491834782,10.844797656945
-2023,"Prince Edward Island","Real GDP Per Capita ($ 2020)",49819.4372073932,10.8161604922328
-2024,"Prince Edward Island","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Prince Edward Island","Real GDP Per Capita ($ 2020)",51476.6635654794,10.8488838493044
+2023,"Prince Edward Island","Real GDP Per Capita ($ 2020)",50867.5081378201,10.8369796517108
+2024,"Prince Edward Island","Real GDP Per Capita ($ 2020)",51592.0391304801,10.8511226591502
+2025,"Prince Edward Island","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"Nova Scotia","Real GDP Per Capita ($ 2020)",NA,NA
 1868,"Nova Scotia","Real GDP Per Capita ($ 2020)",NA,NA
 1869,"Nova Scotia","Real GDP Per Capita ($ 2020)",NA,NA
@@ -9090,9 +9163,10 @@
 2019,"Nova Scotia","Real GDP Per Capita ($ 2020)",48348.4484479476,10.7861894103551
 2020,"Nova Scotia","Real GDP Per Capita ($ 2020)",46670.5352376947,10.7508683074381
 2021,"Nova Scotia","Real GDP Per Capita ($ 2020)",49720.2875432901,10.8141683288599
-2022,"Nova Scotia","Real GDP Per Capita ($ 2020)",48759.5950796613,10.794657279206
-2023,"Nova Scotia","Real GDP Per Capita ($ 2020)",49174.2105944666,10.8031245901435
-2024,"Nova Scotia","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Nova Scotia","Real GDP Per Capita ($ 2020)",49751.5981328042,10.8147978653432
+2023,"Nova Scotia","Real GDP Per Capita ($ 2020)",50092.8791373768,10.8216341439846
+2024,"Nova Scotia","Real GDP Per Capita ($ 2020)",51380.0528115735,10.8470052985258
+2025,"Nova Scotia","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"New Brunswick","Real GDP Per Capita ($ 2020)",NA,NA
 1868,"New Brunswick","Real GDP Per Capita ($ 2020)",NA,NA
 1869,"New Brunswick","Real GDP Per Capita ($ 2020)",NA,NA
@@ -9248,9 +9322,10 @@
 2019,"New Brunswick","Real GDP Per Capita ($ 2020)",49314.9883936224,10.8059833380362
 2020,"New Brunswick","Real GDP Per Capita ($ 2020)",47679.9518018156,10.7722662908708
 2021,"New Brunswick","Real GDP Per Capita ($ 2020)",50516.6377830233,10.830058022053
-2022,"New Brunswick","Real GDP Per Capita ($ 2020)",51023.1319599462,10.8400343767177
-2023,"New Brunswick","Real GDP Per Capita ($ 2020)",49288.2090370573,10.8054401638203
-2024,"New Brunswick","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"New Brunswick","Real GDP Per Capita ($ 2020)",50310.9652598012,10.8259783295426
+2023,"New Brunswick","Real GDP Per Capita ($ 2020)",48752.4875229789,10.7945115012366
+2024,"New Brunswick","Real GDP Per Capita ($ 2020)",47917.4905738527,10.7772358644284
+2025,"New Brunswick","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"Quebec","Real GDP Per Capita ($ 2020)",NA,NA
 1868,"Quebec","Real GDP Per Capita ($ 2020)",NA,NA
 1869,"Quebec","Real GDP Per Capita ($ 2020)",NA,NA
@@ -9406,9 +9481,10 @@
 2019,"Quebec","Real GDP Per Capita ($ 2020)",54601.7734374797,10.9078216417454
 2020,"Quebec","Real GDP Per Capita ($ 2020)",52782.0121282713,10.8739257322611
 2021,"Quebec","Real GDP Per Capita ($ 2020)",57276.8831116378,10.9556523852035
-2022,"Quebec","Real GDP Per Capita ($ 2020)",57633.9311092027,10.9618667550004
-2023,"Quebec","Real GDP Per Capita ($ 2020)",57111.2608936631,10.9527565897493
-2024,"Quebec","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Quebec","Real GDP Per Capita ($ 2020)",58121.2416420075,10.9702864808767
+2023,"Quebec","Real GDP Per Capita ($ 2020)",57581.7018200031,10.960960119478
+2024,"Quebec","Real GDP Per Capita ($ 2020)",58380.0437108789,10.9747293931382
+2025,"Quebec","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"Ontario","Real GDP Per Capita ($ 2020)",NA,NA
 1868,"Ontario","Real GDP Per Capita ($ 2020)",NA,NA
 1869,"Ontario","Real GDP Per Capita ($ 2020)",NA,NA
@@ -9564,9 +9640,10 @@
 2019,"Ontario","Real GDP Per Capita ($ 2020)",61741.3668878831,11.0307094372326
 2020,"Ontario","Real GDP Per Capita ($ 2020)",59230.8084692319,10.9891970988357
 2021,"Ontario","Real GDP Per Capita ($ 2020)",63239.3947448109,11.0546827205124
-2022,"Ontario","Real GDP Per Capita ($ 2020)",63534.3673742229,11.0593362569666
-2023,"Ontario","Real GDP Per Capita ($ 2020)",62490.7518426383,11.042773854258
-2024,"Ontario","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Ontario","Real GDP Per Capita ($ 2020)",63686.0771481521,11.0617212485678
+2023,"Ontario","Real GDP Per Capita ($ 2020)",63516.2136161336,11.0590504848265
+2024,"Ontario","Real GDP Per Capita ($ 2020)",63129.6441199836,11.0529457340891
+2025,"Ontario","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"Manitoba","Real GDP Per Capita ($ 2020)",NA,NA
 1868,"Manitoba","Real GDP Per Capita ($ 2020)",NA,NA
 1869,"Manitoba","Real GDP Per Capita ($ 2020)",NA,NA
@@ -9722,9 +9799,10 @@
 2019,"Manitoba","Real GDP Per Capita ($ 2020)",54870.7371196426,10.912735463891
 2020,"Manitoba","Real GDP Per Capita ($ 2020)",52866.6823173436,10.8755285955553
 2021,"Manitoba","Real GDP Per Capita ($ 2020)",55107.5254741894,10.917041564294
-2022,"Manitoba","Real GDP Per Capita ($ 2020)",56370.826509857,10.9397070431973
-2023,"Manitoba","Real GDP Per Capita ($ 2020)",55073.3223913219,10.9164207107676
-2024,"Manitoba","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Manitoba","Real GDP Per Capita ($ 2020)",56577.9675070951,10.9433749217482
+2023,"Manitoba","Real GDP Per Capita ($ 2020)",55835.6318952483,10.9301675090049
+2024,"Manitoba","Real GDP Per Capita ($ 2020)",54851.7059199281,10.9123885667681
+2025,"Manitoba","Real GDP Per Capita ($ 2020)",NA,NA
 1901,"Saskatchewan","Real GDP Per Capita ($ 2020)",NA,NA
 1902,"Saskatchewan","Real GDP Per Capita ($ 2020)",NA,NA
 1903,"Saskatchewan","Real GDP Per Capita ($ 2020)",NA,NA
@@ -9846,9 +9924,10 @@
 2019,"Saskatchewan","Real GDP Per Capita ($ 2020)",73115.1427882398,11.1997907759708
 2020,"Saskatchewan","Real GDP Per Capita ($ 2020)",66625.7775919876,11.1068468325743
 2021,"Saskatchewan","Real GDP Per Capita ($ 2020)",73204.5924972913,11.2010134370154
-2022,"Saskatchewan","Real GDP Per Capita ($ 2020)",88570.5622681154,11.3915548270743
-2023,"Saskatchewan","Real GDP Per Capita ($ 2020)",79108.3562634681,11.2785737899392
-2024,"Saskatchewan","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Saskatchewan","Real GDP Per Capita ($ 2020)",90152.1934020348,11.4092545589182
+2023,"Saskatchewan","Real GDP Per Capita ($ 2020)",81346.9898085158,11.3064791089941
+2024,"Saskatchewan","Real GDP Per Capita ($ 2020)",76993.684629872,11.2514786796783
+2025,"Saskatchewan","Real GDP Per Capita ($ 2020)",NA,NA
 1901,"Alberta","Real GDP Per Capita ($ 2020)",NA,NA
 1902,"Alberta","Real GDP Per Capita ($ 2020)",NA,NA
 1903,"Alberta","Real GDP Per Capita ($ 2020)",NA,NA
@@ -9970,9 +10049,10 @@
 2019,"Alberta","Real GDP Per Capita ($ 2020)",81439.5749140862,11.30761661215
 2020,"Alberta","Real GDP Per Capita ($ 2020)",68361.9607055708,11.1325718188775
 2021,"Alberta","Real GDP Per Capita ($ 2020)",82975.0814064543,11.3262956176839
-2022,"Alberta","Real GDP Per Capita ($ 2020)",94967.6582094007,11.4612916727188
-2023,"Alberta","Real GDP Per Capita ($ 2020)",84219.3794001725,11.3411803328948
-2024,"Alberta","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Alberta","Real GDP Per Capita ($ 2020)",94367.5255486108,11.45495228393
+2023,"Alberta","Real GDP Per Capita ($ 2020)",83885.6487210619,11.3372098256319
+2024,"Alberta","Real GDP Per Capita ($ 2020)",82203.3377950906,11.3169511859996
+2025,"Alberta","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"British Columbia","Real GDP Per Capita ($ 2020)",NA,NA
 1868,"British Columbia","Real GDP Per Capita ($ 2020)",NA,NA
 1869,"British Columbia","Real GDP Per Capita ($ 2020)",NA,NA
@@ -10128,9 +10208,10 @@
 2019,"British Columbia","Real GDP Per Capita ($ 2020)",60900.7371427752,11.0170005577754
 2020,"British Columbia","Real GDP Per Capita ($ 2020)",59390.649448301,10.9918920762642
 2021,"British Columbia","Real GDP Per Capita ($ 2020)",66085.0613921363,11.0986980001789
-2022,"British Columbia","Real GDP Per Capita ($ 2020)",66910.7425389663,11.1111148092936
-2023,"British Columbia","Real GDP Per Capita ($ 2020)",64618.23498712,11.0762519252809
-2024,"British Columbia","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"British Columbia","Real GDP Per Capita ($ 2020)",67658.8704228056,11.1222337472915
+2023,"British Columbia","Real GDP Per Capita ($ 2020)",65533.5083324155,11.0903168684063
+2024,"British Columbia","Real GDP Per Capita ($ 2020)",64423.3830046919,11.0732319363261
+2025,"British Columbia","Real GDP Per Capita ($ 2020)",NA,NA
 1971,"Yukon","Real GDP Per Capita ($ 2020)",NA,NA
 1972,"Yukon","Real GDP Per Capita ($ 2020)",NA,NA
 1973,"Yukon","Real GDP Per Capita ($ 2020)",NA,NA
@@ -10182,9 +10263,10 @@
 2019,"Yukon","Real GDP Per Capita ($ 2020)",75232.904728648,11.2283439771162
 2020,"Yukon","Real GDP Per Capita ($ 2020)",77267.7439344106,11.255031863328
 2021,"Yukon","Real GDP Per Capita ($ 2020)",81907.9832884825,11.3133517411405
-2022,"Yukon","Real GDP Per Capita ($ 2020)",84045.0277807909,11.3391079792141
-2023,"Yukon","Real GDP Per Capita ($ 2020)",83056.6074862845,11.3272776722173
-2024,"Yukon","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Yukon","Real GDP Per Capita ($ 2020)",79994.2071397997,11.2897095002817
+2023,"Yukon","Real GDP Per Capita ($ 2020)",80295.4326578738,11.2934680198349
+2024,"Yukon","Real GDP Per Capita ($ 2020)",77802.3293310667,11.2619266497063
+2025,"Yukon","Real GDP Per Capita ($ 2020)",NA,NA
 1991,"Northwest Territories","Real GDP Per Capita ($ 2020)",NA,NA
 1992,"Northwest Territories","Real GDP Per Capita ($ 2020)",NA,NA
 1993,"Northwest Territories","Real GDP Per Capita ($ 2020)",NA,NA
@@ -10216,9 +10298,10 @@
 2019,"Northwest Territories","Real GDP Per Capita ($ 2020)",105853.43223289,11.5698107014779
 2020,"Northwest Territories","Real GDP Per Capita ($ 2020)",94216.2502246989,11.4533479533799
 2021,"Northwest Territories","Real GDP Per Capita ($ 2020)",103763.768326983,11.5498721360543
-2022,"Northwest Territories","Real GDP Per Capita ($ 2020)",111753.282962451,11.6240488897844
-2023,"Northwest Territories","Real GDP Per Capita ($ 2020)",106916.20267422,11.5798006540425
-2024,"Northwest Territories","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Northwest Territories","Real GDP Per Capita ($ 2020)",108411.016188122,11.5936849881759
+2023,"Northwest Territories","Real GDP Per Capita ($ 2020)",104496.603256159,11.556909845133
+2024,"Northwest Territories","Real GDP Per Capita ($ 2020)",96383.5941005826,11.4760912804368
+2025,"Northwest Territories","Real GDP Per Capita ($ 2020)",NA,NA
 1991,"Nunavut","Real GDP Per Capita ($ 2020)",NA,NA
 1992,"Nunavut","Real GDP Per Capita ($ 2020)",NA,NA
 1993,"Nunavut","Real GDP Per Capita ($ 2020)",NA,NA
@@ -10250,9 +10333,10 @@
 2019,"Nunavut","Real GDP Per Capita ($ 2020)",92956.897478732,11.4398911967303
 2020,"Nunavut","Real GDP Per Capita ($ 2020)",102991.463816206,11.5424013882066
 2021,"Nunavut","Real GDP Per Capita ($ 2020)",106632.674777477,11.5771452613593
-2022,"Nunavut","Real GDP Per Capita ($ 2020)",96751.7540669282,11.4799037406184
-2023,"Nunavut","Real GDP Per Capita ($ 2020)",103382.562007642,11.5461915808732
-2024,"Nunavut","Real GDP Per Capita ($ 2020)",NA,NA
+2022,"Nunavut","Real GDP Per Capita ($ 2020)",98233.7427304548,11.4951050476478
+2023,"Nunavut","Real GDP Per Capita ($ 2020)",104413.980321671,11.5561188565925
+2024,"Nunavut","Real GDP Per Capita ($ 2020)",116543.7891695,11.666022354065
+2025,"Nunavut","Real GDP Per Capita ($ 2020)",NA,NA
 1867,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
@@ -10397,19 +10481,20 @@
 2008,"Canada","Real GDP Per Worker ($ 2020)",117057.976598657,11.6704246175314
 2009,"Canada","Real GDP Per Worker ($ 2020)",112307.368228892,11.6289947505857
 2010,"Canada","Real GDP Per Worker ($ 2020)",115395.933881989,11.6561243974439
-2011,"Canada","Real GDP Per Worker ($ 2020)",117550.600673033,11.6746241638916
-2012,"Canada","Real GDP Per Worker ($ 2020)",117702.101672438,11.6759121492694
-2013,"Canada","Real GDP Per Worker ($ 2020)",119816.492171409,11.6937166193907
-2014,"Canada","Real GDP Per Worker ($ 2020)",122751.560075295,11.717917754947
-2015,"Canada","Real GDP Per Worker ($ 2020)",120292.905741475,11.6976849288313
-2016,"Canada","Real GDP Per Worker ($ 2020)",120008.755460129,11.6953199812703
-2017,"Canada","Real GDP Per Worker ($ 2020)",122260.740782121,11.7139112626362
-2018,"Canada","Real GDP Per Worker ($ 2020)",122628.385940019,11.7169138086375
-2019,"Canada","Real GDP Per Worker ($ 2020)",121884.321729131,11.7108276913579
-2020,"Canada","Real GDP Per Worker ($ 2020)",123063.157428036,11.720452977596
-2021,"Canada","Real GDP Per Worker ($ 2020)",128566.861209291,11.7642043686924
-2022,"Canada","Real GDP Per Worker ($ 2020)",129440.816332288,11.7709790389187
-2023,"Canada","Real GDP Per Worker ($ 2020)",125036.963349326,11.7363646793664
+2011,"Canada","Real GDP Per Worker ($ 2020)",117719.216659271,11.6760575480547
+2012,"Canada","Real GDP Per Worker ($ 2020)",117999.199613739,11.6784331204904
+2013,"Canada","Real GDP Per Worker ($ 2020)",120118.276438837,11.6962321733333
+2014,"Canada","Real GDP Per Worker ($ 2020)",123060.886948219,11.7204345277138
+2015,"Canada","Real GDP Per Worker ($ 2020)",120620.967504215,11.7004084080656
+2016,"Canada","Real GDP Per Worker ($ 2020)",120287.955877465,11.6976437795564
+2017,"Canada","Real GDP Per Worker ($ 2020)",122412.467025567,11.7151514986576
+2018,"Canada","Real GDP Per Worker ($ 2020)",122737.860352537,11.7178061434344
+2019,"Canada","Real GDP Per Worker ($ 2020)",122206.435631807,11.7134669890776
+2020,"Canada","Real GDP Per Worker ($ 2020)",122894.927636494,11.71908502242
+2021,"Canada","Real GDP Per Worker ($ 2020)",129372.853530535,11.7704538517958
+2022,"Canada","Real GDP Per Worker ($ 2020)",130864.155090959,11.7819150801049
+2023,"Canada","Real GDP Per Worker ($ 2020)",125816.170219501,11.7425771540938
+2024,"Canada","Real GDP Per Worker ($ 2020)",126189.979368992,11.7455438231553
 1949,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",NA,NA
 1950,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",26745.6089241812,10.1941255864826
 1951,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",28470.7099412638,10.2566311164299
@@ -10472,20 +10557,21 @@
 2008,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",171269.311502523,12.0509925176646
 2009,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",138984.959845349,11.8421210037071
 2010,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",152466.96043664,11.9347031986825
-2011,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",164798.340401846,12.0124778260297
-2012,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",150454.054568752,11.9214130313046
-2013,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",159071.405391358,11.9771084709031
-2014,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",156652.094545222,11.961782667151
-2015,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",140738.019131412,11.8546554207548
-2016,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",143411.879188836,11.8734760432483
-2017,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",156823.964163298,11.9628792078948
-2018,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",156693.587480631,11.9620475052389
-2019,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",156948.129621575,11.9636706451655
-2020,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",149308.584686775,11.9137704814508
-2021,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",167960.104575561,12.0314817574198
-2022,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",160597.172441258,11.986654474121
-2023,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",143533.714825401,11.8743252331047
-2024,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",NA,NA
+2011,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",164727.550736725,12.0120481804806
+2012,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",150391.365379348,11.9209962778082
+2013,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",159005.673405659,11.9766951623624
+2014,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",156456.197803398,11.9605313635466
+2015,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",140444.937042425,11.8525707837689
+2016,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",143045.876945053,11.8709206755886
+2017,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",156063.354107833,11.9580173198647
+2018,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",155800.159130961,11.956329433798
+2019,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",155998.162559447,11.9575995076972
+2020,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",148071.790151864,11.9054525037322
+2021,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",166243.941801133,12.0212115175602
+2022,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",162630.976102368,11.9992389628867
+2023,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",147707.918357622,11.9029920781699
+2024,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",146725.764513388,11.8963205759319
+2025,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"Prince Edward Island","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"Prince Edward Island","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"Prince Edward Island","Real GDP Per Worker ($ 2020)",NA,NA
@@ -10630,20 +10716,21 @@
 2008,"Prince Edward Island","Real GDP Per Worker ($ 2020)",83089.2169251778,11.3276702121975
 2009,"Prince Edward Island","Real GDP Per Worker ($ 2020)",86311.1888111888,11.3657145188552
 2010,"Prince Edward Island","Real GDP Per Worker ($ 2020)",87752.8729650469,11.3822798811346
-2011,"Prince Edward Island","Real GDP Per Worker ($ 2020)",86084.6822190013,11.3630867677244
-2012,"Prince Edward Island","Real GDP Per Worker ($ 2020)",86258.7960004193,11.3651073123073
-2013,"Prince Edward Island","Real GDP Per Worker ($ 2020)",87164.6672492784,11.3755543356891
+2011,"Prince Edward Island","Real GDP Per Worker ($ 2020)",85965.4513572021,11.3617007661165
+2012,"Prince Edward Island","Real GDP Per Worker ($ 2020)",86140.6332661722,11.3637365101735
+2013,"Prince Edward Island","Real GDP Per Worker ($ 2020)",87046.717767209,11.3742002393414
 2014,"Prince Edward Island","Real GDP Per Worker ($ 2020)",87450.3659084074,11.3788266646393
-2015,"Prince Edward Island","Real GDP Per Worker ($ 2020)",90372.017327725,11.4116899556271
-2016,"Prince Edward Island","Real GDP Per Worker ($ 2020)",93835.2132345042,11.4492954721638
-2017,"Prince Edward Island","Real GDP Per Worker ($ 2020)",95115.5419222904,11.4628476623341
-2018,"Prince Edward Island","Real GDP Per Worker ($ 2020)",93135.6724235285,11.4418125523211
-2019,"Prince Edward Island","Real GDP Per Worker ($ 2020)",94273.0299667037,11.4539504252411
-2020,"Prince Edward Island","Real GDP Per Worker ($ 2020)",97148.4375,11.4839953713
-2021,"Prince Edward Island","Real GDP Per Worker ($ 2020)",103738.341712451,11.5496270627425
-2022,"Prince Edward Island","Real GDP Per Worker ($ 2020)",101810.771154595,11.530871184521
-2023,"Prince Edward Island","Real GDP Per Worker ($ 2020)",97239.1448944707,11.4849286346282
-2024,"Prince Edward Island","Real GDP Per Worker ($ 2020)",NA,NA
+2015,"Prince Edward Island","Real GDP Per Worker ($ 2020)",90620.6336064808,11.4144372101022
+2016,"Prince Edward Island","Real GDP Per Worker ($ 2020)",94355.7969417692,11.4548279897335
+2017,"Prince Edward Island","Real GDP Per Worker ($ 2020)",96141.0464174094,11.4735716256971
+2018,"Prince Edward Island","Real GDP Per Worker ($ 2020)",94237.1455533731,11.4535697093071
+2019,"Prince Edward Island","Real GDP Per Worker ($ 2020)",95962.9434360172,11.4717173900557
+2020,"Prince Edward Island","Real GDP Per Worker ($ 2020)",97913.3858267717,11.4918385487611
+2021,"Prince Edward Island","Real GDP Per Worker ($ 2020)",103608.668785311,11.5483762808408
+2022,"Prince Edward Island","Real GDP Per Worker ($ 2020)",102341.238384639,11.5360679829761
+2023,"Prince Edward Island","Real GDP Per Worker ($ 2020)",98963.2212633375,11.5025035577021
+2024,"Prince Edward Island","Real GDP Per Worker ($ 2020)",100233.013622697,11.5152528906396
+2025,"Prince Edward Island","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"Nova Scotia","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"Nova Scotia","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"Nova Scotia","Real GDP Per Worker ($ 2020)",NA,NA
@@ -10788,20 +10875,21 @@
 2008,"Nova Scotia","Real GDP Per Worker ($ 2020)",94318.0244258141,11.4544275895489
 2009,"Nova Scotia","Real GDP Per Worker ($ 2020)",93011.5895863621,11.4404793835793
 2010,"Nova Scotia","Real GDP Per Worker ($ 2020)",95951.0018258127,11.471592942505
-2011,"Nova Scotia","Real GDP Per Worker ($ 2020)",94772.8111522554,11.4592378449161
-2012,"Nova Scotia","Real GDP Per Worker ($ 2020)",93215.2327223463,11.4426664285455
-2013,"Nova Scotia","Real GDP Per Worker ($ 2020)",94889.0233092545,11.4604633120416
-2014,"Nova Scotia","Real GDP Per Worker ($ 2020)",97305.1332154267,11.4856070233645
-2015,"Nova Scotia","Real GDP Per Worker ($ 2020)",99132.401679835,11.5042116263117
-2016,"Nova Scotia","Real GDP Per Worker ($ 2020)",100147.170254282,11.5143960856202
-2017,"Nova Scotia","Real GDP Per Worker ($ 2020)",101780.972950425,11.530578459445
-2018,"Nova Scotia","Real GDP Per Worker ($ 2020)",102005.355224114,11.5327805930854
-2019,"Nova Scotia","Real GDP Per Worker ($ 2020)",101546.206730647,11.5282692125999
-2020,"Nova Scotia","Real GDP Per Worker ($ 2020)",104139.408978119,11.5534857514379
-2021,"Nova Scotia","Real GDP Per Worker ($ 2020)",106207.462672156,11.5731496553038
-2022,"Nova Scotia","Real GDP Per Worker ($ 2020)",103096.32652126,11.5434190391206
-2023,"Nova Scotia","Real GDP Per Worker ($ 2020)",104362.926986954,11.5556297858768
-2024,"Nova Scotia","Real GDP Per Worker ($ 2020)",NA,NA
+2011,"Nova Scotia","Real GDP Per Worker ($ 2020)",94544.1925288617,11.4568226499777
+2012,"Nova Scotia","Real GDP Per Worker ($ 2020)",93378.303324091,11.4444142987742
+2013,"Nova Scotia","Real GDP Per Worker ($ 2020)",95286.6614748645,11.4646451163089
+2014,"Nova Scotia","Real GDP Per Worker ($ 2020)",97544.6401443526,11.4880653998401
+2015,"Nova Scotia","Real GDP Per Worker ($ 2020)",99266.4549613494,11.5055629778687
+2016,"Nova Scotia","Real GDP Per Worker ($ 2020)",100441.787410495,11.5173336089166
+2017,"Nova Scotia","Real GDP Per Worker ($ 2020)",102307.268449044,11.5357359997486
+2018,"Nova Scotia","Real GDP Per Worker ($ 2020)",102163.643294735,11.534331152705
+2019,"Nova Scotia","Real GDP Per Worker ($ 2020)",101721.36189534,11.5299926081147
+2020,"Nova Scotia","Real GDP Per Worker ($ 2020)",103231.216457961,11.544726571348
+2021,"Nova Scotia","Real GDP Per Worker ($ 2020)",104554.602054335,11.5574647216244
+2022,"Nova Scotia","Real GDP Per Worker ($ 2020)",103530.436989084,11.5476209256446
+2023,"Nova Scotia","Real GDP Per Worker ($ 2020)",104389.574898186,11.5558850921475
+2024,"Nova Scotia","Real GDP Per Worker ($ 2020)",106719.218113821,11.5779565346029
+2025,"Nova Scotia","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"New Brunswick","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"New Brunswick","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"New Brunswick","Real GDP Per Worker ($ 2020)",NA,NA
@@ -10946,20 +11034,21 @@
 2008,"New Brunswick","Real GDP Per Worker ($ 2020)",95638.2829637515,11.4683284682927
 2009,"New Brunswick","Real GDP Per Worker ($ 2020)",95678.4511426678,11.4687483811633
 2010,"New Brunswick","Real GDP Per Worker ($ 2020)",99040.9146383696,11.5032883229159
-2011,"New Brunswick","Real GDP Per Worker ($ 2020)",101042.850923449,11.5232999724166
-2012,"New Brunswick","Real GDP Per Worker ($ 2020)",100829.539273438,11.5211866400367
-2013,"New Brunswick","Real GDP Per Worker ($ 2020)",99493.0690670339,11.5078432631027
-2014,"New Brunswick","Real GDP Per Worker ($ 2020)",99333.102829656,11.5062341563099
-2015,"New Brunswick","Real GDP Per Worker ($ 2020)",102032.451364363,11.5330461922982
+2011,"New Brunswick","Real GDP Per Worker ($ 2020)",101184.605764811,11.524701907316
+2012,"New Brunswick","Real GDP Per Worker ($ 2020)",101000.243911035,11.5228782107812
+2013,"New Brunswick","Real GDP Per Worker ($ 2020)",99660.2843091634,11.5095225246225
+2014,"New Brunswick","Real GDP Per Worker ($ 2020)",99388.6893449496,11.506793596884
+2015,"New Brunswick","Real GDP Per Worker ($ 2020)",102061.217209123,11.5333280809541
 2016,"New Brunswick","Real GDP Per Worker ($ 2020)",102431.100029968,11.5369456567068
-2017,"New Brunswick","Real GDP Per Worker ($ 2020)",104530.353702022,11.557232774258
-2018,"New Brunswick","Real GDP Per Worker ($ 2020)",105591.490364392,11.5673330633367
-2019,"New Brunswick","Real GDP Per Worker ($ 2020)",105436.828609332,11.5658672716031
-2020,"New Brunswick","Real GDP Per Worker ($ 2020)",105998.86492622,11.5711836647937
-2021,"New Brunswick","Real GDP Per Worker ($ 2020)",109900.0225367,11.6073263454572
-2022,"New Brunswick","Real GDP Per Worker ($ 2020)",110552.031760198,11.6132415647707
-2023,"New Brunswick","Real GDP Per Worker ($ 2020)",106124.591665068,11.5723690759273
-2024,"New Brunswick","Real GDP Per Worker ($ 2020)",NA,NA
+2017,"New Brunswick","Real GDP Per Worker ($ 2020)",104733.946488865,11.5591785705633
+2018,"New Brunswick","Real GDP Per Worker ($ 2020)",106031.577153907,11.5714922264099
+2019,"New Brunswick","Real GDP Per Worker ($ 2020)",105990.685325831,11.5711064949484
+2020,"New Brunswick","Real GDP Per Worker ($ 2020)",106270.27027027,11.573740847605
+2021,"New Brunswick","Real GDP Per Worker ($ 2020)",109568.453626139,11.6043047801862
+2022,"New Brunswick","Real GDP Per Worker ($ 2020)",108346.59254188,11.5930905578487
+2023,"New Brunswick","Real GDP Per Worker ($ 2020)",104267.46947455,11.5547146985196
+2024,"New Brunswick","Real GDP Per Worker ($ 2020)",102818.116842759,11.5407168503548
+2025,"New Brunswick","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"Quebec","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"Quebec","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"Quebec","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11104,20 +11193,21 @@
 2008,"Quebec","Real GDP Per Worker ($ 2020)",97698.5363082915,11.4896418564273
 2009,"Quebec","Real GDP Per Worker ($ 2020)",98034.9459853935,11.4930792857767
 2010,"Quebec","Real GDP Per Worker ($ 2020)",98532.2174673446,11.4981388545676
-2011,"Quebec","Real GDP Per Worker ($ 2020)",99397.5195866147,11.5068824384763
-2012,"Quebec","Real GDP Per Worker ($ 2020)",99635.0204776266,11.5092689929931
-2013,"Quebec","Real GDP Per Worker ($ 2020)",100683.783535529,11.5197400283557
-2014,"Quebec","Real GDP Per Worker ($ 2020)",102248.394733651,11.5351603743554
-2015,"Quebec","Real GDP Per Worker ($ 2020)",103578.406558512,11.5480841561804
-2016,"Quebec","Real GDP Per Worker ($ 2020)",104574.75981609,11.5576574995455
-2017,"Quebec","Real GDP Per Worker ($ 2020)",105288.688803582,11.5644612735829
-2018,"Quebec","Real GDP Per Worker ($ 2020)",106164.757298778,11.5727474805376
-2019,"Quebec","Real GDP Per Worker ($ 2020)",106956.612095042,11.5801785367701
-2020,"Quebec","Real GDP Per Worker ($ 2020)",110169.888693615,11.6097788960188
-2021,"Quebec","Real GDP Per Worker ($ 2020)",114891.792851271,11.6517460326632
-2022,"Quebec","Real GDP Per Worker ($ 2020)",113526.762770194,11.6397938834403
-2023,"Quebec","Real GDP Per Worker ($ 2020)",112134.204378739,11.6274516863262
-2024,"Quebec","Real GDP Per Worker ($ 2020)",NA,NA
+2011,"Quebec","Real GDP Per Worker ($ 2020)",99580.410621797,11.5087207437245
+2012,"Quebec","Real GDP Per Worker ($ 2020)",99968.7644218323,11.5126130603953
+2013,"Quebec","Real GDP Per Worker ($ 2020)",101045.255968248,11.5233237743596
+2014,"Quebec","Real GDP Per Worker ($ 2020)",102581.575662712,11.5384136211559
+2015,"Quebec","Real GDP Per Worker ($ 2020)",103791.10374905,11.5501355403478
+2016,"Quebec","Real GDP Per Worker ($ 2020)",104824.384574977,11.5600417010461
+2017,"Quebec","Real GDP Per Worker ($ 2020)",105607.20155932,11.5674818445135
+2018,"Quebec","Real GDP Per Worker ($ 2020)",106417.459044799,11.5751249311955
+2019,"Quebec","Real GDP Per Worker ($ 2020)",107712.717717369,11.5872229408283
+2020,"Quebec","Real GDP Per Worker ($ 2020)",110420.550458716,11.6120515409616
+2021,"Quebec","Real GDP Per Worker ($ 2020)",115204.511607917,11.6544641897402
+2022,"Quebec","Real GDP Per Worker ($ 2020)",114733.382183576,11.6503662998634
+2023,"Quebec","Real GDP Per Worker ($ 2020)",112312.786021649,11.6290429901818
+2024,"Quebec","Real GDP Per Worker ($ 2020)",115014.490871676,11.6528134069869
+2025,"Quebec","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"Ontario","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"Ontario","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"Ontario","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11262,20 +11352,21 @@
 2008,"Ontario","Real GDP Per Worker ($ 2020)",110803.139395608,11.6155103867893
 2009,"Ontario","Real GDP Per Worker ($ 2020)",111217.013741763,11.61923865037
 2010,"Ontario","Real GDP Per Worker ($ 2020)",113446.902423411,11.6390901863836
-2011,"Ontario","Real GDP Per Worker ($ 2020)",113341.337065959,11.6381592266009
-2012,"Ontario","Real GDP Per Worker ($ 2020)",114335.489245368,11.6468922936757
-2013,"Ontario","Real GDP Per Worker ($ 2020)",114104.259889957,11.6448678698593
-2014,"Ontario","Real GDP Per Worker ($ 2020)",116310.691198176,11.664020262039
-2015,"Ontario","Real GDP Per Worker ($ 2020)",119486.509945817,11.6909587564987
-2016,"Ontario","Real GDP Per Worker ($ 2020)",121285.713767514,11.7059043119656
-2017,"Ontario","Real GDP Per Worker ($ 2020)",121778.493541918,11.7099590467618
-2018,"Ontario","Real GDP Per Worker ($ 2020)",121905.519314205,11.7110015918374
-2019,"Ontario","Real GDP Per Worker ($ 2020)",121115.5741573,11.7045005270302
-2020,"Ontario","Real GDP Per Worker ($ 2020)",124447.259425839,11.7316372860654
-2021,"Ontario","Real GDP Per Worker ($ 2020)",126956.833569194,11.751602414508
-2022,"Ontario","Real GDP Per Worker ($ 2020)",124424.797525773,11.7314567764461
-2023,"Ontario","Real GDP Per Worker ($ 2020)",123351.942136652,11.7227968667598
-2024,"Ontario","Real GDP Per Worker ($ 2020)",NA,NA
+2011,"Ontario","Real GDP Per Worker ($ 2020)",113518.656685895,11.6397224784825
+2012,"Ontario","Real GDP Per Worker ($ 2020)",114634.778900706,11.6495065180307
+2013,"Ontario","Real GDP Per Worker ($ 2020)",114373.100273152,11.6472211928062
+2014,"Ontario","Real GDP Per Worker ($ 2020)",116593.652401373,11.6664501123204
+2015,"Ontario","Real GDP Per Worker ($ 2020)",119909.597388322,11.6944933827523
+2016,"Ontario","Real GDP Per Worker ($ 2020)",121668.748900762,11.7090574580029
+2017,"Ontario","Real GDP Per Worker ($ 2020)",121917.244146443,11.7110977668793
+2018,"Ontario","Real GDP Per Worker ($ 2020)",121998.121982045,11.7117609300071
+2019,"Ontario","Real GDP Per Worker ($ 2020)",121381.89150392,11.7066969825929
+2020,"Ontario","Real GDP Per Worker ($ 2020)",124138.058324105,11.729149598828
+2021,"Ontario","Real GDP Per Worker ($ 2020)",126759.663681277,11.7500481606085
+2022,"Ontario","Real GDP Per Worker ($ 2020)",124317.78837737,11.7305963756859
+2023,"Ontario","Real GDP Per Worker ($ 2020)",124019.935117741,11.7281975987441
+2024,"Ontario","Real GDP Per Worker ($ 2020)",125116.962595522,11.7370042795535
+2025,"Ontario","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"Manitoba","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"Manitoba","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"Manitoba","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11420,20 +11511,21 @@
 2008,"Manitoba","Real GDP Per Worker ($ 2020)",104041.501049163,11.5525451470745
 2009,"Manitoba","Real GDP Per Worker ($ 2020)",101481.64408496,11.5276332146557
 2010,"Manitoba","Real GDP Per Worker ($ 2020)",102832.435154589,11.5408560993061
-2011,"Manitoba","Real GDP Per Worker ($ 2020)",104274.165308642,11.554778914321
-2012,"Manitoba","Real GDP Per Worker ($ 2020)",108437.195527019,11.5939264412994
-2013,"Manitoba","Real GDP Per Worker ($ 2020)",111040.230195668,11.6176478488263
-2014,"Manitoba","Real GDP Per Worker ($ 2020)",111993.784638197,11.6261986544355
-2015,"Manitoba","Real GDP Per Worker ($ 2020)",111955.002327286,11.6258523046131
-2016,"Manitoba","Real GDP Per Worker ($ 2020)",112618.410355031,11.6317604835876
-2017,"Manitoba","Real GDP Per Worker ($ 2020)",115557.758260815,11.6575257554721
-2018,"Manitoba","Real GDP Per Worker ($ 2020)",115217.207909807,11.6545743903058
-2019,"Manitoba","Real GDP Per Worker ($ 2020)",113659.994841602,11.6409667694666
-2020,"Manitoba","Real GDP Per Worker ($ 2020)",115338.286436927,11.6556247104345
-2021,"Manitoba","Real GDP Per Worker ($ 2020)",116893.458226357,11.6690181854697
-2022,"Manitoba","Real GDP Per Worker ($ 2020)",117531.550791698,11.6744620938982
-2023,"Manitoba","Real GDP Per Worker ($ 2020)",115343.406616065,11.6556691021595
-2024,"Manitoba","Real GDP Per Worker ($ 2020)",NA,NA
+2011,"Manitoba","Real GDP Per Worker ($ 2020)",104426.637686835,11.5562400721424
+2012,"Manitoba","Real GDP Per Worker ($ 2020)",108542.016402347,11.5948926249494
+2013,"Manitoba","Real GDP Per Worker ($ 2020)",111164.376755542,11.6187652565569
+2014,"Manitoba","Real GDP Per Worker ($ 2020)",112011.612365774,11.6263578267399
+2015,"Manitoba","Real GDP Per Worker ($ 2020)",111867.249542894,11.6250681753485
+2016,"Manitoba","Real GDP Per Worker ($ 2020)",112547.803201203,11.6311333277188
+2017,"Manitoba","Real GDP Per Worker ($ 2020)",115433.081271323,11.6564462581046
+2018,"Manitoba","Real GDP Per Worker ($ 2020)",115287.720276948,11.6551861982172
+2019,"Manitoba","Real GDP Per Worker ($ 2020)",113625.635713778,11.6406644263049
+2020,"Manitoba","Real GDP Per Worker ($ 2020)",114793.895531781,11.6508935866435
+2021,"Manitoba","Real GDP Per Worker ($ 2020)",115520.312180927,11.6572016565202
+2022,"Manitoba","Real GDP Per Worker ($ 2020)",116256.496460741,11.6635542054214
+2023,"Manitoba","Real GDP Per Worker ($ 2020)",114799.733929596,11.6509444451785
+2024,"Manitoba","Real GDP Per Worker ($ 2020)",112985.427772205,11.6350141316106
+2025,"Manitoba","Real GDP Per Worker ($ 2020)",NA,NA
 1901,"Saskatchewan","Real GDP Per Worker ($ 2020)",NA,NA
 1902,"Saskatchewan","Real GDP Per Worker ($ 2020)",NA,NA
 1903,"Saskatchewan","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11544,20 +11636,21 @@
 2008,"Saskatchewan","Real GDP Per Worker ($ 2020)",156611.984353116,11.9615265880469
 2009,"Saskatchewan","Real GDP Per Worker ($ 2020)",136583.685239064,11.8246927844257
 2010,"Saskatchewan","Real GDP Per Worker ($ 2020)",139335.778559701,11.8446419721563
-2011,"Saskatchewan","Real GDP Per Worker ($ 2020)",158245.840081042,11.9719050526533
-2012,"Saskatchewan","Real GDP Per Worker ($ 2020)",159775.900363482,11.9815274896989
-2013,"Saskatchewan","Real GDP Per Worker ($ 2020)",164739.818317923,12.0121226496533
-2014,"Saskatchewan","Real GDP Per Worker ($ 2020)",160025.98347495,11.9830914777495
-2015,"Saskatchewan","Real GDP Per Worker ($ 2020)",152557.665281425,11.9352979365483
+2011,"Saskatchewan","Real GDP Per Worker ($ 2020)",158128.815980409,11.9711652708552
+2012,"Saskatchewan","Real GDP Per Worker ($ 2020)",159427.804719989,11.9793464637525
+2013,"Saskatchewan","Real GDP Per Worker ($ 2020)",164099.147290348,12.008226080784
+2014,"Saskatchewan","Real GDP Per Worker ($ 2020)",159575.60251882,11.9802730858891
+2015,"Saskatchewan","Real GDP Per Worker ($ 2020)",152476.732833,11.9347672918025
 2016,"Saskatchewan","Real GDP Per Worker ($ 2020)",143938.419804001,11.877140846844
 2017,"Saskatchewan","Real GDP Per Worker ($ 2020)",149900.599863667,11.9177276858416
-2018,"Saskatchewan","Real GDP Per Worker ($ 2020)",151685.816403361,11.9295666632948
-2019,"Saskatchewan","Real GDP Per Worker ($ 2020)",147551.275580435,11.9019310254061
-2020,"Saskatchewan","Real GDP Per Worker ($ 2020)",142060.273972603,11.8640067111196
-2021,"Saskatchewan","Real GDP Per Worker ($ 2020)",152184.098112168,11.9328462387421
-2022,"Saskatchewan","Real GDP Per Worker ($ 2020)",179495.1366426,12.0979033926303
-2023,"Saskatchewan","Real GDP Per Worker ($ 2020)",161543.885491229,11.9925321215189
-2024,"Saskatchewan","Real GDP Per Worker ($ 2020)",NA,NA
+2018,"Saskatchewan","Real GDP Per Worker ($ 2020)",152034.704516107,11.9318640929525
+2019,"Saskatchewan","Real GDP Per Worker ($ 2020)",148167.677776071,11.9060998693802
+2020,"Saskatchewan","Real GDP Per Worker ($ 2020)",142633.412800293,11.8680330708782
+2021,"Saskatchewan","Real GDP Per Worker ($ 2020)",153110.886458185,11.9389176859642
+2022,"Saskatchewan","Real GDP Per Worker ($ 2020)",183923.580778029,12.1222756284626
+2023,"Saskatchewan","Real GDP Per Worker ($ 2020)",167718.507401508,12.030042301898
+2024,"Saskatchewan","Real GDP Per Worker ($ 2020)",159544.927352556,11.9800808377353
+2025,"Saskatchewan","Real GDP Per Worker ($ 2020)",NA,NA
 1901,"Alberta","Real GDP Per Worker ($ 2020)",NA,NA
 1902,"Alberta","Real GDP Per Worker ($ 2020)",NA,NA
 1903,"Alberta","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11668,20 +11761,21 @@
 2008,"Alberta","Real GDP Per Worker ($ 2020)",173478.270403814,12.0638076278962
 2009,"Alberta","Real GDP Per Worker ($ 2020)",145015.213458593,11.884593936303
 2010,"Alberta","Real GDP Per Worker ($ 2020)",156596.249886046,11.9614261151643
-2011,"Alberta","Real GDP Per Worker ($ 2020)",162813.950290133,12.0003634186223
-2012,"Alberta","Real GDP Per Worker ($ 2020)",162475.863298796,11.9982847361739
-2013,"Alberta","Real GDP Per Worker ($ 2020)",172885.862962368,12.0603869040854
-2014,"Alberta","Real GDP Per Worker ($ 2020)",183506.501751721,12.1200053777386
-2015,"Alberta","Real GDP Per Worker ($ 2020)",154782.198871395,11.9497742391546
-2016,"Alberta","Real GDP Per Worker ($ 2020)",147271.64215971,11.9000340663317
-2017,"Alberta","Real GDP Per Worker ($ 2020)",157162.053953811,11.9650327427764
-2018,"Alberta","Real GDP Per Worker ($ 2020)",155914.937579673,11.9570658655917
-2019,"Alberta","Real GDP Per Worker ($ 2020)",153696.183148708,11.9427330960935
-2020,"Alberta","Real GDP Per Worker ($ 2020)",140553.715538555,11.8533450116918
-2021,"Alberta","Real GDP Per Worker ($ 2020)",162730.857443895,11.9998529337608
-2022,"Alberta","Real GDP Per Worker ($ 2020)",180284.954069727,12.1022939562902
-2023,"Alberta","Real GDP Per Worker ($ 2020)",160305.091979773,11.9848341034068
-2024,"Alberta","Real GDP Per Worker ($ 2020)",NA,NA
+2011,"Alberta","Real GDP Per Worker ($ 2020)",162976.679001575,12.0013623959429
+2012,"Alberta","Real GDP Per Worker ($ 2020)",162513.367537589,11.9985155391384
+2013,"Alberta","Real GDP Per Worker ($ 2020)",172581.458959861,12.0586246298443
+2014,"Alberta","Real GDP Per Worker ($ 2020)",183229.240006196,12.118493325507
+2015,"Alberta","Real GDP Per Worker ($ 2020)",154960.030827677,11.9509224970204
+2016,"Alberta","Real GDP Per Worker ($ 2020)",147693.700725695,11.9028958184948
+2017,"Alberta","Real GDP Per Worker ($ 2020)",157353.334852511,11.9662490961193
+2018,"Alberta","Real GDP Per Worker ($ 2020)",155969.661376481,11.9574167889624
+2019,"Alberta","Real GDP Per Worker ($ 2020)",153849.512674295,11.9437302132073
+2020,"Alberta","Real GDP Per Worker ($ 2020)",140987.787188246,11.8564285499228
+2021,"Alberta","Real GDP Per Worker ($ 2020)",163723.516398872,12.0059344085022
+2022,"Alberta","Real GDP Per Worker ($ 2020)",180753.50506643,12.1048895316251
+2023,"Alberta","Real GDP Per Worker ($ 2020)",161018.684736756,11.9892756914984
+2024,"Alberta","Real GDP Per Worker ($ 2020)",160204.315906242,11.9842052539916
+2025,"Alberta","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"British Columbia","Real GDP Per Worker ($ 2020)",NA,NA
 1868,"British Columbia","Real GDP Per Worker ($ 2020)",NA,NA
 1869,"British Columbia","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11826,20 +11920,21 @@
 2008,"British Columbia","Real GDP Per Worker ($ 2020)",110433.583181653,11.612169562053
 2009,"British Columbia","Real GDP Per Worker ($ 2020)",107779.176432106,11.5878397502642
 2010,"British Columbia","Real GDP Per Worker ($ 2020)",109561.656860607,11.6042427461233
-2011,"British Columbia","Real GDP Per Worker ($ 2020)",111849.240781923,11.6249071790716
-2012,"British Columbia","Real GDP Per Worker ($ 2020)",109515.842747578,11.6038245003995
-2013,"British Columbia","Real GDP Per Worker ($ 2020)",110977.833469406,11.6170857618783
-2014,"British Columbia","Real GDP Per Worker ($ 2020)",113589.895379074,11.6403498321851
-2015,"British Columbia","Real GDP Per Worker ($ 2020)",113602.716407513,11.6404626970213
-2016,"British Columbia","Real GDP Per Worker ($ 2020)",114100.388552882,11.6448339412158
-2017,"British Columbia","Real GDP Per Worker ($ 2020)",115834.21073882,11.6599152300138
-2018,"British Columbia","Real GDP Per Worker ($ 2020)",117179.853903619,11.6714652463291
-2019,"British Columbia","Real GDP Per Worker ($ 2020)",116243.420604601,11.6634417248983
-2020,"British Columbia","Real GDP Per Worker ($ 2020)",122513.948668898,11.7159801691695
-2021,"British Columbia","Real GDP Per Worker ($ 2020)",129661.202523041,11.7726801931194
-2022,"British Columbia","Real GDP Per Worker ($ 2020)",130453.570509158,11.7787726609006
-2023,"British Columbia","Real GDP Per Worker ($ 2020)",128031.80442643,11.7600339841192
-2024,"British Columbia","Real GDP Per Worker ($ 2020)",NA,NA
+2011,"British Columbia","Real GDP Per Worker ($ 2020)",112110.090246903,11.6272366161326
+2012,"British Columbia","Real GDP Per Worker ($ 2020)",110091.333250718,11.6090656025436
+2013,"British Columbia","Real GDP Per Worker ($ 2020)",111796.325082846,11.6244339687053
+2014,"British Columbia","Real GDP Per Worker ($ 2020)",114516.04566539,11.6484702289738
+2015,"British Columbia","Real GDP Per Worker ($ 2020)",114267.591253014,11.646298268484
+2016,"British Columbia","Real GDP Per Worker ($ 2020)",114248.528790383,11.6461314315653
+2017,"British Columbia","Real GDP Per Worker ($ 2020)",115716.699736471,11.6589002392958
+2018,"British Columbia","Real GDP Per Worker ($ 2020)",117022.710147666,11.6701232987704
+2019,"British Columbia","Real GDP Per Worker ($ 2020)",116096.008113439,11.6621727839204
+2020,"British Columbia","Real GDP Per Worker ($ 2020)",121636.529102204,11.708792607203
+2021,"British Columbia","Real GDP Per Worker ($ 2020)",128694.987667622,11.7652004469643
+2022,"British Columbia","Real GDP Per Worker ($ 2020)",130624.130659257,11.7800792464389
+2023,"British Columbia","Real GDP Per Worker ($ 2020)",126913.408606952,11.7512603109019
+2024,"British Columbia","Real GDP Per Worker ($ 2020)",125378.294195357,11.7390907996577
+2025,"British Columbia","Real GDP Per Worker ($ 2020)",NA,NA
 1971,"Yukon","Real GDP Per Worker ($ 2020)",NA,NA
 1972,"Yukon","Real GDP Per Worker ($ 2020)",NA,NA
 1973,"Yukon","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11877,23 +11972,24 @@
 2005,"Yukon","Real GDP Per Worker ($ 2020)",117836.842752794,11.6770562581163
 2006,"Yukon","Real GDP Per Worker ($ 2020)",124911.959091128,11.7353644408585
 2007,"Yukon","Real GDP Per Worker ($ 2020)",130861.008475227,11.7818910349142
-2008,"Yukon","Real GDP Per Worker ($ 2020)",137749.286931769,11.8331905504629
-2009,"Yukon","Real GDP Per Worker ($ 2020)",147715.415897234,11.9030428361077
+2008,"Yukon","Real GDP Per Worker ($ 2020)",137813.746120787,11.8336583867287
+2009,"Yukon","Real GDP Per Worker ($ 2020)",147786.501275433,11.9035239523066
 2010,"Yukon","Real GDP Per Worker ($ 2020)",157293.904587065,11.9658713380544
-2011,"Yukon","Real GDP Per Worker ($ 2020)",149584.645125857,11.9156176997217
-2012,"Yukon","Real GDP Per Worker ($ 2020)",147230.804618144,11.8997567338866
-2013,"Yukon","Real GDP Per Worker ($ 2020)",153083.796577629,11.938740740497
+2011,"Yukon","Real GDP Per Worker ($ 2020)",149323.475950605,11.913870211291
+2012,"Yukon","Real GDP Per Worker ($ 2020)",147105.448462658,11.8989049450787
+2013,"Yukon","Real GDP Per Worker ($ 2020)",153149.780972706,11.9391716821111
 2014,"Yukon","Real GDP Per Worker ($ 2020)",147428.141160722,11.9010961574806
-2015,"Yukon","Real GDP Per Worker ($ 2020)",140866.342909524,11.85556679717
-2016,"Yukon","Real GDP Per Worker ($ 2020)",141704.865746922,11.8615017634585
-2017,"Yukon","Real GDP Per Worker ($ 2020)",136437.779804344,11.8236239640779
-2018,"Yukon","Real GDP Per Worker ($ 2020)",137324.078094981,11.8300989448803
-2019,"Yukon","Real GDP Per Worker ($ 2020)",133753.279729158,11.8037521857971
-2020,"Yukon","Real GDP Per Worker ($ 2020)",147643.263757116,11.9025542630843
-2021,"Yukon","Real GDP Per Worker ($ 2020)",156974.670783189,11.9638397387238
-2022,"Yukon","Real GDP Per Worker ($ 2020)",158464.282873732,11.9732845022603
-2023,"Yukon","Real GDP Per Worker ($ 2020)",158378.296238334,11.9727417302772
-2024,"Yukon","Real GDP Per Worker ($ 2020)",NA,NA
+2015,"Yukon","Real GDP Per Worker ($ 2020)",140924.336463624,11.8559784045025
+2016,"Yukon","Real GDP Per Worker ($ 2020)",141873.763083926,11.8626929488286
+2017,"Yukon","Real GDP Per Worker ($ 2020)",136489.014419366,11.8239994099242
+2018,"Yukon","Real GDP Per Worker ($ 2020)",137119.878722349,11.8286108493676
+2019,"Yukon","Real GDP Per Worker ($ 2020)",133609.097250111,11.8026736309559
+2020,"Yukon","Real GDP Per Worker ($ 2020)",145762.457849382,11.8897335746553
+2021,"Yukon","Real GDP Per Worker ($ 2020)",154053.945423852,11.9450581150169
+2022,"Yukon","Real GDP Per Worker ($ 2020)",147139.030315131,11.8991332032452
+2023,"Yukon","Real GDP Per Worker ($ 2020)",147004.565235659,11.8982189213035
+2024,"Yukon","Real GDP Per Worker ($ 2020)",140353.829356113,11.8519218657507
+2025,"Yukon","Real GDP Per Worker ($ 2020)",NA,NA
 1991,"Northwest Territories","Real GDP Per Worker ($ 2020)",NA,NA
 1992,"Northwest Territories","Real GDP Per Worker ($ 2020)",NA,NA
 1993,"Northwest Territories","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11912,22 +12008,23 @@
 2006,"Northwest Territories","Real GDP Per Worker ($ 2020)",247029.506492768,12.4172630679603
 2007,"Northwest Territories","Real GDP Per Worker ($ 2020)",250826.65481311,12.4325173612528
 2008,"Northwest Territories","Real GDP Per Worker ($ 2020)",270056.988820933,12.5063882854156
-2009,"Northwest Territories","Real GDP Per Worker ($ 2020)",227412.090671759,12.3345190280661
-2010,"Northwest Territories","Real GDP Per Worker ($ 2020)",261746.320035829,12.475131069554
-2011,"Northwest Territories","Real GDP Per Worker ($ 2020)",239519.895115548,12.386391761759
-2012,"Northwest Territories","Real GDP Per Worker ($ 2020)",213898.776344134,12.2732581743628
-2013,"Northwest Territories","Real GDP Per Worker ($ 2020)",214393.206142392,12.275567019908
-2014,"Northwest Territories","Real GDP Per Worker ($ 2020)",229085.721146057,12.3418515406418
-2015,"Northwest Territories","Real GDP Per Worker ($ 2020)",221961.899990048,12.3102610244593
-2016,"Northwest Territories","Real GDP Per Worker ($ 2020)",203706.240665065,12.2244342382948
-2017,"Northwest Territories","Real GDP Per Worker ($ 2020)",215653.47062359,12.2814280957262
-2018,"Northwest Territories","Real GDP Per Worker ($ 2020)",213389.590603742,12.2708748378585
-2019,"Northwest Territories","Real GDP Per Worker ($ 2020)",203284.331377492,12.2223609252124
-2020,"Northwest Territories","Real GDP Per Worker ($ 2020)",191972.529568867,12.1651075656115
-2021,"Northwest Territories","Real GDP Per Worker ($ 2020)",198172.868043495,12.1968949996987
-2022,"Northwest Territories","Real GDP Per Worker ($ 2020)",201670.998588114,12.2143929287164
-2023,"Northwest Territories","Real GDP Per Worker ($ 2020)",200860.105887323,12.210363954117
-2024,"Northwest Territories","Real GDP Per Worker ($ 2020)",NA,NA
+2009,"Northwest Territories","Real GDP Per Worker ($ 2020)",227143.176098635,12.3333358293479
+2010,"Northwest Territories","Real GDP Per Worker ($ 2020)",261343.788209553,12.4735920157681
+2011,"Northwest Territories","Real GDP Per Worker ($ 2020)",239431.543992304,12.3860228261341
+2012,"Northwest Territories","Real GDP Per Worker ($ 2020)",214053.048811746,12.2739791549276
+2013,"Northwest Territories","Real GDP Per Worker ($ 2020)",214011.043564598,12.2737828981145
+2014,"Northwest Territories","Real GDP Per Worker ($ 2020)",228668.594924014,12.3400290506167
+2015,"Northwest Territories","Real GDP Per Worker ($ 2020)",221240.98440004,12.3070078135655
+2016,"Northwest Territories","Real GDP Per Worker ($ 2020)",203633.436433233,12.2240767762713
+2017,"Northwest Territories","Real GDP Per Worker ($ 2020)",216212.986670426,12.2840192502391
+2018,"Northwest Territories","Real GDP Per Worker ($ 2020)",215770.28518095,12.2819696262221
+2019,"Northwest Territories","Real GDP Per Worker ($ 2020)",206481.561168725,12.2379663952353
+2020,"Northwest Territories","Real GDP Per Worker ($ 2020)",194947.69469198,12.1804865692163
+2021,"Northwest Territories","Real GDP Per Worker ($ 2020)",200607.952074388,12.2091077951719
+2022,"Northwest Territories","Real GDP Per Worker ($ 2020)",197691.197691198,12.1944614846025
+2023,"Northwest Territories","Real GDP Per Worker ($ 2020)",197194.703884538,12.1919468642207
+2024,"Northwest Territories","Real GDP Per Worker ($ 2020)",190204.897596369,12.1558571784799
+2025,"Northwest Territories","Real GDP Per Worker ($ 2020)",NA,NA
 1991,"Nunavut","Real GDP Per Worker ($ 2020)",NA,NA
 1992,"Nunavut","Real GDP Per Worker ($ 2020)",NA,NA
 1993,"Nunavut","Real GDP Per Worker ($ 2020)",NA,NA
@@ -11949,19 +12046,20 @@
 2009,"Nunavut","Real GDP Per Worker ($ 2020)",169884.919077848,12.0428765401997
 2010,"Nunavut","Real GDP Per Worker ($ 2020)",195965.851973346,12.185695698408
 2011,"Nunavut","Real GDP Per Worker ($ 2020)",193999.052951817,12.1756085563419
-2012,"Nunavut","Real GDP Per Worker ($ 2020)",206956.692904375,12.2402648373371
-2013,"Nunavut","Real GDP Per Worker ($ 2020)",206482.478722286,12.2379708389809
-2014,"Nunavut","Real GDP Per Worker ($ 2020)",216099.103313152,12.2834923930794
-2015,"Nunavut","Real GDP Per Worker ($ 2020)",215924.300817666,12.2826831660637
-2016,"Nunavut","Real GDP Per Worker ($ 2020)",213423.19132633,12.2710322873262
-2017,"Nunavut","Real GDP Per Worker ($ 2020)",247974.783325305,12.4210823398374
-2018,"Nunavut","Real GDP Per Worker ($ 2020)",250268.711797947,12.4302904668015
-2019,"Nunavut","Real GDP Per Worker ($ 2020)",269094.62915601,12.5028183779726
-2020,"Nunavut","Real GDP Per Worker ($ 2020)",328787.061994609,12.7031655922251
-2021,"Nunavut","Real GDP Per Worker ($ 2020)",315653.71577575,12.6624010555489
-2022,"Nunavut","Real GDP Per Worker ($ 2020)",271982.794275788,12.5134940869384
-2023,"Nunavut","Real GDP Per Worker ($ 2020)",296314.808007818,12.5991777087146
-2024,"Nunavut","Real GDP Per Worker ($ 2020)",NA,NA
+2012,"Nunavut","Real GDP Per Worker ($ 2020)",207389.958835089,12.2423561591171
+2013,"Nunavut","Real GDP Per Worker ($ 2020)",206067.02101862,12.2359567396092
+2014,"Nunavut","Real GDP Per Worker ($ 2020)",215355.472537814,12.2800453024548
+2015,"Nunavut","Real GDP Per Worker ($ 2020)",214597.803406499,12.2765208733691
+2016,"Nunavut","Real GDP Per Worker ($ 2020)",212326.604601468,12.265880955909
+2017,"Nunavut","Real GDP Per Worker ($ 2020)",245426.551768975,12.4107530033236
+2018,"Nunavut","Real GDP Per Worker ($ 2020)",248200.375336807,12.4219916639868
+2019,"Nunavut","Real GDP Per Worker ($ 2020)",267764.124191086,12.4978617383326
+2020,"Nunavut","Real GDP Per Worker ($ 2020)",327683.008730692,12.6998019832685
+2021,"Nunavut","Real GDP Per Worker ($ 2020)",315072.044309332,12.6605566037503
+2022,"Nunavut","Real GDP Per Worker ($ 2020)",279084.640658985,12.5392703863332
+2023,"Nunavut","Real GDP Per Worker ($ 2020)",305157.315631536,12.628582711572
+2024,"Nunavut","Real GDP Per Worker ($ 2020)",337487.993671959,12.7292852143566
+2025,"Nunavut","Real GDP Per Worker ($ 2020)",NA,NA
 1867,"Canada","Nominal GDP Per Capita ($)",107.783978962069,4.6801290292675
 1868,"Canada","Nominal GDP Per Capita ($)",107.783978962069,4.6801290292675
 1869,"Canada","Nominal GDP Per Capita ($)",107.783978962069,4.6801290292675
@@ -12116,9 +12214,10 @@
 2018,"Canada","Nominal GDP Per Capita ($)",60408.4016497052,11.0088834744101
 2019,"Canada","Nominal GDP Per Capita ($)",61604.3087918498,11.028487094995
 2020,"Canada","Nominal GDP Per Capita ($)",58438.3070142755,10.9757268958056
-2021,"Canada","Nominal GDP Per Capita ($)",65856.2307075136,11.0952293223993
-2022,"Canada","Nominal GDP Per Capita ($)",72384.371236405,11.1897456881707
-2023,"Canada","Nominal GDP Per Capita ($)",72360.4254944838,11.1894148197363
+2021,"Canada","Nominal GDP Per Capita ($)",66339.5451111525,11.1025414555459
+2022,"Canada","Nominal GDP Per Capita ($)",73339.3729616608,11.2028528918432
+2023,"Canada","Nominal GDP Per Capita ($)",73462.1300855193,11.2045253154891
+2024,"Canada","Nominal GDP Per Capita ($)",74720.5451378369,11.221510368618
 1949,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",606.103073966436,6.40705006065934
 1950,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",632.624645649431,6.44987726940673
 1951,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",754.645722520177,6.62624839742556
@@ -12192,9 +12291,10 @@
 2019,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",67884.9146108259,11.1255691181832
 2020,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",61068.4704792706,11.0197509805338
 2021,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",73384.9913481679,11.2034747161488
-2022,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",77561.4144714554,11.2588253463158
-2023,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",72292.6219180675,11.1884773547801
-2024,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",NA,NA
+2022,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",79125.5456398692,11.2787910553452
+2023,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",74914.2985472977,11.224100053119
+2024,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",77201.3041514513,11.2541716290237
+2025,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",NA,NA
 1867,"Prince Edward Island","Nominal GDP Per Capita ($)",NA,NA
 1868,"Prince Edward Island","Nominal GDP Per Capita ($)",NA,NA
 1869,"Prince Edward Island","Nominal GDP Per Capita ($)",NA,NA
@@ -12350,9 +12450,10 @@
 2019,"Prince Edward Island","Nominal GDP Per Capita ($)",47755.9823354216,10.7738596225729
 2020,"Prince Edward Island","Nominal GDP Per Capita ($)",46867.6386524533,10.7550827088593
 2021,"Prince Edward Island","Nominal GDP Per Capita ($)",52839.3356071867,10.8750111848855
-2022,"Prince Edward Island","Nominal GDP Per Capita ($)",56580.5290258533,10.9434201948623
-2023,"Prince Edward Island","Nominal GDP Per Capita ($)",57128.7123013246,10.9530621116662
-2024,"Prince Edward Island","Nominal GDP Per Capita ($)",NA,NA
+2022,"Prince Edward Island","Nominal GDP Per Capita ($)",56812.2009569378,10.9475063872217
+2023,"Prince Edward Island","Nominal GDP Per Capita ($)",58330.551302566,10.9738812711442
+2024,"Prince Edward Island","Nominal GDP Per Capita ($)",60592.4021612718,11.0119247873204
+2025,"Prince Edward Island","Nominal GDP Per Capita ($)",NA,NA
 1867,"Nova Scotia","Nominal GDP Per Capita ($)",NA,NA
 1868,"Nova Scotia","Nominal GDP Per Capita ($)",NA,NA
 1869,"Nova Scotia","Nominal GDP Per Capita ($)",NA,NA
@@ -12508,9 +12609,10 @@
 2019,"Nova Scotia","Nominal GDP Per Capita ($)",47995.5400651159,10.778863370263
 2020,"Nova Scotia","Nominal GDP Per Capita ($)",46670.5352376947,10.7508683074381
 2021,"Nova Scotia","Nominal GDP Per Capita ($)",51389.7278549627,10.8471935842914
-2022,"Nova Scotia","Nominal GDP Per Capita ($)",53813.5093141955,10.8932798171233
-2023,"Nova Scotia","Nominal GDP Per Capita ($)",56388.8210539468,10.9400262095769
-2024,"Nova Scotia","Nominal GDP Per Capita ($)",NA,NA
+2022,"Nova Scotia","Nominal GDP Per Capita ($)",54908.3331217518,10.9134204032606
+2023,"Nova Scotia","Nominal GDP Per Capita ($)",57442.2723538825,10.9585357634181
+2024,"Nova Scotia","Nominal GDP Per Capita ($)",60343.4342874611,11.007807426696
+2025,"Nova Scotia","Nominal GDP Per Capita ($)",NA,NA
 1867,"New Brunswick","Nominal GDP Per Capita ($)",NA,NA
 1868,"New Brunswick","Nominal GDP Per Capita ($)",NA,NA
 1869,"New Brunswick","Nominal GDP Per Capita ($)",NA,NA
@@ -12666,9 +12768,10 @@
 2019,"New Brunswick","Nominal GDP Per Capita ($)",48955.0249746909,10.7986572979441
 2020,"New Brunswick","Nominal GDP Per Capita ($)",47679.9518018156,10.7722662908708
 2021,"New Brunswick","Nominal GDP Per Capita ($)",52212.8168618693,10.8630832774845
-2022,"New Brunswick","Nominal GDP Per Capita ($)",56311.6609660136,10.9386569146351
-2023,"New Brunswick","Nominal GDP Per Capita ($)",56519.5448154868,10.9423417832538
-2024,"New Brunswick","Nominal GDP Per Capita ($)",NA,NA
+2022,"New Brunswick","Nominal GDP Per Capita ($)",55525.6784473135,10.9246008674599
+2023,"New Brunswick","Nominal GDP Per Capita ($)",55905.2247435035,10.93141312067
+2024,"New Brunswick","Nominal GDP Per Capita ($)",56276.8192214081,10.9380379925986
+2025,"New Brunswick","Nominal GDP Per Capita ($)",NA,NA
 1867,"Quebec","Nominal GDP Per Capita ($)",NA,NA
 1868,"Quebec","Nominal GDP Per Capita ($)",NA,NA
 1869,"Quebec","Nominal GDP Per Capita ($)",NA,NA
@@ -12824,9 +12927,10 @@
 2019,"Quebec","Nominal GDP Per Capita ($)",54203.2203466952,10.9004956016534
 2020,"Quebec","Nominal GDP Per Capita ($)",52782.0121282713,10.8739257322611
 2021,"Quebec","Nominal GDP Per Capita ($)",59200.0485299848,10.988677640635
-2022,"Quebec","Nominal GDP Per Capita ($)",63607.6670343901,11.0604892929177
-2023,"Quebec","Nominal GDP Per Capita ($)",65490.3582948501,11.0896582091828
-2024,"Quebec","Nominal GDP Per Capita ($)",NA,NA
+2022,"Quebec","Nominal GDP Per Capita ($)",64145.4871260696,11.068909018794
+2023,"Quebec","Nominal GDP Per Capita ($)",66029.8201162225,11.0978617389114
+2024,"Quebec","Nominal GDP Per Capita ($)",68564.5914823388,11.1355315213084
+2025,"Quebec","Nominal GDP Per Capita ($)",NA,NA
 1867,"Ontario","Nominal GDP Per Capita ($)",NA,NA
 1868,"Ontario","Nominal GDP Per Capita ($)",NA,NA
 1869,"Ontario","Nominal GDP Per Capita ($)",NA,NA
@@ -12982,9 +13086,10 @@
 2019,"Ontario","Nominal GDP Per Capita ($)",61290.6999762927,11.0233833971405
 2020,"Ontario","Nominal GDP Per Capita ($)",59230.8084692319,10.9891970988357
 2021,"Ontario","Nominal GDP Per Capita ($)",65362.7612836877,11.0877079759439
-2022,"Ontario","Nominal GDP Per Capita ($)",70119.6813648358,11.1579587948839
-2023,"Ontario","Nominal GDP Per Capita ($)",71659.1030253904,11.1796754736914
-2024,"Ontario","Nominal GDP Per Capita ($)",NA,NA
+2022,"Ontario","Nominal GDP Per Capita ($)",70287.1158014642,11.1603437864851
+2023,"Ontario","Nominal GDP Per Capita ($)",72835.0157598145,11.19595210426
+2024,"Ontario","Nominal GDP Per Capita ($)",74142.7718168274,11.2137478622593
+2025,"Ontario","Nominal GDP Per Capita ($)",NA,NA
 1867,"Manitoba","Nominal GDP Per Capita ($)",NA,NA
 1868,"Manitoba","Nominal GDP Per Capita ($)",NA,NA
 1869,"Manitoba","Nominal GDP Per Capita ($)",NA,NA
@@ -13140,9 +13245,10 @@
 2019,"Manitoba","Nominal GDP Per Capita ($)",54470.2207903021,10.905409423799
 2020,"Manitoba","Nominal GDP Per Capita ($)",52866.6823173436,10.8755285955553
 2021,"Manitoba","Nominal GDP Per Capita ($)",56957.8511470454,10.9500668197254
-2022,"Manitoba","Nominal GDP Per Capita ($)",62213.6421043093,11.0383295811146
-2023,"Manitoba","Nominal GDP Per Capita ($)",63153.4229757421,11.0533223302011
-2024,"Manitoba","Nominal GDP Per Capita ($)",NA,NA
+2022,"Manitoba","Nominal GDP Per Capita ($)",62442.2531903123,11.0419974596656
+2023,"Manitoba","Nominal GDP Per Capita ($)",64027.5749689307,11.0670691284383
+2024,"Manitoba","Nominal GDP Per Capita ($)",64420.726149755,11.0731906949383
+2025,"Manitoba","Nominal GDP Per Capita ($)",NA,NA
 1901,"Saskatchewan","Nominal GDP Per Capita ($)",NA,NA
 1902,"Saskatchewan","Nominal GDP Per Capita ($)",NA,NA
 1903,"Saskatchewan","Nominal GDP Per Capita ($)",NA,NA
@@ -13264,9 +13370,10 @@
 2019,"Saskatchewan","Nominal GDP Per Capita ($)",72581.455614603,11.1924647358788
 2020,"Saskatchewan","Nominal GDP Per Capita ($)",66625.7775919876,11.1068468325743
 2021,"Saskatchewan","Nominal GDP Per Capita ($)",75662.5569169084,11.2340386924469
-2022,"Saskatchewan","Nominal GDP Per Capita ($)",97750.8687221829,11.4901773649916
-2023,"Saskatchewan","Nominal GDP Per Capita ($)",90714.7647371594,11.4154754093727
-2024,"Saskatchewan","Nominal GDP Per Capita ($)",NA,NA
+2022,"Saskatchewan","Nominal GDP Per Capita ($)",99496.4353458953,11.5078770968355
+2023,"Saskatchewan","Nominal GDP Per Capita ($)",93281.8401380864,11.4433807284275
+2024,"Saskatchewan","Nominal GDP Per Capita ($)",90425.4296127475,11.4122808078485
+2025,"Saskatchewan","Nominal GDP Per Capita ($)",NA,NA
 1901,"Alberta","Nominal GDP Per Capita ($)",NA,NA
 1902,"Alberta","Nominal GDP Per Capita ($)",NA,NA
 1903,"Alberta","Nominal GDP Per Capita ($)",NA,NA
@@ -13388,9 +13495,10 @@
 2019,"Alberta","Nominal GDP Per Capita ($)",80845.1254621586,11.3002905720579
 2020,"Alberta","Nominal GDP Per Capita ($)",68361.9607055708,11.1325718188775
 2021,"Alberta","Nominal GDP Per Capita ($)",85761.10603762,11.3593208731154
-2022,"Alberta","Nominal GDP Per Capita ($)",104811.021323076,11.5599142106361
-2023,"Alberta","Nominal GDP Per Capita ($)",96575.6533121686,11.4780819523283
-2024,"Alberta","Nominal GDP Per Capita ($)",NA,NA
+2022,"Alberta","Nominal GDP Per Capita ($)",104148.685131022,11.5535748218473
+2023,"Alberta","Nominal GDP Per Capita ($)",96192.9592268527,11.4741114450653
+2024,"Alberta","Nominal GDP Per Capita ($)",96543.9200819714,11.4777533141698
+2025,"Alberta","Nominal GDP Per Capita ($)",NA,NA
 1867,"British Columbia","Nominal GDP Per Capita ($)",NA,NA
 1868,"British Columbia","Nominal GDP Per Capita ($)",NA,NA
 1869,"British Columbia","Nominal GDP Per Capita ($)",NA,NA
@@ -13546,9 +13654,10 @@
 2019,"British Columbia","Nominal GDP Per Capita ($)",60456.2062147257,11.0096745176833
 2020,"British Columbia","Nominal GDP Per Capita ($)",59390.649448301,10.9918920762642
 2021,"British Columbia","Nominal GDP Per Capita ($)",68303.9758622372,11.1317232556104
-2022,"British Columbia","Nominal GDP Per Capita ($)",73846.0165831511,11.2097373472109
-2023,"British Columbia","Nominal GDP Per Capita ($)",74098.720558223,11.2131535447144
-2024,"British Columbia","Nominal GDP Per Capita ($)",NA,NA
+2022,"British Columbia","Nominal GDP Per Capita ($)",74671.687649111,11.2208562852088
+2023,"British Columbia","Nominal GDP Per Capita ($)",75148.2785330107,11.2272184878397
+2024,"British Columbia","Nominal GDP Per Capita ($)",75662.2067551455,11.2340340644964
+2025,"British Columbia","Nominal GDP Per Capita ($)",NA,NA
 1971,"Yukon","Nominal GDP Per Capita ($)",NA,NA
 1972,"Yukon","Nominal GDP Per Capita ($)",NA,NA
 1973,"Yukon","Nominal GDP Per Capita ($)",NA,NA
@@ -13600,9 +13709,10 @@
 2019,"Yukon","Nominal GDP Per Capita ($)",74683.7594386578,11.2210179370241
 2020,"Yukon","Nominal GDP Per Capita ($)",77267.7439344106,11.255031863328
 2021,"Yukon","Nominal GDP Per Capita ($)",84658.1783478038,11.346376996572
-2022,"Yukon","Nominal GDP Per Capita ($)",92756.264236902,11.4377305171314
-2023,"Yukon","Nominal GDP Per Capita ($)",95242.2849350021,11.4641792916507
-2024,"Yukon","Nominal GDP Per Capita ($)",NA,NA
+2022,"Yukon","Nominal GDP Per Capita ($)",88285.5775148738,11.388332038199
+2023,"Yukon","Nominal GDP Per Capita ($)",92076.0034346859,11.4303696392684
+2024,"Yukon","Nominal GDP Per Capita ($)",91375.1444479462,11.4227287778765
+2025,"Yukon","Nominal GDP Per Capita ($)",NA,NA
 1991,"Northwest Territories","Nominal GDP Per Capita ($)",NA,NA
 1992,"Northwest Territories","Nominal GDP Per Capita ($)",NA,NA
 1993,"Northwest Territories","Nominal GDP Per Capita ($)",NA,NA
@@ -13634,9 +13744,10 @@
 2019,"Northwest Territories","Nominal GDP Per Capita ($)",105080.779442869,11.5624846613859
 2020,"Northwest Territories","Nominal GDP Per Capita ($)",94216.2502246989,11.4533479533799
 2021,"Northwest Territories","Nominal GDP Per Capita ($)",107247.80726351,11.5828973914858
-2022,"Northwest Territories","Nominal GDP Per Capita ($)",123336.469955639,11.7226714277017
-2023,"Northwest Territories","Nominal GDP Per Capita ($)",122602.448468029,11.7167022734759
-2024,"Northwest Territories","Nominal GDP Per Capita ($)",NA,NA
+2022,"Northwest Territories","Nominal GDP Per Capita ($)",119647.778449956,11.6923075260932
+2023,"Northwest Territories","Nominal GDP Per Capita ($)",119827.856726588,11.6938114645664
+2024,"Northwest Territories","Nominal GDP Per Capita ($)",113197.958326889,11.636893408607
+2025,"Northwest Territories","Nominal GDP Per Capita ($)",NA,NA
 1991,"Nunavut","Nominal GDP Per Capita ($)",NA,NA
 1992,"Nunavut","Nominal GDP Per Capita ($)",NA,NA
 1993,"Nunavut","Nominal GDP Per Capita ($)",NA,NA
@@ -13668,9 +13779,10 @@
 2019,"Nunavut","Nominal GDP Per Capita ($)",92278.3799788872,11.4325651566382
 2020,"Nunavut","Nominal GDP Per Capita ($)",102991.463816206,11.5424013882066
 2021,"Nunavut","Nominal GDP Per Capita ($)",110213.041959786,11.6101705167908
-2022,"Nunavut","Nominal GDP Per Capita ($)",106780.038065106,11.5785262785357
-2023,"Nunavut","Nominal GDP Per Capita ($)",118550.368550369,11.6830932003067
-2024,"Nunavut","Nominal GDP Per Capita ($)",NA,NA
+2022,"Nunavut","Nominal GDP Per Capita ($)",108415.634312736,11.5937275855651
+2023,"Nunavut","Nominal GDP Per Capita ($)",119733.111741128,11.693020476026
+2024,"Nunavut","Nominal GDP Per Capita ($)",136875.150929727,11.8268244822352
+2025,"Nunavut","Nominal GDP Per Capita ($)",NA,NA
 1867,"Canada","Real GDP (Millions, $ 2020)",10585.3555783247,9.2672267756665
 1868,"Canada","Real GDP (Millions, $ 2020)",10732.0772265371,9.28099240743251
 1869,"Canada","Real GDP (Millions, $ 2020)",10897.139080776,9.29625556411247
@@ -13825,9 +13937,10 @@
 2018,"Canada","Real GDP (Millions, $ 2020)",2296008.05847076,14.6466825462024
 2019,"Canada","Real GDP (Millions, $ 2020)",2330574.49264706,14.661625358518
 2020,"Canada","Real GDP (Millions, $ 2020)",2220527,14.6132551130639
-2021,"Canada","Real GDP (Millions, $ 2020)",2435352.05508475,14.7056018851916
-2022,"Canada","Real GDP (Millions, $ 2020)",2549077.99603175,14.7512422815687
-2023,"Canada","Real GDP (Millions, $ 2020)",2522108.08402292,14.7406056510609
+2021,"Canada","Real GDP (Millions, $ 2020)",2453439.73163842,14.7130015699709
+2022,"Canada","Real GDP (Millions, $ 2020)",2583192.98941799,14.7645367845088
+2023,"Canada","Real GDP (Millions, $ 2020)",2558446.6581795,14.7549108581452
+2024,"Canada","Real GDP (Millions, $ 2020)",2615981.36730889,14.7771498689455
 1949,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",2348.1526058216,7.76138417279747
 1950,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",2433.68170682753,7.79716049541033
 1951,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",2707.52667277351,7.90379083026651
@@ -13901,9 +14014,10 @@
 2019,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",36082.375,10.4935597979525
 2020,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",32176,10.3789761120124
 2021,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",37421.511299435,10.5300009864907
-2022,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",37338.8425925926,10.5277894201663
-2023,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",33974.4302991725,10.4333634706425
-2024,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",38088.1746031746,10.5476591350682
+2023,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",35198.7969446213,10.4687671832925
+2024,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",35947.81230578,10.4898235074945
+2025,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",NA,NA
 1867,"Prince Edward Island","Real GDP (Millions, $ 2020)",NA,NA
 1868,"Prince Edward Island","Real GDP (Millions, $ 2020)",NA,NA
 1869,"Prince Edward Island","Real GDP (Millions, $ 2020)",NA,NA
@@ -14059,9 +14173,10 @@
 2019,"Prince Edward Island","Real GDP (Millions, $ 2020)",7494.70588235294,8.92195216791921
 2020,"Prince Edward Island","Real GDP (Millions, $ 2020)",7461,8.91744473247151
 2021,"Prince Edward Island","Real GDP (Millions, $ 2020)",8288.69350282486,9.02264763653255
-2022,"Prince Edward Island","Real GDP (Millions, $ 2020)",8572.46693121693,9.05631082678714
-2023,"Prince Edward Island","Real GDP (Millions, $ 2020)",8654.28389560789,9.06580972537824
-2024,"Prince Edward Island","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Prince Edward Island","Real GDP (Millions, $ 2020)",8606.89814814815,9.06031927097287
+2023,"Prince Edward Island","Real GDP (Millions, $ 2020)",8837.41565881604,9.0867497666024
+2024,"Prince Edward Island","Real GDP (Millions, $ 2020)",9271.55376009944,9.13470625617585
+2025,"Prince Edward Island","Real GDP (Millions, $ 2020)",NA,NA
 1867,"Nova Scotia","Real GDP (Millions, $ 2020)",NA,NA
 1868,"Nova Scotia","Real GDP (Millions, $ 2020)",NA,NA
 1869,"Nova Scotia","Real GDP (Millions, $ 2020)",NA,NA
@@ -14217,9 +14332,10 @@
 2019,"Nova Scotia","Real GDP (Millions, $ 2020)",47178.3676470588,10.761690753954
 2020,"Nova Scotia","Real GDP (Millions, $ 2020)",46165,10.7399772142067
 2021,"Nova Scotia","Real GDP (Millions, $ 2020)",49715.7132768362,10.8140763246277
-2022,"Nova Scotia","Real GDP (Millions, $ 2020)",49991.4087301587,10.8196064442498
-2023,"Nova Scotia","Real GDP (Millions, $ 2020)",51951.8650541057,10.8580728968282
-2024,"Nova Scotia","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Nova Scotia","Real GDP (Millions, $ 2020)",50947.3280423281,10.8385475945343
+2023,"Nova Scotia","Real GDP (Millions, $ 2020)",52748.0521960535,10.8732821254633
+2024,"Nova Scotia","Real GDP (Millions, $ 2020)",55632.7284027346,10.9265269473949
+2025,"Nova Scotia","Real GDP (Millions, $ 2020)",NA,NA
 1867,"New Brunswick","Real GDP (Millions, $ 2020)",NA,NA
 1868,"New Brunswick","Real GDP (Millions, $ 2020)",NA,NA
 1869,"New Brunswick","Real GDP (Millions, $ 2020)",NA,NA
@@ -14375,9 +14491,10 @@
 2019,"New Brunswick","Real GDP (Millions, $ 2020)",38336.8308823529,10.5541663549243
 2020,"New Brunswick","Real GDP (Millions, $ 2020)",37354,10.5281952798736
 2021,"New Brunswick","Real GDP (Millions, $ 2020)",39948.6581920904,10.5953503634486
-2022,"New Brunswick","Real GDP (Millions, $ 2020)",41291.1838624339,10.6284042903614
-2023,"New Brunswick","Real GDP (Millions, $ 2020)",41017.1546785487,10.6217456649726
-2024,"New Brunswick","Real GDP (Millions, $ 2020)",NA,NA
+2022,"New Brunswick","Real GDP (Millions, $ 2020)",40694.9801587302,10.6138600262006
+2023,"New Brunswick","Real GDP (Millions, $ 2020)",40518.3386378103,10.6095099564808
+2024,"New Brunswick","Real GDP (Millions, $ 2020)",41127.2467371038,10.6244261184807
+2025,"New Brunswick","Real GDP (Millions, $ 2020)",NA,NA
 1867,"Quebec","Real GDP (Millions, $ 2020)",NA,NA
 1868,"Quebec","Real GDP (Millions, $ 2020)",NA,NA
 1869,"Quebec","Real GDP (Millions, $ 2020)",NA,NA
@@ -14533,9 +14650,10 @@
 2019,"Quebec","Real GDP (Millions, $ 2020)",463197,13.045907728536
 2020,"Quebec","Real GDP (Millions, $ 2020)",451344,13.019985077185
 2021,"Quebec","Real GDP (Millions, $ 2020)",490978.587570621,13.1041557959899
-2022,"Quebec","Real GDP (Millions, $ 2020)",499869.689153439,13.1221027217435
-2023,"Quebec","Real GDP (Millions, $ 2020)",505321.578612349,13.1329502949246
-2024,"Quebec","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Quebec","Real GDP (Millions, $ 2020)",503909.014550265,13.1301510040706
+2023,"Quebec","Real GDP (Millions, $ 2020)",507968.268618714,13.1381742612607
+2024,"Quebec","Real GDP (Millions, $ 2020)",525156.165320075,13.1714509550945
+2025,"Quebec","Real GDP (Millions, $ 2020)",NA,NA
 1867,"Ontario","Real GDP (Millions, $ 2020)",NA,NA
 1868,"Ontario","Real GDP (Millions, $ 2020)",NA,NA
 1869,"Ontario","Real GDP (Millions, $ 2020)",NA,NA
@@ -14691,9 +14809,10 @@
 2019,"Ontario","Real GDP (Millions, $ 2020)",899791.823529412,13.7099187083613
 2020,"Ontario","Real GDP (Millions, $ 2020)",874354,13.6812406069584
 2021,"Ontario","Real GDP (Millions, $ 2020)",938629.957627119,13.7521765991857
-2022,"Ontario","Real GDP (Millions, $ 2020)",962002.764550265,13.7767726033966
-2023,"Ontario","Real GDP (Millions, $ 2020)",976305.95162317,13.7915312912959
-2024,"Ontario","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Ontario","Real GDP (Millions, $ 2020)",965215.740740741,13.7801069208685
+2023,"Ontario","Real GDP (Millions, $ 2020)",992916.002546149,13.8084013498685
+2024,"Ontario","Real GDP (Millions, $ 2020)",1019215.28899938,13.8345435646681
+2025,"Ontario","Real GDP (Millions, $ 2020)",NA,NA
 1867,"Manitoba","Real GDP (Millions, $ 2020)",NA,NA
 1868,"Manitoba","Real GDP (Millions, $ 2020)",NA,NA
 1869,"Manitoba","Real GDP (Millions, $ 2020)",NA,NA
@@ -14849,9 +14968,10 @@
 2019,"Manitoba","Real GDP (Millions, $ 2020)",75174.7205882353,11.2275702910322
 2020,"Manitoba","Real GDP (Millions, $ 2020)",72963,11.1977077423239
 2021,"Manitoba","Real GDP (Millions, $ 2020)",76705.4872881356,11.2477285270145
-2022,"Manitoba","Real GDP (Millions, $ 2020)",79627.6256613757,11.2851163676699
-2023,"Manitoba","Real GDP (Millions, $ 2020)",80117.5302355188,11.2912499634873
-2024,"Manitoba","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Manitoba","Real GDP (Millions, $ 2020)",79972.8439153439,11.2894424049713
+2023,"Manitoba","Real GDP (Millions, $ 2020)",81140.4519414386,11.3039369066419
+2024,"Manitoba","Real GDP (Millions, $ 2020)",81846.6438781852,11.3126025786377
+2025,"Manitoba","Real GDP (Millions, $ 2020)",NA,NA
 1901,"Saskatchewan","Real GDP (Millions, $ 2020)",NA,NA
 1902,"Saskatchewan","Real GDP (Millions, $ 2020)",NA,NA
 1903,"Saskatchewan","Real GDP (Millions, $ 2020)",NA,NA
@@ -14973,9 +15093,10 @@
 2019,"Saskatchewan","Real GDP (Millions, $ 2020)",85122.3308823529,11.3518446876868
 2020,"Saskatchewan","Real GDP (Millions, $ 2020)",77778,11.2616138938281
 2021,"Saskatchewan","Real GDP (Millions, $ 2020)",85481.8079096045,11.3560588592984
-2022,"Saskatchewan","Real GDP (Millions, $ 2020)",104376.421957672,11.5557590856069
-2023,"Saskatchewan","Real GDP (Millions, $ 2020)",95666.2889879058,11.4686212582042
-2024,"Saskatchewan","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Saskatchewan","Real GDP (Millions, $ 2020)",106271.044973545,11.5737481375126
+2023,"Saskatchewan","Real GDP (Millions, $ 2020)",98450.7638446849,11.497311842744
+2024,"Saskatchewan","Real GDP (Millions, $ 2020)",96077.9552517091,11.4729151748008
+2025,"Saskatchewan","Real GDP (Millions, $ 2020)",NA,NA
 1901,"Alberta","Real GDP (Millions, $ 2020)",NA,NA
 1902,"Alberta","Real GDP (Millions, $ 2020)",NA,NA
 1903,"Alberta","Real GDP (Millions, $ 2020)",NA,NA
@@ -15097,9 +15218,10 @@
 2019,"Alberta","Real GDP (Millions, $ 2020)",354700.051470588,12.7790277858719
 2020,"Alberta","Real GDP (Millions, $ 2020)",301305,12.6158783197368
 2021,"Alberta","Real GDP (Millions, $ 2020)",367706.645480226,12.8150407402297
-2022,"Alberta","Real GDP (Millions, $ 2020)",428375.079365079,12.967754444447
-2023,"Alberta","Real GDP (Millions, $ 2020)",394526.86187142,12.8854425078788
-2024,"Alberta","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Alberta","Real GDP (Millions, $ 2020)",425855.257936508,12.9618547974145
+2023,"Alberta","Real GDP (Millions, $ 2020)",393304.239338001,12.8823387372532
+2024,"Alberta","Real GDP (Millions, $ 2020)",403538.651336234,12.9080275522811
+2025,"Alberta","Real GDP (Millions, $ 2020)",NA,NA
 1867,"British Columbia","Real GDP (Millions, $ 2020)",NA,NA
 1868,"British Columbia","Real GDP (Millions, $ 2020)",NA,NA
 1869,"British Columbia","Real GDP (Millions, $ 2020)",NA,NA
@@ -15255,9 +15377,10 @@
 2019,"British Columbia","Real GDP (Millions, $ 2020)",311265.007352941,12.6483999419937
 2020,"British Columbia","Real GDP (Millions, $ 2020)",307412,12.6359441464099
 2021,"British Columbia","Real GDP (Millions, $ 2020)",345404.47740113,12.7524714075555
-2022,"British Columbia","Real GDP (Millions, $ 2020)",358473.366402116,12.7896096444967
-2023,"British Columbia","Real GDP (Millions, $ 2020)",357439.191597709,12.7867205332157
-2024,"British Columbia","Real GDP (Millions, $ 2020)",NA,NA
+2022,"British Columbia","Real GDP (Millions, $ 2020)",362573.3994709,12.8009822140793
+2023,"British Columbia","Real GDP (Millions, $ 2020)",361436.696371738,12.7978421914756
+2024,"British Columbia","Real GDP (Millions, $ 2020)",365352.34928527,12.8086175074307
+2025,"British Columbia","Real GDP (Millions, $ 2020)",NA,NA
 1971,"Yukon","Real GDP (Millions, $ 2020)",NA,NA
 1972,"Yukon","Real GDP (Millions, $ 2020)",NA,NA
 1973,"Yukon","Real GDP (Millions, $ 2020)",NA,NA
@@ -15309,9 +15432,10 @@
 2019,"Yukon","Real GDP (Millions, $ 2020)",3098.61764705882,8.03871137071761
 2020,"Yukon","Real GDP (Millions, $ 2020)",3242,8.08394570229562
 2021,"Yukon","Real GDP (Millions, $ 2020)",3518.8488700565,8.16588918955549
-2022,"Yukon","Real GDP (Millions, $ 2020)",3689.57671957672,8.21326702031305
-2023,"Yukon","Real GDP (Millions, $ 2020)",3776.00254614895,8.23642120156308
-2024,"Yukon","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Yukon","Real GDP (Millions, $ 2020)",3509.26587301587,8.16316214159744
+2023,"Yukon","Real GDP (Millions, $ 2020)",3646.93825588797,8.20164326055513
+2024,"Yukon","Real GDP (Millions, $ 2020)",3703.00186451212,8.21689908442743
+2025,"Yukon","Real GDP (Millions, $ 2020)",NA,NA
 1991,"Northwest Territories","Real GDP (Millions, $ 2020)",NA,NA
 1992,"Northwest Territories","Real GDP (Millions, $ 2020)",NA,NA
 1993,"Northwest Territories","Real GDP (Millions, $ 2020)",NA,NA
@@ -15343,9 +15467,10 @@
 2019,"Northwest Territories","Real GDP (Millions, $ 2020)",4704.33823529412,8.45624039075502
 2020,"Northwest Territories","Real GDP (Millions, $ 2020)",4193,8.34117174717076
 2021,"Northwest Territories","Real GDP (Millions, $ 2020)",4625.68502824859,8.43937975319461
-2022,"Northwest Territories","Real GDP (Millions, $ 2020)",4987.99603174603,8.51478951123947
-2023,"Northwest Territories","Real GDP (Millions, $ 2020)",4777.12285168682,8.47159373038957
-2024,"Northwest Territories","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Northwest Territories","Real GDP (Millions, $ 2020)",4838.49206349206,8.48435839403693
+2023,"Northwest Territories","Real GDP (Millions, $ 2020)",4662.01145767027,8.44720227726541
+2024,"Northwest Territories","Real GDP (Millions, $ 2020)",4362.03231821007,8.38069335576899
+2025,"Northwest Territories","Real GDP (Millions, $ 2020)",NA,NA
 1991,"Nunavut","Real GDP (Millions, $ 2020)",NA,NA
 1992,"Nunavut","Real GDP (Millions, $ 2020)",NA,NA
 1993,"Nunavut","Real GDP (Millions, $ 2020)",NA,NA
@@ -15377,9 +15502,10 @@
 2019,"Nunavut","Real GDP (Millions, $ 2020)",3610.35294117647,8.19156081418689
 2020,"Nunavut","Real GDP (Millions, $ 2020)",4066,8.31041499418829
 2021,"Nunavut","Real GDP (Millions, $ 2020)",4274.47740112994,8.36041712854857
-2022,"Nunavut","Real GDP (Millions, $ 2020)",3914.28571428572,8.27238814332085
-2023,"Nunavut","Real GDP (Millions, $ 2020)",4207.67027371101,8.34466439433964
-2024,"Nunavut","Real GDP (Millions, $ 2020)",NA,NA
+2022,"Nunavut","Real GDP (Millions, $ 2020)",3988.58465608466,8.2911917241691
+2023,"Nunavut","Real GDP (Millions, $ 2020)",4272.2024188415,8.35988476220512
+2024,"Nunavut","Real GDP (Millions, $ 2020)",4826.07830950901,8.48178947264036
+2025,"Nunavut","Real GDP (Millions, $ 2020)",NA,NA
 1867,"Canada","National Inflation (%)",NA,NA
 1868,"Canada","National Inflation (%)",NA,NA
 1869,"Canada","National Inflation (%)",NA,NA
@@ -15537,6 +15663,7 @@
 2021,"Canada","National Inflation (%)",3.35766423357664,NA
 2022,"Canada","National Inflation (%)",6.77966101694913,NA
 2023,"Canada","National Inflation (%)",3.90211640211642,NA
+2024,"Canada","National Inflation (%)",2.41884150222789,NA
 1949,"Newfoundland and Labrador","National Inflation (%)",NA,NA
 1950,"Newfoundland and Labrador","National Inflation (%)",NA,NA
 1951,"Newfoundland and Labrador","National Inflation (%)",NA,NA
@@ -15613,6 +15740,7 @@
 2022,"Newfoundland and Labrador","National Inflation (%)",NA,NA
 2023,"Newfoundland and Labrador","National Inflation (%)",NA,NA
 2024,"Newfoundland and Labrador","National Inflation (%)",NA,NA
+2025,"Newfoundland and Labrador","National Inflation (%)",NA,NA
 1867,"Prince Edward Island","National Inflation (%)",NA,NA
 1868,"Prince Edward Island","National Inflation (%)",NA,NA
 1869,"Prince Edward Island","National Inflation (%)",NA,NA
@@ -15771,6 +15899,7 @@
 2022,"Prince Edward Island","National Inflation (%)",NA,NA
 2023,"Prince Edward Island","National Inflation (%)",NA,NA
 2024,"Prince Edward Island","National Inflation (%)",NA,NA
+2025,"Prince Edward Island","National Inflation (%)",NA,NA
 1867,"Nova Scotia","National Inflation (%)",NA,NA
 1868,"Nova Scotia","National Inflation (%)",NA,NA
 1869,"Nova Scotia","National Inflation (%)",NA,NA
@@ -15929,6 +16058,7 @@
 2022,"Nova Scotia","National Inflation (%)",NA,NA
 2023,"Nova Scotia","National Inflation (%)",NA,NA
 2024,"Nova Scotia","National Inflation (%)",NA,NA
+2025,"Nova Scotia","National Inflation (%)",NA,NA
 1867,"New Brunswick","National Inflation (%)",NA,NA
 1868,"New Brunswick","National Inflation (%)",NA,NA
 1869,"New Brunswick","National Inflation (%)",NA,NA
@@ -16087,6 +16217,7 @@
 2022,"New Brunswick","National Inflation (%)",NA,NA
 2023,"New Brunswick","National Inflation (%)",NA,NA
 2024,"New Brunswick","National Inflation (%)",NA,NA
+2025,"New Brunswick","National Inflation (%)",NA,NA
 1867,"Quebec","National Inflation (%)",NA,NA
 1868,"Quebec","National Inflation (%)",NA,NA
 1869,"Quebec","National Inflation (%)",NA,NA
@@ -16245,6 +16376,7 @@
 2022,"Quebec","National Inflation (%)",NA,NA
 2023,"Quebec","National Inflation (%)",NA,NA
 2024,"Quebec","National Inflation (%)",NA,NA
+2025,"Quebec","National Inflation (%)",NA,NA
 1867,"Ontario","National Inflation (%)",NA,NA
 1868,"Ontario","National Inflation (%)",NA,NA
 1869,"Ontario","National Inflation (%)",NA,NA
@@ -16403,6 +16535,7 @@
 2022,"Ontario","National Inflation (%)",NA,NA
 2023,"Ontario","National Inflation (%)",NA,NA
 2024,"Ontario","National Inflation (%)",NA,NA
+2025,"Ontario","National Inflation (%)",NA,NA
 1867,"Manitoba","National Inflation (%)",NA,NA
 1868,"Manitoba","National Inflation (%)",NA,NA
 1869,"Manitoba","National Inflation (%)",NA,NA
@@ -16561,6 +16694,7 @@
 2022,"Manitoba","National Inflation (%)",NA,NA
 2023,"Manitoba","National Inflation (%)",NA,NA
 2024,"Manitoba","National Inflation (%)",NA,NA
+2025,"Manitoba","National Inflation (%)",NA,NA
 1901,"Saskatchewan","National Inflation (%)",NA,NA
 1902,"Saskatchewan","National Inflation (%)",NA,NA
 1903,"Saskatchewan","National Inflation (%)",NA,NA
@@ -16685,6 +16819,7 @@
 2022,"Saskatchewan","National Inflation (%)",NA,NA
 2023,"Saskatchewan","National Inflation (%)",NA,NA
 2024,"Saskatchewan","National Inflation (%)",NA,NA
+2025,"Saskatchewan","National Inflation (%)",NA,NA
 1901,"Alberta","National Inflation (%)",NA,NA
 1902,"Alberta","National Inflation (%)",NA,NA
 1903,"Alberta","National Inflation (%)",NA,NA
@@ -16809,6 +16944,7 @@
 2022,"Alberta","National Inflation (%)",NA,NA
 2023,"Alberta","National Inflation (%)",NA,NA
 2024,"Alberta","National Inflation (%)",NA,NA
+2025,"Alberta","National Inflation (%)",NA,NA
 1867,"British Columbia","National Inflation (%)",NA,NA
 1868,"British Columbia","National Inflation (%)",NA,NA
 1869,"British Columbia","National Inflation (%)",NA,NA
@@ -16967,6 +17103,7 @@
 2022,"British Columbia","National Inflation (%)",NA,NA
 2023,"British Columbia","National Inflation (%)",NA,NA
 2024,"British Columbia","National Inflation (%)",NA,NA
+2025,"British Columbia","National Inflation (%)",NA,NA
 1971,"Yukon","National Inflation (%)",NA,NA
 1972,"Yukon","National Inflation (%)",NA,NA
 1973,"Yukon","National Inflation (%)",NA,NA
@@ -17021,6 +17158,7 @@
 2022,"Yukon","National Inflation (%)",NA,NA
 2023,"Yukon","National Inflation (%)",NA,NA
 2024,"Yukon","National Inflation (%)",NA,NA
+2025,"Yukon","National Inflation (%)",NA,NA
 1991,"Northwest Territories","National Inflation (%)",NA,NA
 1992,"Northwest Territories","National Inflation (%)",NA,NA
 1993,"Northwest Territories","National Inflation (%)",NA,NA
@@ -17055,6 +17193,7 @@
 2022,"Northwest Territories","National Inflation (%)",NA,NA
 2023,"Northwest Territories","National Inflation (%)",NA,NA
 2024,"Northwest Territories","National Inflation (%)",NA,NA
+2025,"Northwest Territories","National Inflation (%)",NA,NA
 1991,"Nunavut","National Inflation (%)",NA,NA
 1992,"Nunavut","National Inflation (%)",NA,NA
 1993,"Nunavut","National Inflation (%)",NA,NA
@@ -17089,3 +17228,4 @@
 2022,"Nunavut","National Inflation (%)",NA,NA
 2023,"Nunavut","National Inflation (%)",NA,NA
 2024,"Nunavut","National Inflation (%)",NA,NA
+2025,"Nunavut","National Inflation (%)",NA,NA
