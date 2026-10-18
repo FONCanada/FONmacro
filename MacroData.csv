@@ -158,6 +158,7 @@
 2023,"Canada","Nominal GDP (Millions)",2965201,14.90245537901
 2024,"Canada","Nominal GDP (Millions)",3108551,14.9496672591839
 2025,"Canada","Nominal GDP (Millions)",3245257,14.9927051037516
+2026,"Canada","Nominal GDP (Millions)",3383106,15.0343047804082
 1949,"Newfoundland and Labrador","Nominal GDP (Millions)",209.10556051842,5.34283919870856
 1950,"Newfoundland and Labrador","Nominal GDP (Millions)",222.05125062295,5.40290821389046
 1951,"Newfoundland and Labrador","Nominal GDP (Millions)",272.728964118792,5.60847849660155
@@ -1895,6 +1896,7 @@
 2023,"Canada","Population",39905784.25,17.5020318400248
 2024,"Canada","Population",41029607,17.5298044860152
 2025,"Canada","Population",41566056.25,17.5427944366297
+2026,"Canada","Population",41744389.6666667,17.5470756209899
 1949,"Newfoundland and Labrador","Population",345000,12.7512996960135
 1950,"Newfoundland and Labrador","Population",351000,12.768541502448
 1951,"Newfoundland and Labrador","Population",361400,12.7977406571403
@@ -3632,6 +3634,7 @@
 2023,"Canada","Provincial CPI (2020=100)",114.671532846715,4.74207180542154
 2024,"Canada","Provincial CPI (2020=100)",117.445255474453,4.7659723141583
 2025,"Canada","Provincial CPI (2020=100)",119.85401459854,4.78627445717829
+2026,"Canada","Provincial CPI (2020=100)",NA,NA
 1949,"Newfoundland and Labrador","Provincial CPI (2020=100)",9.19093762608476,2.21821795794067
 1950,"Newfoundland and Labrador","Provincial CPI (2020=100)",9.47815442689991,2.24898961660742
 1951,"Newfoundland and Labrador","Provincial CPI (2020=100)",10.4116090295491,2.34292143644162
@@ -5369,6 +5372,7 @@
 2023,"Canada","Canada-Wide CPI (2020=100)",114.671532846715,4.74207180542154
 2024,"Canada","Canada-Wide CPI (2020=100)",117.445255474453,4.7659723141583
 2025,"Canada","Canada-Wide CPI (2020=100)",119.85401459854,4.78627445717829
+2026,"Canada","Canada-Wide CPI (2020=100)",NA,NA
 1949,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",8.90510948905109,2.18662521189918
 1950,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",9.12408759124088,2.21091790446822
 1951,"Newfoundland and Labrador","Canada-Wide CPI (2020=100)",10.0729927007299,2.30985785232313
@@ -7106,6 +7110,7 @@
 2023,"Canada","Employment",20334800,16.8278442620157
 2024,"Canada","Employment",20730500,16.8471166037545
 2025,"Canada","Employment",21028700,16.8613987293155
+2026,"Canada","Employment",NA,NA
 1949,"Newfoundland and Labrador","Employment",NA,NA
 1950,"Newfoundland and Labrador","Employment",90993.6922253879,11.418545466892
 1951,"Newfoundland and Labrador","Employment",95098.6708220219,11.4626702718009
@@ -8611,7 +8616,7 @@
 2023,"Yukon","Employment",24858.3333333333,10.1209483207148
 2024,"Yukon","Employment",26383.3333333333,10.180487776641
 2025,"Yukon","Employment",27116.6666666667,10.2079038239791
-2026,"Yukon","Employment",26912.5,10.2003461416726
+2026,"Yukon","Employment",26911.1111111111,10.2002945327649
 1991,"Northwest Territories","Employment",NA,NA
 1992,"Northwest Territories","Employment",NA,NA
 1993,"Northwest Territories","Employment",NA,NA
@@ -8647,7 +8652,7 @@
 2023,"Northwest Territories","Employment",23608.3333333333,10.0693550360306
 2024,"Northwest Territories","Employment",22933.3333333333,10.0403467352533
 2025,"Northwest Territories","Employment",22975,10.0421619472239
-2026,"Northwest Territories","Employment",23525,10.0658189644536
+2026,"Northwest Territories","Employment",23588.8888888889,10.0685310703551
 1991,"Nunavut","Employment",NA,NA
 1992,"Nunavut","Employment",NA,NA
 1993,"Nunavut","Employment",NA,NA
@@ -8683,7 +8688,7 @@
 2023,"Nunavut","Employment",14000,9.5468126085974
 2024,"Nunavut","Employment",14300,9.568014816248
 2025,"Nunavut","Employment",14516.6666666667,9.58305269361254
-2026,"Nunavut","Employment",15212.5,9.62987273729578
+2026,"Nunavut","Employment",15233.3333333333,9.63124128821419
 1867,"Canada","Real GDP Per Capita ($ 2020)",3058.56719820874,8.02570184941028
 1868,"Canada","Real GDP Per Capita ($ 2020)",3058.56719820873,8.02570184941028
 1869,"Canada","Real GDP Per Capita ($ 2020)",3058.56719820873,8.02570184941028
@@ -8843,6 +8848,7 @@
 2023,"Canada","Real GDP Per Capita ($ 2020)",64798.1593935235,11.079032477516
 2024,"Canada","Real GDP Per Capita ($ 2020)",64509.7208939931,11.0745712029628
 2025,"Canada","Real GDP Per Capita ($ 2020)",65141.4900988235,11.0843169538959
+2026,"Canada","Real GDP Per Capita ($ 2020)",NA,NA
 1949,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",6806.23943716407,8.82559503474825
 1950,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",6933.56611631776,8.8441295509266
 1951,"Newfoundland and Labrador","Real GDP Per Capita ($ 2020)",7491.77275255538,8.92156073109052
@@ -10580,6 +10586,7 @@
 2023,"Canada","Real GDP Per Worker ($ 2020)",127162.370348125,11.7532200555252
 2024,"Canada","Real GDP Per Worker ($ 2020)",127677.021584632,11.7572590852235
 2025,"Canada","Real GDP Per Worker ($ 2020)",128760.923958995,11.7657126612102
+2026,"Canada","Real GDP Per Worker ($ 2020)",NA,NA
 1949,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",NA,NA
 1950,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",26745.6089241812,10.1941255864826
 1951,"Newfoundland and Labrador","Real GDP Per Worker ($ 2020)",28470.7099412638,10.2566311164299
@@ -12317,6 +12324,7 @@
 2023,"Canada","Nominal GDP Per Capita ($)",74305.0426330113,11.2159340969495
 2024,"Canada","Nominal GDP Per Capita ($)",75763.6065098064,11.235373331133
 2025,"Canada","Nominal GDP Per Capita ($)",78074.6910527505,11.2654212250861
+2026,"Canada","Nominal GDP Per Capita ($)",81043.3695884514,11.3027397173826
 1949,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",606.103073966436,6.40705006065934
 1950,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",632.624645649431,6.44987726940673
 1951,"Newfoundland and Labrador","Nominal GDP Per Capita ($)",754.645722520177,6.62624839742556
@@ -14054,6 +14062,7 @@
 2023,"Canada","Real GDP (Millions, $ 2020)",2585821.36855506,14.7655537595766
 2024,"Canada","Real GDP (Millions, $ 2020)",2646808.49596022,14.7888651310137
 2025,"Canada","Real GDP (Millions, $ 2020)",2707674.84165652,14.8116008325614
+2026,"Canada","Real GDP (Millions, $ 2020)",NA,NA
 1949,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",2348.1526058216,7.76138417279747
 1950,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",2433.68170682753,7.79716049541033
 1951,"Newfoundland and Labrador","Real GDP (Millions, $ 2020)",2707.52667277351,7.90379083026651
@@ -15791,6 +15800,7 @@
 2023,"Canada","National Inflation (%)",3.90211640211642,NA
 2024,"Canada","National Inflation (%)",2.41884150222789,NA
 2025,"Canada","National Inflation (%)",2.05096333126165,NA
+2026,"Canada","National Inflation (%)",NA,NA
 1949,"Newfoundland and Labrador","National Inflation (%)",NA,NA
 1950,"Newfoundland and Labrador","National Inflation (%)",NA,NA
 1951,"Newfoundland and Labrador","National Inflation (%)",NA,NA
